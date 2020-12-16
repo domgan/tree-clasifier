@@ -1,0 +1,1 @@
+Wytrenuj sobie model i bzikaj!

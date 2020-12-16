@@ -1,0 +1,295 @@
+<!DOCTYPE html><html lang="sk">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>UNIVERZITA PAVLA JOZEFA ŠAFÁRIKA V KOŠICIACH</title>
+<meta name="author" content="UPJS.SK">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta property="og:title" content="UNIVERZITA PAVLA JOZEFA ŠAFÁRIKA V KOŠICIACH">
+<meta property="og:type" content="website">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://www.upjs.sk/public/themes/images/logo-fb.jpg">
+<link property="" rel="shortcut icon" type="image/x-icon" href="/public/themes/favicons/favicon.ico">
+<link property="" rel="apple-touch-icon-precomposed" href="/public/themes/favicons/apple-touch-icon-57x57.png">
+<link property="" rel="apple-touch-icon-precomposed" href="/public/themes/favicons/apple-touch-icon-114x114.png">
+<link property="" rel="apple-touch-icon-precomposed" href="/public/themes/favicons/apple-touch-icon-72x72.png">
+<link property="" rel="apple-touch-icon-precomposed" href="/public/themes/favicons/apple-touch-icon-144x144.png">
+<link property="" rel="apple-touch-icon-precomposed" href="/public/themes/favicons/apple-touch-icon-60x60.png">
+<link property="" rel="apple-touch-icon-precomposed" href="/public/themes/favicons/apple-touch-icon-120x120.png">
+<link property="" rel="apple-touch-icon-precomposed" href="/public/themes/favicons/apple-touch-icon-76x76.png">
+<link property="" rel="apple-touch-icon-precomposed" href="/public/themes/favicons/apple-touch-icon-152x152.png">
+<link property="" rel="icon" type="image/png" href="/public/themes/favicons/favicon-196x196.png">
+<link property="" rel="icon" type="image/png" href="/public/themes/favicons/favicon-96x96.png">
+<link property="" rel="icon" type="image/png" href="/public/themes/favicons/favicon-32x32.png">
+<link property="" rel="icon" type="image/png" href="/public/themes/favicons/favicon-16x16.png">
+<link property="" rel="icon" type="image/png" href="/public/themes/favicons/favicon-128.png">
+<meta name="application-name" content="UNIVERZITA PAVLA JOZEFA ŠAFÁRIKA V KOŠICIACH">
+<meta name="msapplication-TileColor" content="#cf8739">
+<meta name="theme-color" content="#cf8739">
+<meta name="msapplication-TileImage" content="/public/themes/favicons/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="/public/themes/favicons/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="/public/themes/favicons/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="/public/themes/favicons/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="/public/themes/favicons/mstile-310x310.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500%7COpen+Sans:300&amp;subset=latin,latin-ext">
+<link property="" rel="stylesheet" href="/public/themes/css/style.css?v=2.0.47">
+<link property="" rel="stylesheet" href="/public/themes/fontawesome/css/font-awesome.min.css">
+<link property="" rel="stylesheet" href="/public/themes/css/fade-slide.css?v=2.0.47">
+<link property="" rel="stylesheet" href="/public/themes/screen2.css?v=2.0.47">
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+                <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]--><script type="text/javascript"><!--
+var WEBROOT = '';
+var LANGROOT = '';
+//--></script><link property="" rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss/">
+<link rel="stylesheet" href="/public/themes/print.css" type="text/css" media="print">
+<link property="" rel="stylesheet" href="/public/themes/css/datepicker.css?v=2.0.47" type="text/css" media="screen">
+<link property="" rel="stylesheet" href="/public/themes/lightbox/lightbox.min.css?v=2.0.47" type="text/css" media="screen">
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5dbfde98f736080012d51fff&amp;product=inline-share-buttons" async="async"></script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TG8FMF9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div id="nav-darkarea"></div>
+<h1 class="print-version">UNIVERZITA PAVLA JOZEFA ŠAFÁRIKA V KOŠICIACH</h1>
+<header id="main-header"><div class="container">
+<div class="row">
+<div class="col-xs-24 col-sm-5 col-md-4 col-lg-2 col-logo" onclick="location.href='/'"><a href="/"></a></div>
+<div class="col-xs-24 col-sm-19 col-md-20 col-lg-12 col-name home-uni" onclick="location.href='../'">
+<a href="/"></a><div style="bottom:0;font-size: 1.3em;padding-top:70px;text-transform:none;color:#CF8738;padding-left: 3px;font-weight:400">Botanická záhrada</div>
+</div>
+<div class="col-xs-4 col-nav-toggle"><button id="togglenav" class="button button-circle"><i class="icon icon-bars"></i></button></div>
+<div class="col-xs-24 col-language">
+<form method="get" action="/" class="changeLang">
+<input type="hidden" name="prefferedLang" value="SK"><input type="submit" title="slovensky" value="" class="button language__button language__button--active" style="background: url('/public/images/lng/sk.jpg') center no-repeat;">
+</form>
+<form method="get" action="/en/" class="changeLang">
+<input type="hidden" name="prefferedLang" value="EN"><input type="submit" title="english" value="" class="button language__button" style="background: url('/public/images/lng/en.jpg') center no-repeat;">
+</form>
+<a href="https://www.upjs.sk/ua/?prefferedLang=UA" class="special-lang-ua" title="українська"><img src="/public/images/lng/ua.jpg" alt="українська" style="opacity: 0.65;filter: alpha(opacity=65);"></a>
+</div>
+<div class="col-xs-24 mobile-navigation"></div>
+<div class="col-xs-24 col-search"><form id="quickSearchForm" autocomplete="off" action="/search/"><div class="form-icon form-header">
+<button type="submit" class="button button-search"><i class="icon icon-search"></i></button><a href="#" class="button button-caret"><i class="icon icon-caret-down"></i></a><input type="text" id="quickSearchQ" class="input" name="q" value="" placeholder="Vyhľadať"><div class="search-sub-menu" id="search-sub-menu">
+<div id="web" class="search-sub-menu-item">
+<i class="icon icon-chevron-small-right"></i>Web stránka</div>
+<div id="ais-employee" class="ais-search search-sub-menu-item">
+<i class="icon icon-chevron-small-right"></i>Vyhľadávanie zamestnanca</div>
+<!--Vyhľadávanie študenta--><div id="voip" class="search-sub-menu-item">
+<i class="icon icon-chevron-small-right"></i>Telefónny zoznam</div>
+</div>
+</div></form></div>
+<div class="col-xs-24 col-header-button"><a class="" target="_blank" href="https://ais2.upjs.sk/ais/start.do" title="Vstup do AiS2"><img src="/public/themes/images/ais2.gif" alt="AIS2"></a></div>
+</div>
+<ul class="social float-right margin-special">
+<li><a class="button button-circle" onclick="window.open(this.href);return false;" href="https://intranet.upjs.sk/" title="Intranet UPJŠ"><i class="icon icon-globe"></i></a></li>
+<li><a class="button button-circle" href="https://www.upjs.sk/univerzita/rss-upjs/" title="RSS"><i class="icon icon-rss"></i></a></li>
+<li><a class="button button-circle button-linkedin" target="_blank" href="https://www.linkedin.com/company/pavol-jozef-%C5%A1af%C3%A1rik-university-in-ko%C5%A1ice/" title="Linked in"><i class="icon icon-linkedin"></i></a></li>
+<li><a class="button button-circle button-twitter" target="_blank" href="https://twitter.com/UPJS_kosice" title="Twitter"><i class="icon icon-twitter"></i></a></li>
+<li><a class="button button-circle button-instagram" target="_blank" href="https://www.instagram.com/upjs_kosice" title="Instagram"><i class="icon icon-instagram"></i></a></li>
+<li><a target="_blank" title="Facebook" class="button button-circle button-facebook" href="https://www.facebook.com/UniverzitaPavlaJozefaSafarikaVkosiciach/"><i class="icon icon-facebook"></i></a></li>
+<li><a target="_blank" title="Youtube" class="button button-circle button-youtube" href="https://www.youtube.com/channel/UCqXJC56kodJZaymWH7S8kJQ"><i class="icon icon-youtube"></i></a></li>
+<li><div class="sharethis-inline-share-buttons"></div></li>
+</ul>
+</div>
+<nav id="nav"><div class="container"><ul id="navigation">
+<li><a class="first withouthover" href="/" title="Univerzita">Univerzita</a></li>
+<li>
+<a class="first" href="javascript:void(0);" title="Botanická záhrada">Botanická záhrada</a><ul class="subnav animated">
+<li><a href="/pracoviska/botanicka-zahrada/aktuality" title="/Aktuality">Aktuality</a></li>
+<li><a href="/pracoviska/botanicka-zahrada/konferencia" title="/Konferencia, 70 rokov BZ UPJŠ / Conference, 70 years of Botanical Garden">Konferencia, 70 rokov BZ UPJŠ / Conference, 70 years of Botanical Garden</a></li>
+<li><a href="/pracoviska/botanicka-zahrada/vyuzitie-zbierkovych-fondov" title="/Využitie zbierkových fondov drevín botanických záhrad/The use of woody plant collections of the botanical gardens">Využitie zbierkových fondov drevín botanických záhrad/The use of woody plant collections of the botanical gardens</a></li>
+</ul>
+</li>
+<li class="first">
+<a href="javascript:void(0);" title="Univerzitné pracoviská">Univerzitné pracoviská</a><ul class="subnav animated">
+<li><a href="/pracoviska/ustav-telesnej-vychovy" title="/Ústav telesnej výchovy a športu">Ústav telesnej výchovy a športu</a></li>
+<li><a href="/pracoviska/botanicka-zahrada" title="/Botanická záhrada">Botanická záhrada</a></li>
+<li><a href="/pracoviska/univerzitna-kniznica" title="/Univerzitná knižnica">Univerzitná knižnica</a></li>
+<li><a href="/pracoviska/ciakt" title="/Centrum informačných a komunikačných technológií">Centrum informačných a komunikačných technológií</a></li>
+<li><a href="/pracoviska/studentske-domovy-jedalne" title="/Študentské domovy a jedálne">Študentské domovy a jedálne</a></li>
+<li><a href="/pracoviska/uvz-danisovce" title="/Učebno-výcvikové zariadenie Danišovce">Učebno-výcvikové zariadenie Danišovce</a></li>
+<li><a href="/pracoviska/unipoc" title="/Univerzitné poradenské centrum (UNIPOC)">Univerzitné poradenské centrum (UNIPOC)</a></li>
+<li><a href="/pracoviska/ccvapp" title="/Centrum celoživotného vzdelávania a podpory projektov">Centrum celoživotného vzdelávania a podpory projektov</a></li>
+<li><a href="/pracoviska/medipark" title="/Univerzitný vedecký park Medipark">Univerzitný vedecký park Medipark</a></li>
+<li><a href="/pracoviska/tip" title="/Technologický a inovačný park">Technologický a inovačný park</a></li>
+</ul>
+</li>
+</ul></div></nav></header><div class="container container--wide banner-container banner-main"><div class="banner-fade banner-fade--home" id="banner-fade">
+<div class="slide timing" data-seconds="4"><a href="https://www.upjs.sk/public/media/23497/PR-21-2020-COVID-211220.pdf" title=""><img src="/public/banners/banner-nudzovy-rezim-211220-4.jpg" alt="UPJŠ" class="load img-responsive"></a></div>
+<div class="slide timing" data-seconds="4"><a href="https://www.upjs.sk/pracoviska/botanicka-zahrada/vyuzitie-zbierkovych-fondov/" title=""><img src="/public/banners/baner-BZ-chodnik-2020.jpg" alt="UPJŠ" class="load img-responsive"></a></div>
+<div class="slide timing" data-seconds="4"><a href="https://www.upjs.sk/pracoviska/botanicka-zahrada/konferencia/" title=""><img src="/public/banners/70r-BZ-baner-velky.jpg" alt="UPJŠ" class="load img-responsive"></a></div>
+<div class="slide timing" data-seconds="4">
+<a href="https://www.upjs.sk/pracoviska/botanicka-zahrada/aktuality/eurosuvenir/" title=""><div class="banner-text banner-text--new"><p class="banner-desc banner-desc--new">Zberateľský euro suvenír</p></div></a><a href="https://www.upjs.sk/pracoviska/botanicka-zahrada/aktuality/eurosuvenir/" title=""><img src="/public/banners/bankovkaBZ.png" alt="UPJŠ" class="load img-responsive"></a>
+</div>
+<div class="slide timing" data-seconds="4">
+<a href="https://www.upjs.sk/pracoviska/botanicka-zahrada/aktuality/mobilna-aplikacie-v-bz" title=""><div class="banner-text banner-text--new"><p class="banner-desc banner-desc--new">Prvá aplikácia v botanickej záhrade</p></div></a><a href="https://www.upjs.sk/pracoviska/botanicka-zahrada/aktuality/mobilna-aplikacie-v-bz" title=""><img src="/public/banners/aplikaciaBZ.png" alt="UPJŠ" class="load img-responsive"></a>
+</div>
+</div></div>
+<div class="container-fluid menu-container"><div class="row"><div class="container container--wide"><div class="iconmenu"><ul>
+<li><a href="/pracoviska/botanicka-zahrada/o-botanickej-zahrade" title="/O botanickej záhrade"><i class="icon icon-"></i><span>O botanickej záhrade</span></a></li>
+<li><a href="/pracoviska/botanicka-zahrada/pre-navstevnikov" title="/Pre návštevníkov"><i class="icon icon-"></i><span>Pre návštevníkov</span></a></li>
+<li><a href="/pracoviska/botanicka-zahrada/pre-skoly" title="/Pre školy"><i class="icon icon-"></i><span>Pre školy</span></a></li>
+<li><a href="/pracoviska/botanicka-zahrada/podujatia-a-sluzby" title="/Podujatia a služby"><i class="icon icon-"></i><span>Podujatia a služby</span></a></li>
+<li><a href="/pracoviska/botanicka-zahrada/odborne-aktivity" title="/Odborné aktivity"><i class="icon icon-"></i><span>Odborné aktivity</span></a></li>
+<li><a href="/pracoviska/botanicka-zahrada/kontakty" title="/Kontakty"><i class="icon icon-"></i><span>Kontakty</span></a></li>
+</ul></div></div></div></div>
+<br><br><div class="posts-section"><div class="posts"><div class="container">
+<div class="row">
+<div class="col-xs-12"><h1>Aktuality</h1></div>
+<div class="col-xs-12"><span class="archive-news"><a href="/pracoviska/botanicka-zahrada/aktuality">archív</a></span></div>
+</div>
+<div class="posts__slider-wrapper"><div class="posts__slider">
+<article class="posts-slide all"><a href="/pracoviska/botanicka-zahrada/aktuality/23941"><img src="/images/resized/23941/poukazy-BZ-2020-baner.jpg" alt="Oznam" class="img-responsive"></a><div class="posts-slide__content">
+<h3 class="posts-slide__title slider-title weight-300"><a href="/pracoviska/botanicka-zahrada/aktuality/23941">Oznam</a></h3>
+<div class="slider-text posts-slide__text"><p>Vážení návštevníci, platnosť permanentiek a darčekových poukazov do botanickej záhrady použiteľných do konca roka 2020 sa predlžuje do 31. marca 2021.</p>
+</div>
+</div></article><article class="posts-slide all"><a href="/pracoviska/botanicka-zahrada/aktuality/zatvorenie-bz-151020"><img src="/images/resized/23803/sprevadzanie-bz.jpg" alt="Oznam" class="img-responsive"></a><div class="posts-slide__content">
+<h3 class="posts-slide__title slider-title weight-300"><a href="/pracoviska/botanicka-zahrada/aktuality/zatvorenie-bz-151020">Oznam</a></h3>
+<div class="slider-text posts-slide__text"><p style="text-align: justify;">Vážení návštevníci, z dôvodu zhoršenej pandemickej situácie bude Botanická záhrada UPJŠ <span style="color:#B22222">od 15.10.2020</span> do odvolania <span style="color:#B22222"><strong>uzatvorená</strong></span>. Zároveň sú <strong><span style="color:#B22222">zrušené</span> </strong>všetky plánované podujatia až do konca kalendárneho roka.<br />
+Za pochopenie ďakujeme.</p>
+</div>
+</div></article><article class="posts-slide all"><a href="https://www.upjs.sk/public/media/23571/kalendarium-BZ-9-2020-zrusene.jpg" target="_blank"><img src="/images/resized/23571/kalendarium-BZ-9-2020-zrusene.jpg" alt="Kalendárium výstav a podujatí" class="img-responsive"></a><div class="posts-slide__content">
+<h3 class="posts-slide__title slider-title weight-300"><a href="https://www.upjs.sk/public/media/23571/kalendarium-BZ-9-2020-zrusene.jpg" target="_blank">Kalendárium výstav a podujatí</a></h3>
+<div class="slider-text posts-slide__text"><p>Výstavy a podujatia - <span style="color:#FF0000">ZRUŠENÉ</span><br />
+&nbsp;</p>
+</div>
+</div></article><article class="posts-slide all"><a href="/pracoviska/botanicka-zahrada/aktuality/suvenir"><img src="/images/resized/23336/pohladnica-BZ-2020.jpg" alt="Ďalší zo suvenírov botanickej záhrady" class="img-responsive"></a><div class="posts-slide__content">
+<h3 class="posts-slide__title slider-title weight-300"><a href="/pracoviska/botanicka-zahrada/aktuality/suvenir">Ďalší zo suvenírov botanickej záhrady</a></h3>
+<div class="slider-text posts-slide__text"><p style="text-align: justify;">Dňa <span style="color:#B22222">17.6.2020</span> bola<strong> </strong>inaugurovaná poštová známka s nominálnou hodnotou 2,80 €, ktorú vydala Slovenská pošta v&nbsp;emisii Ochrana prírody.</p>
+</div>
+</div></article><article class="posts-slide all"><a href="https://www.upjs.sk/aktuality/strategia-ludskych-zdrojov-vo-vyskume-na-upjs-HRS4R" target="_blank"><img src="/images/resized/23290/HRS4R-baner-logo.jpg" alt="Stratégia ľudských zdrojov vo výskume na UPJŠ (HRS4R)" class="img-responsive"></a><div class="posts-slide__content">
+<h3 class="posts-slide__title slider-title weight-300"><a href="https://www.upjs.sk/aktuality/strategia-ludskych-zdrojov-vo-vyskume-na-upjs-HRS4R" target="_blank">Stratégia ľudských zdrojov vo výskume na UPJŠ (HRS4R)</a></h3>
+<div class="slider-text posts-slide__text"><p style="text-align: justify;">V januári 2020 UPJŠ v Košiciach vyjadrila v <a href="https://www.upjs.sk/public/media/22979/Endorsement%20letter%20UPJS.pdf" target="_blank">liste Európskej komisii</a>&nbsp;záujem o zavedenie HRS4R na UPJŠ a prijala <a href="https://www.upjs.sk/public/media/22979/Acknowledgement%20Letter%20European%20Commission%204.2.2020.pdf" target="_blank">záväzok voči&nbsp;Európskej komisii</a> dodržiavať zásady Charty európskych výskumných pracovníkov a Kódexu správania pri nábore výskumných pracovníkov.</p>
+</div>
+</div></article><article class="posts-slide all"><a href="/pracoviska/botanicka-zahrada/aktuality/23437"><img src="/images/resized/23437/BZ-2020.jpg" alt="Oznam" class="img-responsive"></a><div class="posts-slide__content">
+<h3 class="posts-slide__title slider-title weight-300"><a href="/pracoviska/botanicka-zahrada/aktuality/23437">Oznam</a></h3>
+<div class="slider-text posts-slide__text"><p>V rámci letného režimu budú od <span style="color:#B22222">1. augusta 2020</span> expozičné skleníky botanickej záhrady otvorené až <span style="color:#B22222">do 17:00 hod.</span></p>
+</div>
+</div></article><article class="posts-slide all"><a href="/pracoviska/botanicka-zahrada/aktuality/23648"><img src="/images/resized/23648/bz-jesen.jpg" alt="Oznam" class="img-responsive"></a><div class="posts-slide__content">
+<h3 class="posts-slide__title slider-title weight-300"><a href="/pracoviska/botanicka-zahrada/aktuality/23648">Oznam</a></h3>
+<div class="slider-text posts-slide__text"><p>Od <span style="color:#B22222">1. októbra</span> budú skleníky aj vonkajší areál botanickej záhrady otvorené len <span style="color:#B22222">do 15:00 hod.</span></p>
+</div>
+</div></article><article class="posts-slide all"><a href="/pracoviska/botanicka-zahrada/aktuality/otvorenie-bz-060520"><img src="/images/resized/23112/sklenik.jpg" alt="OZNAM" class="img-responsive"></a><div class="posts-slide__content">
+<h3 class="posts-slide__title slider-title weight-300"><a href="/pracoviska/botanicka-zahrada/aktuality/otvorenie-bz-060520">OZNAM</a></h3>
+<div class="slider-text posts-slide__text"><p style="text-align: justify;">Botanická záhrada UPJŠ v&nbsp;Košiciach je opäť otvorená v&nbsp;riadnom otváracom čase, vonkajší areál od <span style="color:#B22222">9:00 do 18:00 hod.</span> Od <span style="color:#B22222">3. 6. 2020</span> sú znovuotvorené aj skleníky botanickej záhrady, v&nbsp;čase od <span style="color:#B22222">9:00 do 15:00 hod.</span></p>
+</div>
+</div></article>
+</div></div>
+</div></div></div>
+<aside class="container-fluid footer"><div class="row"><div class="container"><div class="row">
+<div class="col-xs-24 col-md-8"><div id="datepicker"></div></div>
+<div class="col-xs-24 col-sm-12 col-md-8">
+<strong>Kalendár akcií</strong><section id="rssslider" data-parent="upjs"></section>
+</div>
+<div class="col-xs-24 col-sm-12 col-md-8 footer-kontakt"><p><strong>Botanická záhrada</strong><br />
+Univerzita Pavla Jozefa Šafárika v Košiciach<strong> </strong><br />
+Mánesova 23<br />
+043 52 Košice<br />
+Slovenská republika<br />
+<br />
+Sekretariát: IP: +421 55 2341676<br />
+Vrátnica: IP: +421 55 2341667<br />
+Telefón: 055/6331556<br />
+e-mail: <a href="mailto:botgard@upjs.sk">botgard@upjs.sk</a></p>
+
+<p><a href="http://www.visitkosice.eu/" target="_blank"><img alt="www.visitkosice.eu" src="/public/media/1625/visitkeeu.gif" style="border-style:solid; border-width:0px; float:right; height:64px; width:60px" /></a></p>
+</div>
+</div></div></div></aside><footer><div class="container">
+<div class="row"><div class="col-xs-24 margin-top">
+<div style="text-align:center;">Posledná aktualizácia: <span title="16.12.2020 10:22:08">16.12.2020</span>
+</div>
+<div style="clear:both"></div><p style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="100" scrolling="no" src="//www.youtube.com/embed/bfHnFw-OdF4?wmode=transparent" width="170"></iframe>&nbsp;&nbsp;<iframe allowfullscreen="" frameborder="0" height="100" scrolling="no" src="//www.youtube.com/embed/Tyn-S4efETY?wmode=transparent" width="180"></iframe>&nbsp;&nbsp;<iframe allowfullscreen="" frameborder="0" height="100" scrolling="no" src="//www.youtube.com/embed/kQcfIdccn84?wmode=transparent" width="170"></iframe>&nbsp;&nbsp;<iframe allowfullscreen="" frameborder="0" height="100" scrolling="no" src="//www.youtube.com/embed/87FBPkMNx0U?wmode=transparent" width="180"></iframe>&nbsp;&nbsp;<iframe allowfullscreen="" frameborder="0" height="100" scrolling="no" src="//www.youtube.com/embed/BHPbP5d2q_I?wmode=transparent" width="170"></iframe></p>
+
+<p>&nbsp;</p>
+<div class="partners">
+<div class="partners__slider owl-carousel"><ul>
+	<li><a href="http://www.vatu.sk/" target="_blank"><img alt="" src="/public/media/0019/V7-logo.jpg" style="height:50px; width:224px" /></a></li>
+	<li><a href="http://www.eua.be/" target="_blank"><img alt="" src="/public/media/0019/EUA-members-logo.jpg" style="height:50px; width:125px" /></a></li>
+	<li><a href="http://www.magna-charta.org/publications-and-documents/observatory-publications/statement-concerning-universities-in-turkey" target="_blank"><img alt="" src="/public/media/0019/logo-magna-charta.gif" style="height:50px; width:125px" /></a></li>
+	<li><a href="https://www.scholarsatrisk.org/" target="_blank"><img alt="" src="/public/media/0019/scholars-at-risk.jpg" style="height:50px; width:257px" /></a></li>
+	<li><a href="http://www.u-multirank.eu/#!/home" target="_blank"><img alt="" src="/public/media/0019/u-multirank-logo.jpg" style="height:50px; width:140px" /></a></li>
+	<li><a href="https://www.upjs.sk/vyskum/inovacie-rozvoj-eu-problematika/univerzitne-vedecke-parky/medipark/"><img alt="" src="/public/media/0019/medipark-logo-2017.jpg" style="height:64px; width:110px" /></a></li>
+	<li><a href="https://www.upjs.sk/vyskum/inovacie-rozvoj-eu-problematika/univerzitne-vedecke-parky/technicom/"><img alt="" src="/public/media/0019/technicom-logo.jpg" style="height:50px; width:148px" /></a></li>
+	<li><a href="https://www.upjs.sk/vyskum/inovacie-rozvoj-eu-problematika/univerzitne-vedecke-parky/promatech/"><img alt="" src="/public/media/0019/promatech-logo.jpg" style="height:35px; width:191px" /></a></li>
+	<li><a href="http://www.liveagent.com/" target="_blank"><img alt="" src="/public/media/0019/liveagent-logo.jpg" style="height:35px; width:140px" /></a></li>
+</ul>
+</div>
+<button class="partners__control partners__control--prev"></button><button class="partners__control partners__control--next"></button>
+</div>
+</div></div>
+<div class="cleaner"></div>
+<ul class="social"></ul>
+</div>
+<div class="new-footer">
+<div class="container"><div class="row">
+<div class="col new-footer__col">
+<p class="new-footer__title">O univerzite</p>
+<ul class="new-footer__list">
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/univerzita/informacie-o-univerzite/">Základné informácie</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/univerzita/historia/">História</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/univerzita/vnutorny-system-hodnotenia-kvality/">Vnútorný systém kvality</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/univerzita/organy-univerzity/">Orgány</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/aktuality/">Archív aktualít</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/verejnost-media/informacie-pre-verejnost/">Informácie pre verejnosť</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="/mapa-stranok">Mapa stránok</a></li>
+</ul>
+</div>
+<div class="col new-footer__col">
+<p class="new-footer__title">Štúdium</p>
+<ul class="new-footer__list">
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/zaujemcovia-o-studium/">Pre uchádzačov</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/vyskum/vedeckovyskumna-cinnost/doktorandsky-portal/">Doktorandské štúdium</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/univerzita/cinnost/medzinarodne-vztahy/erasmus-plus/mobility/">ERASMUS+</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/verejnost-media/informacie-pre-verejnost/uznanie-dokladov-o-vzdelani/">Uznávanie dokladov zo štúdia v zahraničí</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/pracoviska/ccvapp/vzdelavacie-aktivity/">Ďalšie vzdelávanie</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://ais2.upjs.sk/ais/absolvent.html">Klub absolventov</a></li>
+</ul>
+</div>
+<div class="col new-footer__col">
+<p class="new-footer__title">Veda</p>
+<ul class="new-footer__list">
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/vyskum/inovacie-rozvoj-eu-problematika/projekty-strukturalne-fondy/">Projekty</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/vyskum/vedeckovyskumna-cinnost/spickove-timy/">Špičkové tímy</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/pracoviska/tip/">TIP-UPJŠ</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/vyskum/inovacie-rozvoj-eu-problematika/univerzitne-vedecke-parky/">Vedecké parky</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/vyskum/vedeckovyskumna-cinnost/publikacna-cinnost/pub-cinnost-na-upjs/">Publikačná činnosti</a></li>
+<li class="new-footer__list-item"><a class="new-footer__link" href="https://www.upjs.sk/vyskum/vedeckovyskumna-cinnost/inauguracie-habilitacie/inauguracie-habilitacie-a-kvalifikacne-postupy/">Habilitačné a vymenúvacie konania</a></li>
+</ul>
+</div>
+</div></div>
+<div class="new-footer__copyright"><p class="new-footer__copyright-text">© 2020 Univerzita Pavla Jozefa Šafárika v Košiciach, <a href="https://www.bart.sk" target="_blank">webdesign bart.sk</a></p></div>
+</div></footer><script type="text/javascript" src="/public/themes/js/modernizr-2.8.3.min.js"></script><script type="text/javascript" src="/public/themes/js/jquery-1.11.3.min.js"></script><script type="text/javascript" src="/public/themes/js/ui/jquery-ui.min.js"></script><script type="text/javascript" src="/public/themes/js/dateformat-min.js"></script><script type="text/javascript" src="/public/themes/js/owl.carousel.min.js"></script><script type="text/javascript" src="/public/themes/js/plugins.js"></script><script type="text/javascript" src="/public/themes/js/ui.js?v=2.0.47"></script><script type="text/javascript" src="/public/themes/js/main.js?v=2.0.47"></script><script type="text/javascript" src="/public/themes/lightbox/jquery.lightbox.min.js"></script><script type="text/javascript" src="/public/themes/lightbox/lightbox-run.js"></script><script type="text/javascript" src="/public/js/core.js?v=2.0.47"></script><script type="text/javascript" src="/public/js/gdpr-cookie.js?v=2.0.47"></script><script type="text/javascript" src="/public/js/gdpr-cookie-custom-sk.js?v=2.0.47"></script><script>
+if ($.gdprcookie.preference("analytics") === true) {
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-31211264-1', 'auto');
+    ga('send', 'pageview');
+
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1193989,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+}
+if ($.gdprcookie.preference("marketing") === true) {
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TG8FMF9');
+
+}
+</script>
+</body>
+</html>

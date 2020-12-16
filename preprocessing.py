@@ -9,7 +9,7 @@ def load_images(directory):
         img = np.asarray(Image.open(f))
         if not img.shape == (224, 224, 3):
             continue
-        img = img/255
+        img = img / 255
         result.append(img)
     result = np.stack(result, axis=0)
     return result
@@ -24,18 +24,33 @@ def labels_matrix(labels_list, labels_no):
     result = np.zeros((labels_no, len(labels_list)))
     for i in range(len(labels_list)):
         result[labels_list[i]][i] = 1
-    return result
+    return result.T
 
 
-chinatree_images = load_images("test_cut")
-chinatree_labels = labels(chinatree_images, 0)
+# chinatree_images = load_images("data_downloader/chinatree_cut")
+fig_images = load_images("data_downloader/fig_cut")
+judastree_images = load_images("data_downloader/judastree_cut")
+palm_images = load_images("data_downloader/palm_cut")
+pine_images = load_images("data_downloader/pine_cut")
 
-palm_images = load_images("test2_cut")
-palm_labels = labels(palm_images, 1)
+# chinatree_labels = labels(chinatree_images, 0)
+fig_labels = labels(fig_images, 0)
+judastree_labels = labels(judastree_images, 1)
+palm_labels = labels(palm_images, 2)
+pine_labels = labels(pine_images, 3)
 
-all_images = np.concatenate((chinatree_images, palm_images), 0)
-all_labels = np.concatenate((chinatree_labels, palm_labels), 0)
+
+all_images = np.concatenate((fig_images, judastree_images, palm_images, pine_images), 0)
+all_labels = np.concatenate((fig_labels, judastree_labels, palm_labels, pine_labels), 0)
 
 shuffler = np.random.permutation(all_images.shape[0])
 all_images_shuffled = all_images[shuffler]
-all_labels_shuffled = labels_matrix(all_labels[shuffler], 2).T
+all_labels_shuffled = labels_matrix(all_labels[shuffler], 4)
+
+split = 500
+train_data = all_images_shuffled[split:]
+train_labels = all_labels_shuffled[split:]
+test_data = all_images_shuffled[:split]
+test_labels = all_labels_shuffled[:split]
+
+print('Data loaded')

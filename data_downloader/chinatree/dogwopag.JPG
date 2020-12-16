@@ -1,0 +1,1094 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" />
+  
+
+  <title>Cass County Extension  — Cass County Extension</title><style type="text/css" media="all">@import url(https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/resourceeasyslideshowslideshow-cachekey-dda3ad0ba1f7860bd7983555981b3791.css);</style><script type="text/javascript" src="https://www.ag.ndsu.edu/casscountyextension/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-016a9d3ab2b92d8b21334244d48e0381.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/casscountyextension/portal_javascripts/Sunburst%20Theme/plone_javascript_variables.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/casscountyextension/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquerytools-cachekey-767bc9eb3b795ae9a8fe37615e1c1294.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/casscountyextension/portal_javascripts/Sunburst%20Theme/pa_thickbox_plus-cachekey-5fad21eb038c043a89e9f5d0aa1ede16.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/casscountyextension/portal_javascripts/Sunburst%20Theme/resourcesimplesocial-cachekey-cd46fd5c5528885af105655a20143535.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/casscountyextension/portal_javascripts/Sunburst%20Theme/resourcecollective.flowplayerflowplayer.min-cachekey-282fbdbf63d7bd5f721d0335548ce1d0.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/casscountyextension/portal_javascripts/Sunburst%20Theme/kss-bbb-cachekey-a2424af8b15c9e37b8af6432c554fc24.js"></script><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/reset-cachekey-9ed88c05c4cd26ac157032e9c5f15676.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/base-cachekey-06e4b5a260eee1f7ae70e984508891e0.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-0eab07fc792ccc9721230e2f3a1adfa4.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/columns-cachekey-c935d8ee04606fff3152d10a43ab57cf.css" /><link rel="stylesheet" type="text/css" href="https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/authoring-cachekey-ee5466e144f4bfb617636730ec8ec0d7.css" /><link rel="stylesheet" type="text/css" href="https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/resourceContentWellPortlets.stylesContentWellPortlets-cachekey-64b7e69d7968210ca9e834384beaec93.css" title="ContentWellPortlets style sheet" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-b42c3c0cae160f30667ed13a7666d855.css" /><link rel="stylesheet" type="text/css" media="all" href="https://www.ag.ndsu.edu/casscountyextension/portal_css/Sunburst%20Theme/ploneCustom-cachekey-ba906c5646d76a26035c4afbc3e3ebdb.css" /><link rel="search" href="https://www.ag.ndsu.edu/casscountyextension/@@search" title="Search this site" /><link rel="canonical" href="https://www.ag.ndsu.edu/casscountyextension" />
+
+  <link href="//www.ag.ndsu.edu/assets/css/pa-static.00002.css" media="all" rel="stylesheet" type="text/css" />
+  
+  <link href="//www.ag.ndsu.edu/assets/css/desktop.00019.css" media="screen" rel="stylesheet" />
+  <link href="//www.ag.ndsu.edu/assets/css/print.00001.css" media="print" rel="stylesheet" />
+
+  <!-- leave this here so it can be removed by rules.xml -->
+  <link href="//www.ag.ndsu.edu/assets/css/three-cols.00002.css" media="all" rel="stylesheet" />
+
+  <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+  <![endif]-->
+
+  <link href="//www.ag.ndsu.edu/assets/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+
+<base href="https://www.ag.ndsu.edu/casscountyextension/cass-county-extension/" /></head>
+
+<body class="template-pa_model11 portaltype-plonearticle site-cass-county-extension section-cass-county-extension icons-on userrole-anonymous" dir="ltr"><script async="" defer="defer" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.3&amp;appId=357292684317703&amp;autoLogAppEvents=1"></script><!-- header area --><div id="header">
+
+    <div id="top_bar_container">
+      <div id="top_bar">
+        <h1><a href="https://www.ndsu.edu/" title="North Dakota State University"><span class="visuallyhidden">North Dakota State University</span><img src="//www.ag.ndsu.edu/assets/images/ndsu-print.png" alt=" " title="" /></a></h1>
+        
+        <ul id="ndsu-links">
+          <li><a href="https://www.ndsu.edu/about/" title="NDSU at a glance">About NDSU</a></li>
+          <li><a href="https://www.ndsu.edu/academics/" title="Academic programs (majors)">Academics</a></li>
+
+          <li><a href="https://www.ndsu.edu/admission/" title="Office of Admission">Admission</a></li>
+          <li><a href="http://www.gobison.com/" rel="external" title="Bison Athletics">Athletics</a></li>
+        </ul>
+        <br class="clear" />
+      </div><!--/top_bar-->
+    </div><!--top_bar_container-->
+
+  </div><!-- header --><div id="container" role="main" class="desktop">
+
+    <div id="univservices">
+      <div class="contentwrapper">
+
+        <h2 id="bannerwords"><a href="https://www.ag.ndsu.edu/casscountyextension">NDSU Extension - Cass County</a></h2>
+        <div id="widgets">
+          <p id="textresize">
+            <a title="Accessibility" accesskey="0" href="accessibility-info">Accessibility</a>
+          </p>
+
+          <div id="portal-searchbox">
+
+  <script>
+    (function() {
+      var cx = '018281009562415871852:jpqauwrs0sa';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+  <div class="gcse-searchbox-only" data-resultsurl="https://www.ag.ndsu.edu/casscountyextension/gsearch">
+  </div>
+
+</div>
+        </div><!--/widgets-->
+      </div><!--/contentwrapper-->
+      <br class="clear" />
+    </div><!--/univservices-->
+
+    <div id="typo3content">
+      <div class="contentwrapper">
+
+        <div id="breadcrumbs">
+          <span id="breadcrumbs-ndsu">
+            <a title="NDSU" href="https://www.ndsu.edu/">NDSU</a>
+            <span class="breadcrumbSeparator"> › </span>
+          </span>
+          <span id="breadcrumbs-home">
+            <a href="https://www.ag.ndsu.edu/casscountyextension">NDSU Extension - Cass County</a>
+            
+          </span>
+        </div><!--/breadcrumbs-->
+ 
+        <div class="clear"></div>
+
+        <!-- left-hand sidebar -->
+        <div id="sitenav"><div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader">
+        
+        
+        
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode navTreeCurrentNode nav-section-cass-county-extension">
+                <div>
+                   <a href="https://www.ag.ndsu.edu/casscountyextension" class="contenttype-folder navTreeCurrentItem" title="">
+                   
+                   
+                   Cass County Extension
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker section-contact-us">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/contact-us" class="state-published contenttype-document" title="">
+            
+            <span>Contact Us</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-cass-county-extension-advisory-council-2013">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/cass-county-extension-advisory-council-2013" class="state-published contenttype-document" title="">
+            
+            <span>Cass County Extension Advisory Council </span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-extension-updates">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/extension-updates" class="state-published contenttype-document" title="A monthly report of Cass County Extension's classes, events and programs to reach target audiences and make a difference. ">
+            
+            <span>Extension Updates</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-ndsu-extension-service">
+
+    
+
+
+        <a href="http://www.ag.ndsu.edu/extension" class="state-published contenttype-link" title="">
+            
+            <span>NDSU Extension </span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-cass-county-government">
+
+    
+
+
+        <a href="https://www.casscountynd.gov/" class="state-published contenttype-link" title="">
+            
+            <span>Cass County Government</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-cass-county-portfolio-commissioner">
+
+    
+
+
+        <a href="https://www.casscountynd.gov/government/county-commission/ken-pawluk-district-3" class="state-published contenttype-link" title="">
+            
+            <span>Cass County Portfolio Commissioner</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-4h">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/4h" class="state-published navTreeFolderish contenttype-folder" title="Content related to 4H and other youth development issues. ">
+            
+            <span>Cass County 4-H</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-crops">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/crops" class="state-published navTreeFolderish contenttype-folder" title="Content related to crops.">
+            
+            <span>Agriculture</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-food-nutrition-and-health">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/food-nutrition-and-health" class="state-published navTreeFolderish contenttype-folder" title="Content related to nutrition, food safety and health.">
+            
+            <span>Food, Nutrition and Health</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-home-and-family">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/home-and-family" class="state-published navTreeFolderish contenttype-folder" title="Content related to human development, parenting and other home and family issues.">
+            
+            <span>Home and Family</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-horticulture">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/horticulture" class="state-published navTreeFolderish contenttype-folder" title="Content related to lawns, gardens, trees, flowers and other horticulture issues. ">
+            
+            <span>Horticulture</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-financial-management-1">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/financial-management-1" class="state-published navTreeFolderish contenttype-folder" title="The Cass County Extension Service can provide sound sources of information to help you make wise financial decisions. &#13;&#10;&#13;&#10;">
+            
+            <span>Personal and Family Finance</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-leadership-and-civic-engagement-1">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/leadership-and-civic-engagement-1" class="state-published contenttype-document" title="Leadership Development, Civic Engagement, and Community Vitality">
+            
+            <span>Urban</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-ndsu-extension-publications">
+
+    
+
+
+        <a href="http://www.ag.ndsu.edu/publications" class="state-published contenttype-link" title="">
+            
+            <span>NDSU Extension Publications</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-u-s-census-bureau">
+
+    
+
+
+        <a href="https://www.census.gov/quickfacts/table/PST045215/38017/accessible" class="state-published contenttype-link" title="">
+            
+            <span>Cass County General Profile, U.S. Census Bureau</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-city-of-casselton">
+
+    
+
+
+        <a href="http://casselton.com/" class="state-published contenttype-link" title="">
+            
+            <span>City of Casselton</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-city-of-fargo">
+
+    
+
+
+        <a href="http://www.ci.fargo.nd.us/" class="state-published contenttype-link" title="">
+            
+            <span>City of Fargo </span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-city-of-hunter">
+
+    
+
+
+        <a href="http://www.cityofhunter.com/" class="state-published contenttype-link" title="">
+            
+            <span>City of Hunter</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-city-of-kindred">
+
+    
+
+
+        <a href="http://cityofkindrednd.com/" class="state-published contenttype-link" title="">
+            
+            <span>City of Kindred</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-city-of-west-fargo">
+
+    
+
+
+        <a href="http://www.westfargond.gov/" class="state-published contenttype-link" title="">
+            
+            <span>City of West Fargo </span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-north-dakota-state-government">
+
+    
+
+
+        <a href="http://www.nd.gov/" class="state-published contenttype-link" title="">
+            
+            <span>North Dakota State Government</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-cass-county-extension-holiday-schedule">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/casscountyextension/cass-county-extension-holiday-schedule" class="state-published contenttype-event" title="">
+            
+            <span>Cass County Extension Holiday Schedule</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+        </ul>
+        
+        
+    </dd>
+</dl>
+
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a657874656e73696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a657874656e73696f6e">
+<dl class="portlet portletStaticText portlet-static-">
+
+    <dt class="portletHeader">
+        
+        <span>
+            
+        </span>
+        
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><a class="external-link" href="http://www.extension.org/"><img src="https://www.ag.ndsu.edu/casscountyextension/images/eXtensionlogoforCassCounty.png" alt="eXtension logo" class="image-inline" title="eXtension logo" /></a></p>
+        
+            
+            
+        
+    </dd>
+    
+    
+
+</dl>
+</div></div>
+
+        <!-- main content area -->
+        <div id="mainborder">
+
+          <!-- right-hand sidebar -->
+          <div id="sidebar2"><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a666f6f642d707265736572766174696f6e2d63616e6e696e672d636c6173736573" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a666f6f642d707265736572766174696f6e2d63616e6e696e672d636c6173736573">
+<dl class="portlet portletStaticText portlet-static-personal-family-finance">
+
+    <dt class="portletHeader">
+        
+        <span>
+           PERSONAL &amp; FAMILY FINANCE
+        </span>
+        
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><a class="external-link" href="https://www.ag.ndsu.edu/money/events" target="_self" title="">Solid Finances <em>(free webinars starting December 2)</em></a><br /><a class="external-link" href="https://www.ag.ndsu.edu/money/" target="_self" title="">NDSU Personal &amp; Family Finance<br /></a><a class="external-link" href="https://thevillagefamily.org/content/financial-resource-center" target="_self" title="">The Village Financial Resource Center</a></p>
+        
+            
+            
+        
+    </dd>
+    
+    
+
+</dl>
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a6865616c74682d616e642d6669746e657373" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a6865616c74682d616e642d6669746e657373">
+<dl class="portlet portletStaticText portlet-static-nutrition-and-food-safety">
+
+    <dt class="portletHeader">
+        
+        <span>
+           NUTRITION AND FOOD SAFETY
+        </span>
+        
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><a class="external-link" href="http://www.ag.ndsu.edu/food/"><span class="external-link"><span class="external-link">NDSU Nutrition and Food Safety</span></span></a><span class="external-link"><br /></span><a class="external-link" href="http://fargond.gov/city-government/departments/fargo-cass-public-health/nutrition-fitness/cassclayalive" target="_self" title="">CassClayAlive! <br />Fargo Cass Public Health</a></p>
+        
+            
+            
+        
+    </dd>
+    
+    
+
+</dl>
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a63616c6d696e672d7468652d6368616f732d7573696e672d796f67612d63616c6d2d746f2d656475636174652d6865617274" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a63616c6d696e672d7468652d6368616f732d7573696e672d796f67612d63616c6d2d746f2d656475636174652d6865617274">
+<dl class="portlet portletStaticText portlet-static-agriculture">
+
+    <dt class="portletHeader">
+        
+        <span>
+           AGRICULTURE
+        </span>
+        
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><a class="external-link" href="https://www.ag.ndsu.edu/agecon/" target="_self" title="">NDSU Agribusiness and Applied Economics</a><br /><a class="external-link" href="https://www.ndsu.edu/aben/" target="_self" title="">NDSU Agricultural and Biosystems Engineering</a><br /><a class="external-link" href="https://www.ag.ndsu.edu/research/" target="_self" title="">NDSU Agricultural Experiment Station </a></p>
+        
+            
+            
+        
+    </dd>
+    
+    
+
+</dl>
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a67617264656e696e672d6c61776e2d63617265" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a67617264656e696e672d6c61776e2d63617265">
+<dl class="portlet portletStaticText portlet-static-lawns-gardens-trees">
+
+    <dt class="portletHeader">
+        
+        <span>
+           LAWNS, GARDENS &amp; TREES
+        </span>
+        
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><span class="external-link"><a class="external-link" href="http://www.ag.ndsu.edu/horticulture"><span><span>NDSU Lawns, Gardens &amp; Trees</span></span></a></span><span class="external-link"><br /><a class="external-link" href="https://www.ag.ndsu.edu/mastergardener/" target="_self" title="">NDSU Extension Master Gardener Program</a> </span><a class="external-link" href="http://www.ag.ndsu.edu/yardandgardenreport/" target="_self" title=""><span class="external-link"><br />NDSU Yard &amp; Garden Report</span><span class="external-link"></span></a></p>
+        
+            
+            
+        
+    </dd>
+    
+    
+
+</dl>
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a6c61746573742d696e666f" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e0a6c61746573742d696e666f"><dl class="portlet portletfeedmixer">
+
+    <dt class="portletHeader">
+        
+        <span>Latest Info</span>
+        
+    </dt>
+
+    
+        <dd class="portletItem odd">
+
+            <a href="https://www.ag.ndsu.edu/news/columns/dakota-gardener/dakota-gardener-what2019s-a-tree-worth-how-about-a-forest" title="Dakota Gardener: What’s a Tree Worth? How About a Forest?">
+                Dakota Gardener: What’s a Tree Worth? How About a Forest?
+                <span class="portletItemDetails">Dec 15, 2020</span>
+            </a>
+        </dd>
+    
+    
+        <dd class="portletItem even">
+
+            <a href="https://www.ag.ndsu.edu/news/newsreleases/2020/ndsu-feedlot-school-set-for-jan-20-21" title="NDSU Feedlot School Set for Jan. 20-21">
+                NDSU Feedlot School Set for Jan. 20-21
+                <span class="portletItemDetails">Dec 14, 2020</span>
+            </a>
+        </dd>
+    
+    
+        <dd class="portletItem odd">
+
+            <a href="https://www.ag.ndsu.edu/news/newsreleases/2020/dec-14-2020/lake-region-extension-roundup-to-be-held-virtually" title="Lake Region Extension Roundup to be Held Virtually">
+                Lake Region Extension Roundup to be Held Virtually
+                <span class="portletItemDetails">Dec 14, 2020</span>
+            </a>
+        </dd>
+    
+    
+        <dd class="portletItem even">
+
+            <a href="https://www.ag.ndsu.edu/news/newsreleases/2020/ndsu-agriculture-extension-faculty-and-staff-honored" title="NDSU Agriculture, Extension Faculty and Staff Honored">
+                NDSU Agriculture, Extension Faculty and Staff Honored
+                <span class="portletItemDetails">Dec 11, 2020</span>
+            </a>
+        </dd>
+    
+    
+        <dd class="portletItem odd">
+
+            <a href="https://www.ag.ndsu.edu/news/newsreleases/2020/dec-7-2020/funding-available-to-increase-farmers-markets-accepting-snap-benefits" title="Funding Available to Increase Farmers Markets Accepting SNAP Benefits">
+                Funding Available to Increase Farmers Markets Accepting SNAP Benefits
+                <span class="portletItemDetails">Dec 10, 2020</span>
+            </a>
+        </dd>
+    
+    
+    <dd class="portletFooter">
+      <a href="https://www.ag.ndsu.edu/casscountyextension/++contextportlets++plone.rightcolumn/latest-info/full_feed" class="tile">More…</a>
+        
+        
+    </dd>
+
+</dl>
+</div></div>
+
+          <div id="main"><div id="viewlet-above-content">    
+
+
+
+
+<div id="portlets-above" class="row">
+    
+    
+</div>
+
+
+</div><div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            <div id="pacontent">
+       <div id="pamaincontent">
+          <!-- used for kss do not remove -->
+          <input type="hidden" id="model-id" value="pa_model11" />
+
+          
+
+      
+
+      <!-- AddThis Button BEGIN -->
+
+
+<div class="addthis_toolbox addthis_default_style">
+
+
+<a addthis:title="Cass County Extension " class="addthis_button_facebook" addthis:description="" addthis:url="https://www.ag.ndsu.edu/casscountyextension"></a>
+
+
+<a addthis:title="Cass County Extension " class="addthis_button_twitter" addthis:description="" addthis:url="https://www.ag.ndsu.edu/casscountyextension"></a>
+
+
+<span class="addthis_separator">|</span>
+
+<a href="//www.addthis.com/bookmark.php?v=250&amp;username=ndsuext" addthis:title="Cass County Extension " class="addthis_button_compact" addthis:url="https://www.ag.ndsu.edu/casscountyextension">Share</a>
+
+</div>
+
+
+<!-- AddThis Button END -->
+
+
+
+      
+      
+        
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Cass County Extension 
+                </h1>
+            
+            
+        
+      
+
+      
+
+<div id="portlets-below" class="row">
+
+     
+     
+</div>
+
+
+
+
+      <input type="hidden" name="absolute_url" id="absolute_url" value="https://www.ag.ndsu.edu/casscountyextension/cass-county-extension" />
+
+      <input type="hidden" name="portal_url" id="portal_url" value="https://www.ag.ndsu.edu/casscountyextension" />
+
+      
+          
+          <div class="visualClear">
+            <!-- clear left block only -->
+          </div>
+    
+
+    
+          
+      
+    
+          
+      
+            
+                
+            
+            
+        
+    
+          
+
+      
+
+
+
+      <div id="parent-fieldname-text" class="plain">
+        <p><b><img src="https://www.ag.ndsu.edu/casscountyextension/images/ndsu-extension-black-logo/@@images/15feae8e-7859-4c61-a158-157d5d138395.png" alt="NDSU Extension - black logo" class="image-inline" title="NDSU Extension - black logo" /></b></p>
+<p><b>NDSU Extension in Cass County gives local residents easy access to the resources and expertise of North Dakota State University. Through educational programs, publications and events, extension agents deliver unbiased, research-based information to Cass County citizens. We can answer your questions on a wide array of topics. To find out how we can help you, browse our site or contact us by email or phone. </b></p>
+<p><strong>NDSU EXTENSION MISSION: <br /></strong><strong>Empower North Dakotans to improve their lives and communities through science-based education</strong></p>
+<p><strong>NDSU EXTENSION believes: </strong></p>
+<ul>
+<li><strong>In lifelong learning through transformational education</strong></li>
+<li><strong>That all people belong and deserve respect</strong></li>
+<li><strong>In stakeholder input to guide program development </strong></li>
+<li><strong>In science-based, locally relevant information </strong></li>
+<li><strong>In the value of partners and collaboration</strong></li>
+</ul>
+<div><img src="https://www.ag.ndsu.edu/casscountyextension/images/cass-county-extension-staff/@@images/11ca9d5b-1154-448a-b77b-5b931d2b5a0c.jpeg" alt="Cass County Extension Staff" class="image-inline" title="Cass County Extension Staff" /></div>
+<div><b></b><b>Cass County Extension Staff: </b></div>
+<div><b><em>Front Row (L-R):</em> <br />Diane Herding, Patty Flaagan, Rita Ussatis, Don Kinzler, Kayla Carlson, Sarah McNaughton, Mariam Said <br /><em>Back Row (L-R):</em> <br />Kyle Aasand, Jeanne Erickson, Irena Bobicic, Lisa Braton </b></div>
+<div></div>
+      </div>
+
+
+    
+
+          <div class="visualClear"><!-- --></div>
+
+          
+      
+    
+          
+      
+    
+          
+
+      
+
+    <div class="visualClear"><!-- --></div>
+
+    
+
+
+
+    
+        </div>
+    </div>
+                        </div>
+                    
+
+                    
+                </div><div id="viewlet-below-content">
+
+
+
+
+
+
+<div id="portlets-below" class="row">
+     
+         
+             <div class="cell BelowPortletManager2 width-full position-0">
+
+
+<div id="portletwrapper-436f6e74656e7457656c6c506f72746c6574732e42656c6f77506f72746c65744d616e61676572320a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e2f636173732d636f756e74792d657874656e73696f6e0a6576656e7473" class="portletWrapper kssattr-portlethash-436f6e74656e7457656c6c506f72746c6574732e42656c6f77506f72746c65744d616e61676572320a636f6e746578740a2f506c6f6e652f636173732d636f756e74792d657874656e73696f6e2f636173732d636f756e74792d657874656e73696f6e0a6576656e7473">
+<dl class="portlet portletEvents">
+
+    <dt class="portletHeader">
+        
+        <a href="https://www.ag.ndsu.edu/casscountyextension/events_listing" class="tile">
+            Upcoming Events
+        </a>
+        
+    </dt>
+
+    
+    <dd class="portletItem odd">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/home-and-family/nurturing-program" class="tile" title="Ready for a positive change? This intensive 16-week class for the entire family WILL make a difference! Parents and children will learn to: Identify and handle feelings, communicate needs, be empathetic, replace spanking and yelling with more effective discipline techniques, take charge of one's own behavior, have warm interactions and family fun, establish nurturing routines for daily activities such as bed and mealtimes, handle stress and anger, gain a sense of personal power and positive self-esteem, give and receive healthy touch.   ">
+            
+            Nurturing Parenting Program 
+        </a>
+            <span class="portletItemDetails">
+                
+                <span>Dec 17, 2020 05:30 PM - 08:00 PM</span>
+                
+                <span> —
+                    Bethlehem Lutheran Church, Fargo
+                </span>
+            </span>
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/cass-county-extension-holiday-schedule" class="tile" title="">
+            
+            Cass County Extension Holiday Schedule
+        </a>
+            <span class="portletItemDetails">
+                
+                
+                <span>Dec 24, 2020 - Dec 31, 2021</span>
+                
+            </span>
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/home-and-family/nurtured-heart-approach" class="tile" title="The Nurtured Heart Approach is a curriculum for relationship and has been proven to create GREATNESS in even the most intense children, very quickly and in lasting, inspiring ways. ">
+            
+            Nurtured Heart Approach
+        </a>
+            <span class="portletItemDetails">
+                
+                
+                <span>Jan 21, 2021 - Feb 11, 2021</span>
+                <span> —
+                    Online
+                </span>
+            </span>
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/home-and-family/infant-massage" class="tile" title="">
+            
+            Infant Massage
+        </a>
+            <span class="portletItemDetails">
+                
+                
+                <span>Feb 01, 2021 - Feb 03, 2021</span>
+                <span> —
+                    Online
+                </span>
+            </span>
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/home-and-family/active-parenting-5-12" class="tile" title="Enjoying and Enhancing Your Child's School-Age Years">
+            
+            Active Parenting: Ages 5-12
+        </a>
+            <span class="portletItemDetails">
+                
+                
+                <span>Feb 02, 2021 - Feb 23, 2021</span>
+                <span> —
+                    Online
+                </span>
+            </span>
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/home-and-family/active-parenting-of-teens" class="tile" title="Build communication and cooperation with your teenager, gain direction with positive discipline and insight into today's teen issues. ">
+            
+            Active Parenting: Teens
+        </a>
+            <span class="portletItemDetails">
+                
+                
+                <span>Mar 01, 2021 - Mar 22, 2021</span>
+                <span> —
+                    Online
+                </span>
+            </span>
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/home-and-family/active-parenting-0-5" class="tile" title="A child's first five years are the foundation for a lifetime of loving and learning">
+            
+            Active Parenting: The First Five Years 
+        </a>
+            <span class="portletItemDetails">
+                
+                
+                <span>Mar 23, 2021 - Apr 13, 2021</span>
+                <span> —
+                    YMCA Schlossman Branch (tentative)
+                </span>
+            </span>
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/home-and-family/love-logic-fargo" class="tile" title="Love allows children to grow through their mistakes. &#13;&#10;Logic allows them to live with the consequences of their choices. ">
+            
+            Parenting the Love and Logic Way 
+        </a>
+            <span class="portletItemDetails">
+                
+                
+                <span>Apr 12, 2021 - Apr 26, 2021</span>
+                <span> —
+                    Jefferson Elementary School (tentative)
+                </span>
+            </span>
+    </dd>
+    
+
+    
+
+    <dd class="portletFooter">
+        <a href="https://www.ag.ndsu.edu/casscountyextension/events_listing" class="tile">
+                Upcoming events…
+        </a>
+        
+        
+    </dd>
+</dl>
+
+</div>
+
+</div> 
+
+         
+     
+</div>
+
+
+</div></div>
+
+          <div class="agcms-clear"></div>
+
+          <div id="creative-commons">
+            <div class="cc-image">
+              <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="//www.ag.ndsu.edu/assets/images/88x31.png" alt="Creative Commons License" /></a>
+            </div>
+            <div class="cc-text">
+              Feel free to use and share this content, but please do so under the conditions of our <a class="external-link" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a> license and our <a href="/agcomm/creative-commons">Rules for Use</a>. Thanks.
+            </div>
+            <br class="clear" />
+          </div>
+        </div><!--/mainborder-->
+
+        <div class="agcms-clear"></div>
+
+      </div><!--/contentwrapper-->
+    </div><!--/typo3content-->
+
+  </div><div id="footer">
+
+    <div id="sflgru"><p>Student Focused. Land Grant. Research Institution.</p></div>
+
+    <div id="navfooter">
+      <ul>
+        <li><a href="https://www.ndsu.edu/pubweb/homepage/CampusMap_2pg.pdf" title="Map">Map</a></li>
+        <li><a href="https://www.ndsu.edu/employment/" title="Employment opportunities at NDSU">Employment</a></li>
+        <li><a href="https://www.ndsu.edu/directory/" title="Directory">Phone/Email Directory</a></li>
+        <li><a href="http://www.ag.ndsu.edu/ndsuag/gsearch" title="Search">Search</a></li>
+        <li><a href="privacy" title="Privacy">Privacy</a></li>
+	<li><a href="https://www.ndsu.edu/equity/required_non_discrimination_statement/" title="Nondiscrimination statement">Nondiscrimination</a></li>
+      </ul>
+    </div><!--/navfooter-->
+
+    <div id="typo3footers"><div id="ndsu-siteinfo">
+
+      <div id="contact">
+          <a id="switch2mobile" title="Mobile view" href="">Mobile Site</a>
+          <address>
+            <p>
+              <a href="https://www.ag.ndsu.edu/extension/" title="Link to Agriculture and University Extension" class="external-link contactfooter__link">NDSU Extension</a>
+            </p>
+            
+              
+                <p class="contactfooter_text">NDSU Dept. 7000</p>
+              
+              
+                <p class="contactfooter_text">311 Morrill Hall, P.O. Box 6050</p>
+              
+              
+                <p class="contactfooter_text">Fargo, ND 58108-6050</p>
+              
+            
+            
+          </address>
+      </div>
+
+      <div id="lastupdate">
+        <div class="contactfooter__sitemanager">
+          <div class="contactfooter__text contactfooter__text-sitemanager">Site Manager:</div>
+          <div class="contactfooter__text">
+              <a href="mailto:diane.herding@ndsu.edu" title="NDSU link" class="mail-link contactfooter__link">Diane Herding</a><br />
+              
+          </div>
+        </div>
+      </div>
+
+      <br class="clear" />
+
+    </div></div><!--/typo3footers-->
+  </div><!-- footer --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#username=ndsuext"></script><script type="text/javascript" src="//www.ag.ndsu.edu/assets/js/agcms-desktop.00003.js"></script><div id="fb-root"></div><script type="text/javascript">
+  /*<![CDATA[*/
+  SimpleSocial.addSettings({"like_button_available": false, "like_button_color_scheme": "light", "channel_url": "https://www.ag.ndsu.edu/casscountyextension/@@facebook-channel", "app_id": "431544620207295", "post_to_page_available": false, "like_button_types": ["Document", "Event", "News Item"], "like_button_action": "like", "like_button_width": 450, "like_button_show_faces": true, "like_button_layout": "standard"});
+  window.fbAsyncInit = function() {
+    if (navigator.appVersion.indexOf('MSIE') != -1) {
+        version = parseFloat(navigator.appVersion.split('MSIE')[1]);
+        if (version <= 6) return;
+    }
+    SimpleSocial.connect(function(response) {
+        if (response.connected) {
+            SimpleSocial.processQueue();
+        }
+    });
+  };
+  (function(d){
+    var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = '//connect.facebook.net/en_US/all.js';
+    ref.parentNode.insertBefore(js, ref);
+  }(document));
+  /*]]>*/
+</script><script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-9112773-1', 'ndsu.edu');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script></body>
+</html>

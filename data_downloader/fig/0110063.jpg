@@ -1,0 +1,55 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta name="description" content="Homepage von Leo Michels: Fehlerseite.">
+<style type="text/css">
+  <!--
+  body      {font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10pt; color:black; background-color: white}
+  td,p,img  {font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10pt; vertical-align:top; background-color: white}
+  h4        {font-family:Verdana,Arial,Helvetica,sans-serif; font-size:16pt; color:#44A404;}
+  h3        {font-family:Verdana,Arial,Helvetica,sans-serif; font-size:22pt; color:#44A404;}
+  a         {font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10pt; color:blue; text-decoration:underline;}
+  .mini     {font-family:Verdana,Arial,Helvetica,sans-serif; font-size:8pt; color:#44A404;}
+  -->
+</style>
+<title>Leo Michels: Seite ist nicht vorhanden</title>
+</head>
+<body>
+<table align="center" border="0">
+  <tr>
+    <td width="130"></td>
+    <td width="20"></td>
+    <td width="210"></td>
+    <td width="20"></td>
+    <td width="20"></td>
+    <td width="210"></td>
+    <td width="20"></td>
+  </tr>
+  <tr>
+    <td rowspan=4 align="center" valign="top"><a href="impressum.html">
+      <img src="leo.jpg" width="113" height="141" border="0" alt="Leo"></a><br>
+      seit anno '98<br>
+      <br>
+    </td>
+    <td colspan="6">
+      <h3>Michels Schafhausseiten</h3>
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+      <h4>
+        <br /><br /><br /><br />
+        Die von Ihnen gew&uuml;nschte Seite ist<br />
+        leider nicht (mehr) vorhanden.
+      </h4>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6" >
+    <a href="http://www.michls.de/index.html">zur Startseite</a>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

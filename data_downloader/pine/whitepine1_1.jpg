@@ -1,0 +1,696 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+	<meta name="keywords" content="Enterprise, IT, Cloud, CYber, Big Data, Identity, Governance" />
+	<meta name="description" content="Examining he heart of the enterprise - information." />
+    <link rel="canonical" href="https://netcentricity.typepad.com/enterprise_info/" />
+
+
+
+        <link rel="stylesheet" href="https://netcentricity.typepad.com/enterprise_info/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'Enterprise Info' (Atom)" href="https://netcentricity.typepad.com/enterprise_info/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Enterprise Info' (RSS 1.0)" href="https://netcentricity.typepad.com/enterprise_info/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Enterprise Info' (RSS 2.0)" href="https://netcentricity.typepad.com/enterprise_info/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+<!--- head google analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d83445632453ef00e5526e63a38833');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<!-- fb-opengraph.tt -->
+<meta property="og:title" content="Enterprise Info" />
+<meta property="og:site_name" content="Enterprise Info" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://netcentricity.typepad.com/enterprise_info/" />
+<meta property="og:description" content="Examining he heart of the enterprise - information." />
+<meta property="fb:admins" content="" />
+<meta property="fb:app_id" content="55753818692" />
+<meta property="og:image" content="https://up4.typepad.com/6a00d83445632453ef01630481f127970d-220si" />
+
+
+
+	<title>Enterprise Info</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d83445632453ef00e5526e63a38833" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://netcentricity.typepad.com/foaf.rdf" />
+	
+        
+</head>
+
+
+
+<body class="layout-three-column index">
+	
+	<div id="container">
+		<div id="container-inner" class="pkg">
+			
+
+
+<a id="home"></a>
+   
+
+<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://netcentricity.typepad.com/enterprise_info/" accesskey="1">Enterprise Info</a></h1>
+		<h2 id="banner-description">
+		</h2>
+	</div>
+</div>
+
+
+<div id="nav">
+	<div id="nav-inner">
+		<ul class="nav-list pkg">
+			<li class="nav-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/">Home</a></li>
+			<li class="nav-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/archives.html">Archives</a></li>
+			<li class="last-nav-list-item nav-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/atom.xml">Subscribe</a></li>
+		</ul>
+	</div>
+</div>
+
+
+
+
+			<div id="pagebody">
+				<div id="pagebody-inner" class="pkg">
+					<div id="alpha">
+						<div id="alpha-inner" class="pkg">
+							<!-- sidebar1 -->
+
+
+<!-- user photo -->
+    <div class="module-photo module">
+
+
+     
+
+
+<div class="module-content">
+
+
+<img src="https://netcentricity.typepad.com/.a/6a00d83445632453ef01630481f127970d-150wi" alt="My Photo" class="img-responsive" />
+
+
+</div></div>
+
+<!-- list_inlcude.tt  -->
+<div id="_2008_2012_david_e_chesebrough" class="module-typelist module">
+<h2 class="module-header">© 2008 – 2012 David E. Chesebrough</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- about page link -->
+<div class="module-about module">
+	<h2 class="module-header"><a
+		href="https://netcentricity.typepad.com/about.html">About</a></h2>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="recent_books_read" class="module-typelist module">
+<h2 class="module-header">Recent Books Read</h2>
+	<div class="typelist-thumbnailed module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/0465003494?tag=typepad0c2-20" ><img alt="Thomas Sowell: Economic Facts and Fallacies" src="https://a0.typepad.com/6a00d83445632453ef0111690f3ee8970c-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/0465003494?tag=typepad0c2-20" >Thomas Sowell: Economic Facts and Fallacies</a></p></li>
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/1591841437?tag=typepad0c2-20" ><img alt="Ori Brafman: The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations" src="https://a7.typepad.com/6a00d83445632453ef01127983918f28a4-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/1591841437?tag=typepad0c2-20" >Ori Brafman: The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations</a></p></li>
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/1400063515?tag=typepad0c2-20" ><img alt="Nassim Nicholas Taleb: The Black Swan: The Impact of the Highly Improbable" src="https://a6.typepad.com/6a00d83445632453ef0111690f3af6970c-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/1400063515?tag=typepad0c2-20" >Nassim Nicholas Taleb: The Black Swan: The Impact of the Highly Improbable</a></p></li>
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/1401309666?tag=typepad0c2-20" ><img alt="Chris Anderson: Long Tail, The, Revised and Updated Edition: Why the Future of Business is Selling Less of More" src="https://a7.typepad.com/6a00d83445632453ef0111690f3abf970c-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/1401309666?tag=typepad0c2-20" >Chris Anderson: Long Tail, The, Revised and Updated Edition: Why the Future of Business is Selling Less of More</a></p></li>
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/0393333949?tag=typepad0c2-20" ><img alt="Nicholas Carr: The Big Switch: Rewiring the World, from Edison to Google" src="https://a6.typepad.com/6a00d83445632453ef0111690f3a96970c-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/0393333949?tag=typepad0c2-20" >Nicholas Carr: The Big Switch: Rewiring the World, from Edison to Google</a></p></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="author_blogs" class="module-typelist module">
+<h2 class="module-header">Author Blogs</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://gladwell.typepad.com/" >Malcolm Gladwell's Blog</a></li>
+							<li class="module-list-item"><a title="" href="http://www.thomaspmbarnett.com/weblog/" >Thomas P.M. Barnett :: Weblog</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-email module">
+	<div class="module-content">
+		<script type="text/javascript">
+<!--
+document.write('<a href="ma' + 'ilto:&#100;&#99;&#104;&#101;&#115;&#101;&#98;&#114;&#111;&#117;&#103;&#104;&#64;&#97;&#102;&#101;&#105;&#46;&#111;&#114;&#103;">Email Me</a>');
+// -->
+</script>
+
+	</div>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="social_media_web_20" class="module-typelist module">
+<h2 class="module-header">Social Media / Web 2.0</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="http://www.twitip.com/" >Twitter Tips - TwiTip</a><br /></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+
+
+
+						</div>
+					</div>
+					<div id="beta">
+						<div id="beta-inner" class="pkg">
+							
+
+
+
+
+
+<!-- CAROUSEL POSTS -->
+
+
+<!-- entry list sticky -->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+    
+
+
+
+
+    <h2 class="date-header">April 23, 2009</h2>
+
+	<div class="entry-category-identity_management entry-author-dave entry-type-post entry" id="entry-65927275">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://netcentricity.typepad.com/enterprise_info/2009/04/electronic-identity-its-time-has-come.html">Electronic IDentity - It's Time Has Come?</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p style="TEXT-ALIGN: justify">Citizen identity cards have become a big deal in Europe. Currently 12 countries have E-ID programs and have enrolled over 160,000,000 citizens.&#0160; By 2010 it is expected that this number will rise to over 450,000,000. (Source: epractice.eu, Eurostat, Wikipedia)</p>
+<p style="TEXT-ALIGN: justify">In nearly all of these cases, or countries, some form of identity card and/or Passports are <a href="https://netcentricity.typepad.com/.a/6a00d83445632453ef01156f4f7443970c-pi" style="FLOAT: right"><img alt="Chinese_ID_card" border="0" class="at-xid-6a00d83445632453ef01156f4f7443970c " src="https://netcentricity.typepad.com/.a/6a00d83445632453ef01156f4f7443970c-800wi" style="MARGIN: 0px 0px 5px 5px" title="Chinese_ID_card" /></a> compulsory.&#0160;&#0160;In some countries, such as Belgium and Germany, citizens are not required to carry them.&#0160; In others they are.&#0160; Belgians&#0160;above the age of 12&#0160;are required to carry some means of identification at all time.&#0160; People&#39;s Republic of China requires every citizen above the age of 16 to carry an identity card, and is now instituting biometric ID cards. The card will document data such as work history, educational&#0160;<a href="https://netcentricity.typepad.com/.a/6a00d83445632453ef01156f4f71e9970c-pi" style="DISPLAY: inline"></a>background, religion, ethnicity, police record, medical insurance status, landlord&#39;s phone number and personal reproductive history.&#0160; A number of countries do not have national identity cards. These include Australia, Canada, Denmark, Ireland, India, Japan, New Zealand, Norway, the United Kingdom and the United States.</p>
+<p style="TEXT-ALIGN: justify">There seem to be two fundamental approaches to identity:&#0160; citizen-centric for access to services and identification for law enforcement, and security-centric to limit access to data/facilities and verify transactions.&#0160; In the US we have gone down the security-centric route.&#0160; But given the concerns over cyber warfare, terrorism, fraud and misuse of Government funds, crime, and failed responses to natural disasters one wonders if there are not cracks in wall of resistance to a US national ID card.&#0160; Will we see a convergence of European style citizen identity with US style security?</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 11:16 AM in <a href="https://netcentricity.typepad.com/enterprise_info/identity-management/">Identity Management</a> </span> <span class="separator">|</span> <a class="permalink" href="https://netcentricity.typepad.com/enterprise_info/2009/04/electronic-identity-its-time-has-come.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://netcentricity.typepad.com/enterprise_info/2009/04/electronic-identity-its-time-has-come.html#comments">Comments (0)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://netcentricity.typepad.com/enterprise_info/2009/04/electronic-identity-its-time-has-come.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+
+
+
+    <h2 class="date-header">March 27, 2009</h2>
+
+	<div class="entry-category-technology entry-author-dave entry-type-post entry" id="entry-64713209">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://netcentricity.typepad.com/enterprise_info/2009/03/complexity-and-the-unabomber.html">Complexity and the Unabomber</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><em>“[As] machines become more and more intelligent people will let machines make more of their decisions for them, simply because machine-made decisions will bring better results than man-made ones.”</em> - Ted Kaczynski, the Unabomber </p>
+<p>The quote, taken from a footnote on page 226 of the Big Switch (Nicholas Carr, WW Norton &amp; Co, 2008), is typical of many from people who believe machine-based intelligence will one day equal, and even surpass, that of humans.&#0160; The day is coming, they say, when machines will be in control. (Beware the Borg! Assimilation is inevitable,so enjoy the hive.) </p>
+<p>But I wonder if any machine could have made the same decisions, in the same time frame, and with the same precision, as Captain Sullenberger did when he guided his A320 to a safe &quot;landing&quot; in the Hudson, saving the lives of 155 people.&#0160; He was able to deal with the complexity of the situation because of his training, education, experience, and attitude.&#0160;&#0160;Sullenberger was able to quickly assess the situation, balance a myriad of inputs, process all of the observed data, compare it against what he already knew and perceived, make instant decisions, with precision, and give control inputs to a &quot;dead stick&quot; aircraft that resulted in the best possible outcome. &#0160;No computer will come close to being able to do that in my lifetime.</p>
+<p><a href="https://netcentricity.typepad.com/.a/6a00d83445632453ef01156e71985b970c-pi" style="DISPLAY: inline"><img alt="Large_us-airways-plane-going-down-in-hudson" border="0" class="at-xid-6a00d83445632453ef01156e71985b970c " src="https://netcentricity.typepad.com/.a/6a00d83445632453ef01156e71985b970c-800wi" title="Large_us-airways-plane-going-down-in-hudson" /></a>&#0160; <span style="FONT-SIZE: 9px; FONT-FAMILY: Arial">AP photo/Trela Media</span></p>
+<p><span style="FONT-SIZE: 9px; FONT-FAMILY: Arial">Circled in white, US Airways Flight 1549 is going down toward the Hudson River - The Jersey Journal Friday January 16, 2009, 12:36 PM</span></p>
+<p>Mr. Kaczynski&#39;s theory only works for certain circumstances.&#0160; When dynamic complexity enters the picture, decision support systems simply fail.&#0160; Dynamic complexity involves non-linearity in multiple relationships amongst numerous factors.&#0160; A good example is the stock market. Throw a few trillion dollars into financial companies and the stock market should go up, right?&#0160; Price of a barrel of oil goes down and the price of a gallon of gas should follow.&#0160; When&#0160;situations don&#39;t follow logic, you can assume complexity is at work.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 09:30 AM in <a href="https://netcentricity.typepad.com/enterprise_info/technology/">Technology</a> </span> <span class="separator">|</span> <a class="permalink" href="https://netcentricity.typepad.com/enterprise_info/2009/03/complexity-and-the-unabomber.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://netcentricity.typepad.com/enterprise_info/2009/03/complexity-and-the-unabomber.html#comments">Comments (0)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://netcentricity.typepad.com/enterprise_info/2009/03/complexity-and-the-unabomber.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+
+
+
+    <h2 class="date-header">March 20, 2009</h2>
+
+	<div class="entry-category-social_media entry-author-dave entry-type-post entry" id="entry-64401399">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://netcentricity.typepad.com/enterprise_info/2009/03/social-media-bad-behavior.html">Social Media & Bad Behavior</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Our association, like most others, is looking at the phenomenon of social networking. My observation is that the medium will eventually be a useful tool for professional interaction, communication and engagement. LinkedIn is already there. Social media clearly has the great benefit of discovering and connecting people to each other. But it seems also to have a dark side, derived from the anonymity one can possess on the Internet. </p>
+<p>We are experimenting to some degree with providing on-line content and individual use of social media like Facebook, LinkedIn and Twitter, and we will move carefully but assertively into this space during the coming year. I think some care must be exercised in how a corporate entity embraces what are fundamentally populist technologies. Getting burned is only a few key strokes away, as can be seen by this blog post by Jeff Hurt (<a href="http://www.twitip.com/twitter-trumps-online-conference-six-steps-for-using-twitter-for-your-conference-or-event/">post</a>). </p>
+<p>I&#39;d be interested in your observations.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 09:15 AM in <a href="https://netcentricity.typepad.com/enterprise_info/social-media/">Social Media</a> </span> <span class="separator">|</span> <a class="permalink" href="https://netcentricity.typepad.com/enterprise_info/2009/03/social-media-bad-behavior.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://netcentricity.typepad.com/enterprise_info/2009/03/social-media-bad-behavior.html#comments">Comments (0)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://netcentricity.typepad.com/enterprise_info/2009/03/social-media-bad-behavior.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-dave entry-type-post entry" id="entry-64400703">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://netcentricity.typepad.com/enterprise_info/2009/03/why-all-the-fuss-about-enterprise.html">Why all the fuss about "enterprise?"</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><em>&quot;Everything flows, nothing stands still.&quot;</em> -&nbsp; Heraclitus of Ephesus (c.535 BC - 475 BC).</p>
+
+<p>The IT literature contains myriad uses of the word “enterprise.”&nbsp; Mostly it is used as a modifying adjective that qualifies a specific phrase or term, such as “enterprise service bus, enterprise system, or enterprise architect.”&nbsp; This practice seems to have its origins in Enterprise Resource Planning, or ERP. </p>
+
+<p>ERP grew out of Manufacturing Resource Planning II in the early 90’s when software vendors such as Baan, Oracle, JD Edwards and SAP expanded MRP II solutions to include other functional areas of the enterprise such as engineering, finance, human resources, and project management.&nbsp; </p>
+
+<p>By the end of the 90’s, ERP was being adopted with great enthusiasm as the right solution for Y2K problems.&nbsp; (See <a href="http://www.erpandmore.com/erp-history/">ERP and More</a> for a nice summary).</p>
+
+<p>Today we are inundated by enterprise “things.”&nbsp; &nbsp;We have enterprise application integration, enterprise architecture, enterprise information integration, enterprise meta-data, enterprise content management, etc.&nbsp; Why?&nbsp; </p>
+
+<p>The first reason why enterprise has become such a familiar term is - economics.&nbsp; When it comes to IT, the private and public sectors have behaved like prospective brides at Filene’s basement sale.&nbsp; This increased reliance networks, computers, mobile devices and databases comes with a price tag, a very big price tag.&nbsp; In each of the last three fiscal years the Federal Government IT budget has topped $60,000,000,000, per year. (1)</p>
+
+<p>Redundant, unconnected and incompatible information systems grew up like weeds in an untended garden.&nbsp; Remember “islands of automation?”&nbsp; This phenomenon was clearly understood in 1984 when the Department of Defense recognized that the military services each had logistics information systems that were not interoperable and could not exchange data, mostly because they were never designed to do so in the first place.&nbsp; Why not?&nbsp; Because they were bought by different people, with different funding, for different purposes, but with similar objectives.&nbsp; The notion that information might need to be moved to other organizations for valid reasons never found its way into the requirements because to do so might jeopardize programs and funding streams.&nbsp; There was no overarching enterprise perspective, and no clear need for enterprise-level efficiencies.&nbsp; Today we have a different perspective.  Organizations such as US Central Command are working hard to reduce, eliminate, combine and consolidate systems.  CENTCOM has has gone from over 2,000 distinct applications down to less than two hundred, and is not stopping there.</p>
+
+<p>The second reason is that over the last couple of decades we have slowly come to recognize that information is an asset that has as much strategic value as investment in modern production facility or a long range, stealthy precision-strike platform.&nbsp; The problem is that we have stored it away in beautiful cylinders of excellence that can’t communicate across the enterprise, and we need that in order to be more agile and resilient in these fast-moving times.</p>
+
+<p>(1) Fiscal Year 2008 Information Technology Budget, Updated May 24, 2007 </p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 08:56 AM </span> <span class="separator">|</span> <a class="permalink" href="https://netcentricity.typepad.com/enterprise_info/2009/03/why-all-the-fuss-about-enterprise.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://netcentricity.typepad.com/enterprise_info/2009/03/why-all-the-fuss-about-enterprise.html#comments">Comments (0)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://netcentricity.typepad.com/enterprise_info/2009/03/why-all-the-fuss-about-enterprise.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+
+
+
+    <h2 class="date-header">May 30, 2008</h2>
+
+	<div class="entry-category-about entry-author-dave entry-type-post entry" id="entry-50612692">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://netcentricity.typepad.com/enterprise_info/2008/05/about-this-webl.html">About this Weblog</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>What is an Information Environment?&#0160; What is an Enterprise?&#0160; How do enterprises create, govern and evolve their information environments?&#0160; Does an enterprise need more than one?&#0160; This is my personal, professional weblog site, where I intend to write about my observations on enterprises and their dealings with information from my vantage point running the Association for Enterprise Integration.&#0160; In this role I get to look at all aspects of information in, around and across the enterprise.&#0160; I intend for this to be a reasoned discourse and discussion.&#0160; Your comments are welcome.&#0160; Be advised I am censoring comments for &quot;bad behavior&quot; to protect you and me. Your e-mailed inputs to me are welcome as well.</p>
+<p>This is not an &quot;official&quot; blog of AFEI, it&#39;s just me.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 11:26 AM in <a href="https://netcentricity.typepad.com/enterprise_info/about/">About</a> </span> <span class="separator">|</span> <a class="permalink" href="https://netcentricity.typepad.com/enterprise_info/2008/05/about-this-webl.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://netcentricity.typepad.com/enterprise_info/2008/05/about-this-webl.html#comments">Comments (0)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://netcentricity.typepad.com/enterprise_info/2008/05/about-this-webl.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+		
+	
+
+        
+
+
+
+						</div>
+					</div>
+					<div id="gamma">
+						<div id="gamma-inner" class="pkg">
+							<!-- sidebar2 -->
+
+
+	<div class="module-archives module">
+		<h2 class="module-header">Recent Posts</h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+									<li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/2009/04/electronic-identity-its-time-has-come.html">Electronic IDentity - It's Time Has Come?</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/2009/03/complexity-and-the-unabomber.html">Complexity and the Unabomber</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/2009/03/social-media-bad-behavior.html">Social Media & Bad Behavior</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/2009/03/why-all-the-fuss-about-enterprise.html">Why all the fuss about "enterprise?"</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/2008/05/about-this-webl.html">About this Weblog</a></li>
+					
+				
+			</ul>
+		</div>
+	</div>
+<!-- list_inlcude.tt  -->
+<div id="industry_blogs" class="module-typelist module">
+<h2 class="module-header">Industry Blogs</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://www.timpavlick.blogspot.com/">Muse on the Dissolution of Technology, Society & Conceptual Landscape</a></li>
+							<li class="module-list-item"><a title="" href="https://blogs.oracle.com/maryanndavidson/">Mary Ann Davidson</a></li>
+							<li class="module-list-item"><a title="" href="http://jeffjonas.typepad.com/" >Jeff Jonas</a></li>
+							<li class="module-list-item"><a title="" href="http://blogs.zdnet.com/Howlett/" >Irregular Enterprise | ZDNet.com</a></li>
+							<li class="module-list-item"><a title="" href="http://blogs.zdnet.com/Hinchcliffe/" >Enterprise Web 2.0|ZDNet</a></li>
+							<li class="module-list-item"><a title="" href="http://blogs.sun.com/BVass/" >Bill Vass' Weblog</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="social_media_web_20" class="module-typelist module">
+<h2 class="module-header">Social Media / Web 2.0</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="http://www.twitip.com/" >Twitter Tips - TwiTip</a><br /></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="topical_blogs" class="module-typelist module">
+<h2 class="module-header">Topical Blogs</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="http://www.identityblog.com/" >IdentityBlog - Digital Identity, Privacy, and the Internet's Missing Identity Layer</a></li>
+							<li class="module-list-item"><a title="" href="http://billives.typepad.com/portals_and_km/" >Portals and KM</a></li>
+							<li class="module-list-item"><a title="" href="http://blog.identicentric.com/" >Identicentric</a></li>
+							<li class="module-list-item"><a title="" href="http://www.theinformationauditor.com/" >The Information Auditor</a></li>
+							<li class="module-list-item"><a title="" href="http://counterterrorismblog.org/" >The Counterterrorism Blog</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-categories module">
+	<h2 class="module-header"><a href="https://netcentricity.typepad.com/enterprise_info/archives.html">Categories</a></h2>
+	<div class="module-content">
+                   <ul class="module-list">
+
+
+                        <li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/about/">About</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/identity-management/">Identity Management</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/social-media/">Social Media</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://netcentricity.typepad.com/enterprise_info/technology/">Technology</a></li>
+</span>
+		</ul>
+
+<a style="font-size:85%;display:none;" class="cat-more" href="https://netcentricity.typepad.com/enterprise_info/archives.html">See More</a>
+	</div>
+</div>
+<!-- powered by -->
+<div class="module-powered module">
+        <div class="module-content">
+
+                <a href="https://www.typepad.com/" title="Blog">Blog</a> powered by <a href="https://www.typepad.com/" title="Typepad">Typepad</a><br />
+                Member since 08/2005
+
+        </div>
+</div>
+<div class="module-syndicate module">
+	<div class="module-content">
+	<a href="https://netcentricity.typepad.com/enterprise_info/atom.xml"><i class="fas fa-rss"></i> Subscribe to this blog's feed</a>
+	</div>
+</div>
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+
+
+		</div>
+	</div>
+	
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=1653494&amp;user_id=499604&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- ph=1 -->

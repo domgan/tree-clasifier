@@ -1,0 +1,2577 @@
+<!--  Default ver 1.2.2 --> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">   
+<!--Default_FS ver  1.2.2 -->                               
+
+                              
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">  
+<!--  head  ver 4.44 -->
+
+<head>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+ 
+<script type="text/javascript">
+        var bidiSupport = new Object();
+        bidiSupport.bidiAlignRight = "right";
+        bidiSupport.bidiAlignLeft = "left"; 
+        bidiSupport.bidiDirAttr = ""; 
+        bidiSupport.bidiImageRTL = null;
+        bidiSupport.isRTL = false;
+</script>
+
+
+<title> 
+	    Idaho Panhandle National Forests - Home
+	</title><!--<link href='about:blank' rel="shortcut icon" /> -->
+<link href='/Internet/scr/img/favicon.ico' rel="shortcut icon" />
+
+          
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/reset.min.css' rel="styleSheet" type="text/css" />
+
+   
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/WIDConsumption_Styles.min.css' rel="styleSheet" type="text/css" />
+
+<link  href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/print.min.css'  title="Printer-Friendly Style" media="print" rel="stylesheet" type="text/css" />    
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/WIDConsumption_Styles_pib.css' rel="styleSheet" type="text/css" />
+<script type="text/javascript" src="/wps/menu/menu_service.js"></script>
+<script type="text/javascript" >var menuService_AppletCodebase ="/wps/menu";</script>
+                                                                                                                            
+                        
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />                                                                    
+	<meta http-equiv="content-style-type" content="text/css" />                                                                     
+	<meta http-equiv="content-script-type" content="text/javascript" />
+        <meta name="google-site-verification" content="Ax0L7VHnhaVUM12uQO_hUgIiJA_vP_rRWuV9JkSEywM" />
+ 
+        
+	                        
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/rollover.js' type="text/javascript"></script>    
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ftiens4.js' type="text/javascript"></script>
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ua.js' type="text/javascript"></script>
+	                                                                                          
+	<!--Script Files for FCKEditor --><!-- Script for new foresee START 2-->
+	
+	<script type="text/javascript">
+	var subsiteCode = "110104"; 
+	
+    // Answers Cloud Services Embed Script v1.02
+    // DO NOT MODIFY BELOW THIS LINE *****************************************
+    ;(function (g) {
+        var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//gateway.answerscloud.com/fs-fed-us/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+        for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+        h.appendChild(am);
+        g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+    })(window);
+    // DO NOT MODIFY ABOVE THIS LINE *****************************************
+
+	</script>
+	<!-- Script for new foresee END -->
+	
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/yahoo_2.0.0-b3.js' 	></script>
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/event_2.0.0-b3.js' 	></script>
+    	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/dom_2.0.2-b3.js' 		></script>
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ie-select-width-fix.js'></script>
+	
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+
+	<script>
+    		var $pjq = jQuery.noConflict();
+	</script> 
+
+
+        
+
+		<script>
+			djConfig = {
+				parseOnLoad : true,
+				isDebug : false
+
+			};
+		</script>
+
+		<link rel="stylesheet" type="text/css"
+		href="/Internet/scr/dojo/dojo-1.9/dijit/themes/fsclaro/fsclaro.css" />
+        <script type="text/javascript" src="/Internet/scr/dojo/dojo-1.9/dojo/dojo.js">
+        </script>
+        
+	
+	
+	
+	<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-47791907-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);var _gaq = _gaq || [];
+  
+	  _gaq.push(['b._setAccount', 'UA-22225025-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+	  _gaq.push(['a._setAccount', 'UA-27627304-16']);
+	  _gaq.push(['a._setDomainName', 'usda.gov']);
+	  _gaq.push(['a._setAllowLinker', true]);
+	  _gaq.push(['a._trackPageview']);
+
+	  _gaq.push(['b._setAccount', 'UA-27627304-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+
+  
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();ga("send", "pageview");
+  
+	</script>
+
+	<!-- Google Analytics -->
+	<script type="text/javascript">function googleAna(gkey){try{
+	//var pageTracker=_gat._getTracker(gkey);
+	//pageTracker._trackPageview();
+	// The new asynchronous syntax
+	_gaq.push(['_setAccount', gkey]);
+	_gaq.push(['_trackPageview']);
+	}catch(err){}}
+	</script>
+	<!-- script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script -->
+	<!-- Google Analytics -->
+
+
+
+
+
+	<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&subagency=FS"></script>               
+
+</head>   
+                                                                                                                      
+	<body >                                                                                                                                                              		  	   
+		<table id="wptheme_pageArea" summary="" align="center"  border="0" cellpadding="0" cellspacing="0">                         
+		<!-- @@@@: Removed class="WIDBackgroundColor" from the table tag above -->                                                             
+			<tr>        
+			                          
+				<td width="100%" valign="top">                                                                                                                                                                                                                                                                                                                                                         
+					          
+					<div id="mainContent" style="width:960px;-moz-border-radius: 0 0 0px 20px;-webkit-border-bottom-left-radius: 20px;border-radius-left: 20px;">
+					<!-- @@@@: Removed class="WIDBackgroundColor" from the div tag above --> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDLogoInfoPortletView.jsp --><!-- Google Analytics --><!--moved to head.jspf--><!-- Google Analytics -->     
+			<div id="masthead">
+									
+						 <div id="logoSkipNav" class="WIDBackgroundColor" >
+						 <!-- Begin Skip Top Navigation -->
+     					 <a  tabindex="1" href="#skipheader"    title="Skip to main content">Skip to main content</a>
+      					 <!-- End Skip Top Navigation --></div>
+      					 
+						 <div  id="righthead" class="header" style="background-image: url(/Internet/FSE_BANNERIMAGES/fseprd597519.jpg);">
+						 <div class="headercorner">
+                         
+						 <ul>
+						<li id="usdalogo">
+						<a href="https://www.usda.gov"></a>
+					</li>
+					<li id="usdatitle">
+						<a href="https://www.usda.gov">United States Department of Agriculture</a>
+					</li>
+					<li id="fstitle">
+						<a href="https://www.fs.fed.us">Forest Service</a>
+					</li>
+					<li id="foresttitle" style="width:400px;text-align:right;">
+					
+                        <a href="https://fs.usda.gov/ipnf"><b>Idaho Panhandle National Forests</b></a>
+                    
+					</li>
+					<li id="fslogo">
+						<a href="https://www.fs.fed.us"></a>
+					</li>
+
+						 </ul>
+						 </div>
+						 </div>
+      					 
+					
+				</div>
+				
+			    
+				
+				<script type="text/javascript">googleAna('UA-20116816-10');googleAna('UA-15887590-1');</script>
+				
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDTopNavPortletView.jsp --> 
+<div id ="topnav" title="Top Navigation">
+	
+   		<div id="navlist">
+   		<ul>
+   		
+			 		
+		<li><a  href="https://www.fs.fed.us/ " target="_blank">Forest Service Home</a>
+			</li>
+		
+		
+			 		
+		<li><a  href="https://www.fs.fed.us/about-agency " target="_blank">About the Agency</a>
+			</li>
+		
+		
+			 		
+		<li><a  href="https://www.fs.fed.us/about-agency/contact-us " target="_blank">Contact the National Office</a>
+			</li>
+		
+		
+			 		
+		<li><a  href="https://www.fs.fed.us/inside-fs " target="_blank">Inside the FS</a>
+			</li>
+		
+		
+	</ul>
+	</div>
+		
+</div>
+
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:180px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		 <div id="leftcol">
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDQuickSearchPortletView.jsp -->
+
+
+
+
+
+
+
+
+ 
+<div id="righttop" class="navleft"> 
+<!--
+      <p class="headingtop">Search</p>	
+-->
+			
+				
+				
+				
+				
+				
+				
+				
+<!--
+disable search form until new search solution is in place
+				<form name="frmMenu" action="/wps/portal/fsinternet/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPN9QQKqLvpR-FRYGBrwFMAdAEoyJfZ990_aiCxJIM3cy8tHz9iMyCvDT9iIz83FT9guyoSADWqb5s/?ss=110104&amp;navtype=SEARCH&amp;cid=FSE_003585&amp;navid=091000000000000&amp;pnavid=null&amp;ttype=search&amp;pname=Idaho Panhandle National Forests  - Search" method="post"> 
+					<fieldset>  
+                			<legend>Search form</legend>  
+                			<label for="searchText">Search website</label> <div class="buttons" >
+           					
+							<input tabindex="2" type="text" id="searchText" name="searchText" value="" class="search"/>
+							
+								<button tabindex="3" name="submit" type="submit" >Go</button>
+								
+							 </div>
+					
+						<br clear="all"/>
+						
+						</fieldset>
+								
+						
+				</form>
+-->
+						 <ul class="searchlist" style='padding-top:5px'>
+							<li class="searchitem">
+							  <a id="SearchSiteMapURL" name="SearchSiteMapURL" href="/help/ipnf">Site Map</a>
+	        				</li>
+						</ul>
+				
+		</div>
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDLeftNavPortletView.jsp -->
+
+<script type="text/javascript">
+<!--
+	var eURL = "";
+	var nType ="";
+	var title ="";
+
+	
+	//test script
+		function initSelectOffice(oControl,encodedUrl,b,name)
+	{
+	    var theSelect = document.getElementById(oControl.name);
+	    eURL =encodedUrl;
+	    nType =name;
+	    theSelect.changed = false;
+	    theSelect.onfocus = selectOfficeFocussed;
+	    theSelect.onchange =  selectOfficeChanged ;	  	  
+	    theSelect.onkeydown = selectOfficeKeyed;
+	    theSelect.onclick = selectOfficeClicked;
+		
+	     return true;
+	}
+	
+	 
+	function selectOfficeChanged(theElement)
+	{
+	    var theSelect;
+	
+	    if (theElement && theElement.value)
+	    {
+	        theSelect = theElement;
+	    }
+	    else
+	    {
+	        theSelect = this;
+	    }
+	
+	    if (!theSelect.changed)
+	    {
+	        return false;
+	    }
+	    
+	    var paramArray = theSelect.value.split(".");	
+	    var queryParameters = document.getElementById("offices").value;
+	    document.NationalOffices.action =eURL+queryParameters;
+   	   	document.NationalOffices.submit();
+	   
+	}
+	
+	function selectOfficeClicked()
+	{
+	    this.changed = true;
+	  
+	}
+	
+	function selectOfficeFocussed()
+	{
+	    this.initValue = this.value;
+		
+	    return true;
+	}
+	
+	function selectOfficeKeyed(e)
+	{
+	    var theEvent;
+	    var keyCodeTab = "9";
+	    var keyCodeEnter = "13";
+	    var keyCodeEsc = "27";
+		
+	    if (e)
+	    {
+	        theEvent = e;
+	    }
+	    else
+	    {
+	        theEvent = event;
+	    }
+	
+	    if ((theEvent.keyCode == keyCodeEnter ) && this.value != this.initValue)
+	    {
+	        this.changed = true;
+	        selectOfficeChanged(this);
+	    }
+	    else if (theEvent.keyCode == keyCodeEsc)
+	    {
+	        this.value = this.initValue;
+	    }
+	    else
+	    {
+	        this.changed = false;
+	    }
+		
+	    return true;
+	}	
+//-->
+</script>
+<script type="text/javascript">var s1=new YAHOO.Hack.FixIESelectWidth('offices');</script>
+
+  
+
+<div class="navleft">  
+	
+	<p class="heading">Idaho Panhandle National Forests</p><ul>
+		
+				 <li  class="selected">
+						<a href="/main/ipnf/home">	<span class="leftNavSelectedText">Home</span></a></li>
+						<li>
+								<a href="/attmain/ipnf/specialplaces">	<span>Special Places</span></a>
+							</li>
+						
+						<li>
+								<a href="/recmain/ipnf/recreation">	<span>Recreation</span></a>
+							</li>
+						
+						<li>
+								<a href="/alerts/ipnf/alerts-notices">	<span>Alerts &amp; Notices</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/ipnf/passes-permits">	<span>Passes &amp; Permits</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/ipnf/maps-pubs">	<span>Maps &amp; Publications</span></a>
+							</li>
+						
+						<li>
+								<a href="/land/ipnf/landmanagement">	<span>Land &amp; Resources Management</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/ipnf/learning">	<span>Learning Center</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/ipnf/workingtogether">	<span>Working Together</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/ipnf/about-forest">	<span>About the Forest</span></a>
+							</li>
+						
+						<li>
+								<a href="/news/ipnf/news-events">	<span>News &amp; Events</span></a>
+							</li>
+						
+		
+		</ul>
+		
+
+			</div> 
+			
+							
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"></script>
+
+<!-- Begin WIDLocalContactInfoPortletView.jsp -->
+	          
+
+
+
+ 
+
+   <div id="leftcont" class="navleft">
+		<p class="heading">Contact Information</p>
+	         <p align="center"><a href="https://www.facebook.com/USFSIPNF/"><img alt="Facebook Logo" src="/Internet/FSE_MEDIA/fseprd675370.png" style="width: 32%;" /></a><a href="https://twitter.com/ID_PanhandleNFs"><img alt="Visit Us on Twitter" src="/Internet/FSE_MEDIA/fseprd675371.png" style="width: 32%; padding-left:2px;padding-right:2px" /></a><a href="https://www.flickr.com/photos/fsnorthernregion/collections/72157624361434747/"><img alt="Visit Us on Flickr" src="/Internet/FSE_MEDIA/fseprd675369.png" style="width: 32%;" /></a></p>
+
+<hr />
+<p><strong>Idaho Panhandle National Forests Supervisor&#39;s Office</strong><br />
+3232 West Nursery Road<br />
+Coeur d&#39;Alene, ID 83815<br />
+(208) 765-7223</p>
+
+<p><strong>Priest Lake Ranger District</strong><br />
+32203 Highway 57<br />
+Priest River, ID 83856<br />
+(208) 443-2512</p>
+
+<hr />
+<p><strong>Bonners Ferry Ranger District</strong><br />
+6286 Main Street<br />
+Bonners Ferry, ID 83805<br />
+(208) 267-5561</p>
+
+<hr />
+<p><strong>Sandpoint Ranger District</strong><br />
+1602 Ontario St.<br />
+Sandpoint, ID 83864<br />
+(208) 263-5111</p>
+
+<hr />
+<p><strong>Coeur d&#39;Alene River Ranger District</strong></p>
+
+<blockquote>
+<p><u>Fernan Office</u><br />
+2502 E. Sherman Ave<br />
+Coeur d&#39;Alene, ID 83814<br />
+(208) 664-2318<br />
+<br />
+<u>Silver Valley Office</u><br />
+173 Commerce Dr.<br />
+Smelterville, ID 83868<br />
+(208) 783-2363</p>
+</blockquote>
+
+<hr />
+<p><strong>St. Joe Ranger District</strong></p>
+
+<blockquote>
+<p><u>St. Maries Office</u><br />
+222 S. 7th, Suite #1<br />
+St. Maries, ID 83861<br />
+(208) 245-2531<br />
+<br />
+<u>Avery Office</u><br />
+34 Hoyt Drive<br />
+Avery, ID 83802<br />
+(208) 245-4517</p>
+</blockquote>
+
+<hr />
+<p><strong>Coeur d&#39;Alene Interagency Dispatch Center</strong><br />
+(208) 772-3283</p>
+
+<hr />
+<p><strong>Coeur d&#39;Alene Nursery</strong><br />
+(208) 765-7375</p>
+
+	         
+	         <p><a id="localContactUSURL" name="localContactUSURL" href="/contactus/ipnf/about-forest/contactus">Contact Us</a></p>
+	         
+	         <p class="bot"></p>
+   </div>
+	
+
+ 
+	
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+     
+
+<!-- Locator Map Portlet Start -->
+
+<!-- Locator Map Portlet End -->
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:760px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		 
+			<td width="100%">&nbsp;</td> 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDPageTitlePortletView.jsp -->
+
+<!-- page title portlet -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:520px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		<main><div id="centercol">
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+<a name="skipheader" id="skipheader"></a>
+<!-- Begin WIDWelcomePortletView.jsp -->
+
+<!-- view bean and searchResults treemap reference -->
+
+ 
+
+
+
+          
+ 
+	
+	
+    
+      
+    
+    
+    
+ 
+		
+		 	
+		 		<!-- gets dynamic conversion of content -->
+		 		<h1>Welcome to the<br />
+Idaho Panhandle National Forests</h1>
+
+<p><img alt="Photo of a Great Blue Heron" src="/Internet/FSE_MEDIA/stelprdb5084174.jpg" style="padding-bottom: 10px; padding-left: 10px; float: right; width: 140px; height: 187px;" />From the shores of big lakes to the banks of winding rivers, the Idaho Panhandle National Forests create a tapestry of land and water in the panhandle of North Idaho.</p>
+
+<p>Vast lakes and miles of rivers support a world-class fishery. Rich in wildlife, the forest is home to large game such as elk and deer, as well as species such as grizzly bears, wolves, and caribou. From lush evergreen mountains to the shores of big waters, the Idaho Panhandle has a rich history that continues to link families and forest. Come discover us!</p>
+
+<table style="width:100%;">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2>Continuing our Service to You During the COVID-19 Pandemic</h2>
+
+<p>Our offices are operating virtually until further notice. This means most employees are teleworking, and we are no longer doing any business in-person. To protect the health and safety of our employees and customers, we are not scheduling face-to-face meetings at our offices.</p>
+
+<p>However, continuing our service to you during this time is very important. Please call the office number (to the left) you want to contact and leave a voicemail, and we will return your call. The voicemail inboxes will be checked regularly during business hours. Our office hours are M-F 8:00 a.m. - 4:30 p.m.</p>
+
+<p>We appreciate your patience and understanding as we all work together to minimize the impacts and spread of the COVID-19.</p>
+
+<table style="width:100%;">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><a href="https://www.fs.usda.gov/detail/ipnf/passes-permits/?cid=fsm9_019032"><img alt="Firewood gathering information" src="/Internet/FSE_MEDIA/fseprd716590.jpg" style="width: 520px;" /></a></p>
+
+<p><a href="/Internet/FSE_DOCUMENTS/fseprd745051.pdf"><img alt="Recreation Site Updates" src="/Internet/FSE_MEDIA/fseprd717047.png" style="width: 520px;" /></a></p>
+
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2>Get Involved</h2>
+
+<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USDAFS/subscribers/qualify" id="GD-snippet-form" method="post" style="width:519px; margin-top:15px;"><input name="utf8" type="hidden" value="✓" /><input name="authenticity_token" type="hidden" value="KLCg5/HW6T2xqR2hZSmAYGSmPLzofAdEISgDledk+5Njfm/GLNt8pJm4X2nGTGcdqR4oSzD/VlrLG+yYR/1Wwg==" /> <input id="category_id" name="category_id" type="hidden" value="110104" />
+<fieldset><legend><font face="Arial, Helvetica, sans-serif" size="-1"> Sign up for Email Updates</font> </legend>
+
+<div style="margin-top:15px;"><font face="Arial, Helvetica, sans-serif" size="-1">To sign up for email updates on forest projects or to access your subscriber preferences, please enter your contact information below.</font></div>
+
+<ol class="form" style="margin-left:-10px;">
+	<li class="email_fields" style="display: block"><label for="email"><font color="#FF0000">*</font><font face="Arial, Helvetica, sans-serif" size="-1">Email Address</font></label> <input class="long" id="email" name="email" style="width:270px;;" type="text" /> <span class="button_panel" style="margin-left: 5px; font-family: Arial, Helvetica, sans-serif;"><input class="sr-button reverse" name="commit" style="background-color:rgb(204,204,204); padding-left:5px; padding-right:5px; height:30px;" type="submit" value="Submit" /></span></li>
+</ol>
+</fieldset>
+</form>
+
+<div align="center" style="width:100%; padding-top:15px; padding-bottom:5px; float:none">
+<h2 align="left">Quick Links to Your Outdoor Adventures</h2>
+
+<p align="left"><a href="/detail/ipnf/conditions/?cid=FSM9_019015"><img alt="Click here to find avalanche and other current winter condition information, including trail maps." src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd567478.png" style="width: 31%;  " /></a>&nbsp; <a href="/main/ipnf/maps-pubs"><img alt="Click here to find out getting a map on the Idaho Panhandle National Forest" src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd566227.png" style="width: 31%;  " /></a></p>
+</div>
+
+	 		
+      
+    		
+	    
+   	
+			  
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+	<h2>Recent News</h2>
+	<div style="position:relative;align:left;" class="rssstyle"><p>
+	<a  href="/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110104&amp;xFSENavChannel02=091000000000000&amp;pathinfo=/wps/portal/fsinternet/cs/detail/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPyBcqYKDvpR-FRYEBQgHQBKMiX2ffdP2ogsSSDN3MvLR8_YjMgrw0_YiM_NxU_YLsqEgANh-FEw!!/?navtype=BROWSEBYSUBJECT&amp;forestname=Idaho Panhandle National Forests " target="_blank">  	 							
+				<img id='rssimg'
+								name='rssimg' style="margin-top:2px;" border="0"
+								alt='RSS Feed'
+								src='/fseimages/rss.gif'/>
+								Subscribe to this feed
+	</a></p></div><div style="position:relative;align:left;" class="rssstyle"><p><a target="_blank" title="RSS Help" href="/Internet/FSE_DOCUMENTS/fse_rss_help_doc.html">
+		<img src='/fseimages/info.gif' style="margin-top:1px;" border="0" alt="RSS Help" id="rsshelp" name="rsshelp"/>
+		</a></p></div> <br clear="all"/> 
+		
+	    <ul>
+		
+		 
+		
+		
+		
+	    
+			
+			
+			
+		<li style="margin-top:5px;">
+		<a  href="/detail/ipnf/news-events/?cid=FSEPRD860813 "><b>Forest Service and Bureau of Land Management seek comments on proposed forest management activities for the Westside Restoration Project near Bonners Ferry</b></a>
+		
+		
+		<p class="dateline">Release Date: Dec 4, 2020&nbsp;&nbsp;</p>
+		
+		</li>
+	</ul>
+
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- BEGIN Feature Portlet JSP --><h2>Features</h2><!--		
+						<h3><a  href="/wps/portal/fsinternet/cs/main/ipnf/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPwBcqYKDvpR-FXwHQBKMiX2ffdP2ogsSSDN3MvLR8_YjMgrw0_YiM_NxU_YLsqEgA0JkGyA!!/?https://www.fs.usda.gov/detail/ipnf/alerts-notices/?cid=fseprd537431&amp;pname=Forest Service  ">Know Before You Go</a></h3>	-->
+							<h3><a style = "font-family:Helvetica,sans-serif;" href="https://www.fs.usda.gov/detail/ipnf/alerts-notices/?cid=fseprd537431">Know Before You Go</a></h3>
+									<p>Before heading out to the woods, be prepared with the best available information!</p>
+
+<ul>
+	<li><a href="http://www.fs.usda.gov/alerts/ipnf/alerts-notices">Alerts &amp; notices</a>,</li>
+	<li><a href="http://www.fs.usda.gov/main/ipnf/learning/safety-ethics">o</a><a href="http://www.fs.usda.gov/main/ipnf/learning/safety-ethics">utdoor safety tips</a>,</li>
+	<li><a href="http://www.fs.usda.gov/detail/ipnf/learning/safety-ethics/?cid=stelprdb5355158">prescribed fire information</a>,</li>
+	<li><a href="http://www.fs.usda.gov/detail/ipnf/alerts-notices/?cid=fseprd537431">road conditions</a></li>
+	<li><a href="http://www.fs.usda.gov/goto/ipnf/foodstorage">food storage requirements </a>in bear country,</li>
+	<li><a href="http://www.fs.usda.gov/detail/ipnf/alerts-notices/?cid=stelprdb5068699">avalanche conditions</a>,</li>
+	<li>and <a href="http://www.fs.usda.gov/recmain/ipnf/recreation">recreation information</a>.</li>
+</ul>				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDSubFeaturePortletView.jsp --><h2>Spotlights</h2>
+			<div class="spotlight">
+						
+						
+							<h3><a href="http://fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110104&navtype=BROWSEBYSUBJECT&cid=null&navid=150140000000000&pnavid=150000000000000&position=BROWSEBYSUBJECT&ttype=main&pname=Idaho%20Panhandle%20National%20Forests-%20History%20&%20Culture">Our Rich Heritage</a></h3>
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+							
+						    <a href="http://fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110104&navtype=BROWSEBYSUBJECT&cid=null&navid=150140000000000&pnavid=150000000000000&position=BROWSEBYSUBJECT&ttype=main&pname=Idaho%20Panhandle%20National%20Forests-%20History%20&%20Culture"><img id='sf_STELPRDB50729080'
+									name='sf_STELPRDB50729080'
+									align="left" 	class="FseImageMarginBorder"
+									height='114'
+									width='152'
+									alt='Photo: Launch at Boathouse. The USFS Firefly at Camp B. Distillery Bay, 1910'
+									src="/Internet/FSE_MEDIA/stelprdb5072908_tn.jpg" /></a>
+							<p>
+	Our heritage web pages tell a portion the IPNF story through photos, articles and documents that have been produced since the Heritage program first began in the late 1970s.</p>
+						</div>
+					
+			<div class="spotlight">
+						
+						
+							<h3><a href="https://www.fs.usda.gov/recarea/ipnf/recarea/?recid=6926">Route of the Hiawatha Rail-Trail</a></h3>
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+							
+						    <a href="https://www.fs.usda.gov/recarea/ipnf/recarea/?recid=6926"><img id='sf_STELPRDB5076613.jpg1'
+									name='sf_STELPRDB5076613.jpg1'
+									align="left" 	class="FseImageMarginBorder"
+									height='114'
+									width='152'
+									alt='Photo of riders looking at scenery along the trail.'
+									src="/Internet/FSE_MEDIA/stelprdb5076613_tn.jpg" /></a>
+							<p>Winding through nine tunnels and over seven high steel trestles, this 15-mile route crosses the Bitterroot Mountains between Idaho and Montana, and it is open to you! Click to find out more.</p>
+						</div>
+					<br clear="all"/>				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:220px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+	<div id="rightcol">
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDFireInformationPortletView.jsp -->
+
+<style type="text/css">
+
+div.dangerlevel {
+	width: 90px;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin: 2px auto 5px;
+	padding: 1px;
+	font-weight: 700
+}
+.dllow {
+	color: #EAE6C7;
+	background-color: #238E23
+}
+.dlmoderate {
+	color: #EAE6C7;
+	background-color: blue
+}
+.dlhigh {
+	color: #523929;
+	background-color: yellow
+}
+.dlveryhigh {
+	color: white;
+	background-color: #F26D21
+}
+.dlextreme {
+	color: #EAE6C7;
+	background-color: Red
+}
+.IFPL {
+	color: #42210B;
+	background-color: #EACE93
+}
+
+p.zonename {
+	text-align: Center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin: 0px auto;
+	padding: 2px 2px 3px 3px;
+	font-weight: 600;
+	color: #EACE93
+}
+
+img.zoneimg {
+        display: block;
+        margin: 0px auto;
+        padding: 0px;
+        font-size: 0
+}
+div.zonesignboard {
+	border-radius: 10px/3px;
+	background-color: #714428;
+	text-align: center;
+	display: block;
+	border: solid #42210B 2px;
+	margin: 0px auto;
+	padding: 2px 0px 0px 0px;
+	height: auto;
+	width: 200px
+}
+
+/*
+#URLsignboard {
+	border-radius: 3px/10px;
+	background-color: #FFFADC;
+	border: 2px solid darkgray;
+	margin: 0px auto;
+	width: 200px
+}
+
+#ur {
+	list-style-position: outside;
+	padding: 0px;
+	margin: 0px
+}
+
+#ur li  {
+	padding: 1px;
+	margin: 0px 2px 3px 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+#URLsignboard ul  {
+	list-style-image: url('/FSE_WIDTheme/themes/html/FSE_WIDTheme/images/right-box-list.gif');
+	list-style-position: outside;
+	padding: 0px;
+	margin: 0px
+ 
+}
+
+#URLsignboard ul li  { 
+	padding: 1px;
+	margin: 0px 2px 0px 25px
+
+}
+
+
+#URLsignboard ul li a:link, a:visited {
+	color: #000099;
+        text-decoration: none;
+	font-family: 85% Verdana, Arial, Helvetica, sans-serif;
+	font-size: .85em
+
+}
+#URLsignboard ul li  a:hover {
+        text-decoration: underline
+}
+
+*/
+
+#firerestrictiontitle {
+	text-align: center;
+	font-family:Ba/uskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	margin: 0px auto;
+	padding: 1px;
+	font-size: 14pt;
+	font-weight: 700;
+	color: darkslategrey
+}
+</style>
+
+
+
+<script>
+var signRope='/wps/PA_WIDConsumption/images/sign-rope.png';
+var rope='/wps/PA_WIDConsumption/images/rope.png';
+var chains='/wps/PA_WIDConsumption/images/firesignchains.png';
+function smokeyFireSign(){
+	var divfl2=$pjq('<div></div>').attr('id','fl2');
+	var img=$pjq('<img></img>').attr('alt','Fire Danger Sign').attr('src',signRope).addClass('zoneimg');
+	var fd=$pjq('#fd');
+	img.appendTo(divfl2);
+	divfl2.appendTo(fd);
+};
+
+function renderZoneBoard(id,value){
+	//var f=fireLevelNum(value.col3[0]);
+	var f=value.col3[0];
+	var ft=fireLevelText(f);
+	var fc=fireLevelClass(f);
+	//var ifpl=value.col4[0];
+	var ifpl=ifplRoman(value.col4[0]);
+	//alert(ifpl);
+	//alert(ft);
+	//alert(fc);
+	//alert(ifpl);
+	var zb;
+	var name;
+	if ((ft=='N/A') && (ifpl=='N/A')){
+	}else{
+		zb=$pjq('<div></div>').addClass('zonesignboard');
+		name=$pjq('<p/>').addClass('zonename').html(value.col2[0]);
+		name.appendTo(zb);
+	}
+	
+	if (ft=='N/A'){
+	}else {
+		var fdl=$pjq('<div></div>').addClass('dangerlevel').addClass(fc).html(ft);
+		fdl.appendTo(zb);
+	}
+	if (ifpl=='N/A'){
+		//do nothing on IFPL
+	}else {
+		var ifplt='IFPL '+ifpl;
+		var ifpldiv=$pjq('<div></div>').addClass('dangerlevel').addClass('IFPL').html(ifplt);
+		ifpldiv.appendTo(zb);
+	}
+	var divfl2=$pjq('#fl2');	
+	if ((ft=='N/A') && (ifpl=='N/A')){
+	}else {
+		zb.appendTo(divfl2);
+	}
+}
+
+function renderURLSignBoard(ur){
+	if (ur.length!=0) {
+		var zoneRopeImg=$pjq('<img/>').attr('src',rope).attr('alt','Chains').addClass('zoneimg');
+		var divfl2=$pjq('#fl2');	
+		zoneRopeImg.appendTo(divfl2);
+		var usb=$pjq('<div/>').attr('id','URLsignboard').attr('class','box').css('text-align','left');
+		var ul=$pjq('<ul/>');
+		ul.appendTo(usb);
+		$pjq.each(ur,function(key , value){
+			var li=$pjq('<li/>');
+			li.appendTo(ul);
+			var a=$pjq('<a/>').attr('href',value.col3[0]).attr('target','_blank').html(value.col2[0]);
+			a.appendTo(li);
+		});
+		var divfl2=$pjq('#fl2');	
+		usb.appendTo(divfl2);
+	}
+}
+function renderZones(fdlz,ur){
+	//alert(JSON.stringify(fdlz));
+	
+	$pjq.each(fdlz,function(key , value){
+		//alert(key);
+		//alert(JSON.stringify(value));
+		renderZoneBoard(key,value);
+		var zoneRopeImg=$pjq('<img/>').attr('src',rope).attr('alt','Chains').addClass('zoneimg');
+		var divfl2=$pjq('#fl2');	
+		if (key==(fdlz.length-1)) {
+		}else {
+			zoneRopeImg.appendTo(divfl2);
+		}
+	});		
+	renderURLSignBoard(ur);
+	//alert(JSON.stringify(ur));
+}
+
+function forestWide(f,ifpl){
+	//alert(f);
+	//alert(ifpl);
+
+	var ft=fireLevelText(f);
+	//alert(ft);
+	var fc=fireLevelClass(f);
+	var zb=$pjq('<div></div>').addClass('zonesignboard');
+	//alert(f);
+	if (f=='N/A'){
+	}else {
+		var fdl=$pjq('<div></div>').addClass('dangerlevel').addClass(fc).html(ft);
+		fdl.appendTo(zb);
+	}
+	if (ifpl=='N/A'){
+		//do nothing on IFPL
+	}else {
+		var ifplt='IFPL '+ifpl;
+		var ifpldiv=$pjq('<div></div>').addClass('dangerlevel').addClass('IFPL').html(ifplt);
+		ifpldiv.appendTo(zb);
+	}
+	var divfl2=$pjq('#fl2');	
+	zb.appendTo(divfl2);
+	//alert(fc);	
+};
+function fireLevelClass(l){
+	var ret;
+	switch (l){
+		case '1':
+			ret='dllow';	
+			break;
+		case '2':
+			ret='dlmoderate';
+			break;
+		case '3':
+			ret='dlhigh';
+			break;
+		case '4':
+			ret='dlveryhigh';
+			break;
+		case '5':
+			ret='dlextreme';
+			break;
+		default :
+			ret='dllow';
+			break;
+	}
+	return ret;
+	
+};
+
+function ifplRoman(ifpl){
+	var ret;
+	switch(ifpl){
+		case '1':
+			ret='I';	
+			break;
+		case '2':
+			ret='II';
+			break;
+		case '3':
+			ret='III';
+			break;
+		case '4':
+			ret='IV';
+			break;
+		case 'na':
+			ret='N/A';
+			break;
+		default :
+			ret=99;
+			break;
+	}
+	return ret;
+};
+
+function fireLevelNum(t){
+	var ret;
+	switch(t){
+		case 'Low':
+			ret='1';	
+			break;
+		case 'Moderate':
+			ret='2';
+			break;
+		case 'High':
+			ret='3';
+			break;
+		case 'Very High':
+			ret='4';
+			break;
+		case 'Extreme':
+			ret='5';
+			break;
+		case 'N/A':
+			ret='N/A';
+			break;
+		default :
+			ret='99';
+			break;
+	}
+	return ret;
+};
+
+function fireLevelTextFromNumeric(l){
+	var ret;
+	switch (l){
+		case 1:
+			ret='LOW';	
+			break;
+		case 2:
+			ret='MODERATE';
+			break;
+		case 3:
+			ret='HIGH';
+			break;
+		case 4:
+			ret='VERY HIGH';
+			break;
+		case 5:
+			ret='EXTREME';
+			break;
+		//case  '-1':
+		case  'na':
+			ret='N/A';
+			break;
+		default :
+			ret='N/A';
+			break;
+		
+	}
+	return ret;
+	
+};
+
+
+function fireLevelText(l){
+	var ret;
+	switch (l){
+		case '1':
+			ret='LOW';	
+			break;
+		case '2':
+			ret='MODERATE';
+			break;
+		case '3':
+			ret='HIGH';
+			break;
+		case '4':
+			ret='VERY HIGH';
+			break;
+		case '5':
+			ret='EXTREME';
+			break;
+		//case  '-1':
+		case  'na':
+			ret='N/A';
+			break;
+		default :
+			ret='N/A';
+			break;
+		
+	}
+	return ret;
+	
+};
+
+$pjq(document).ready(function(){
+	if (fireLevel2==null){
+		//alert(JSON.stringify(fireLevel1));
+		//carry over fireLevel1 value
+		smokeyFireSign();
+		forestWide(fireLevel1.toString(),'N/A');
+	}else {
+		//alert(JSON.stringify(fireLevel2));
+		if (fireLevel2.dangerLevelAt=='forest'){
+			var fln=fireLevelNum(fireLevel2.fwLevel);
+			if ((fln=='N/A') && (fireLevel2.ifplLevel=='N/A') ){
+				//if both are N/A don't display anything
+			}else {
+				smokeyFireSign();
+				forestWide(fln,fireLevel2.ifplLevel);
+				renderURLSignBoard(fireLevel2.ur);
+			}
+
+
+		}else{
+			smokeyFireSign();
+			renderZones(fireLevel2.fdlz,fireLevel2.ur);
+			
+		}
+	}
+});
+</script>
+
+<!--
+suspect for incorrect banner issue
+   
+-->
+
+
+
+
+
+
+
+
+
+
+          
+
+	   <div style="margin-bottom:10px;text-align:center;">   							
+	     	
+			
+			      
+        	  	 	 
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+				   	
+                 		 	
+				  
+				  
+				  
+				  
+				  
+				  
+
+				  
+
+
+
+
+
+
+
+
+
+
+				<script>
+				var fireLevel2= {"dangerLevelAt":"forest","fwLevel":"Low","ifplLevel":"N/A","fdlz":[],"ur":[{"id":[1],"col2":["InciWeb - Incident Information System"],"col3":["https://inciweb.nwcg.gov/"]},{"id":[2],"col2":["Idaho Fire Info & Restrictions"],"col3":["http://www.idahofireinfo.com/"]},{"id":[3],"col2":["Fire Management on the IPNF"],"col3":["https://www.fs.usda.gov/main/ipnf/fire"]},{"id":[4],"col2":["North Idaho Prescribed Fire Information"],"col3":["https://www.fs.usda.gov/detail/ipnf/fire/?cid=stelprdb5355158"]}]}
+				var fireLevel1= 1
+				</script>
+
+
+				<div id='fd'>
+				</div>
+
+
+
+							
+				
+	 		 
+ 						
+      </div>
+  
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDPromoPortletView.jsp -->
+       	<div class="showcase">
+        <a href="https://www.recreation.gov/tree-permits/06470967-e7d1-11ea-8710-eabd4664df5f">								
+								<img align="middle"  width="218" id='PromoFSEPRD84282661' name='PromoFSEPRD84282661' 
+									class="showcaseimg" alt='Get a Christmas Tree permit'
+									src="/Internet/FSE_MEDIA/fseprd842826.png"/>
+							</a>
+							<p class="showcasetxt"><a  href="https://www.recreation.gov/tree-permits/06470967-e7d1-11ea-8710-eabd4664df5f ">Get your Christmas tree permit now!</a></p>
+						
+			    		<br/>
+						
+	</div>    			
+        <a href="https://www.fs.usda.gov/alerts/ipnf/alerts-notices">								
+								<img align="middle"  width="218" id='PromoFSEPRD74903562' name='PromoFSEPRD74903562' 
+									class="showcaseimg" alt='Alerts, Warnings and Closures'
+									src="/Internet/FSE_MEDIA/fseprd749035.png"/>
+							</a>
+							<p class="showcasetxt"><a  href="https://www.fs.usda.gov/alerts/ipnf/alerts-notices ">Alerts, Notices &amp; Warnings</a></p>
+						
+			    		<br/>
+						<a href="https://store.usgs.gov/filter-products?sort=relevance&amp;lq=Idaho%20panhandle">								
+								<img align="middle"  width="218" id='PromoFSEPRD74902363' name='PromoFSEPRD74902363' 
+									class="showcaseimg" alt='Buy forest maps online at the USGS map store'
+									src="/Internet/FSE_MEDIA/fseprd749023.png"/>
+							</a>
+							<p class="showcasetxt"><a  href="https://store.usgs.gov/filter-products?sort=relevance&amp;lq=Idaho%20panhandle ">Buy our Maps Onine at USGS</a></p>
+						
+						<p class="showcasebot">&nbsp;</p>		
+										
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDQuickLinksPortletView.jsp   -->
+        <div class="box">
+    	   
+						<p class="boxheading">Quick Links</p>
+													
+             <ul>	
+	    		
+								<li><a  href="https://www.facebook.com/USFSIPNF/ " target="_blank">Follow Us on Facebook</a>
+ 								     <img id="quickLink_img_37249" name="quickLink_img_37249" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+								
+								</li>
+							
+								<li><a  href="https://www.fs.usda.gov/projects/ipnf/landmanagement/projects ">IPNF Projects</a></li>
+							
+								<li><a  href="https://www.fs.fed.us/sopa/forest-level.php?110104 ">IPNF Schedule of Proposed Actions (SOPA)</a></li>
+							
+								<li>
+                                      <a  target="_blank" 
+   									   href='/Internet/FSE_DOCUMENTS/fseprd804881.pdf'> RAC Project Proposal Form
+									</a>
+
+									<img id="quickLink_img_46425" name="quickLink_img_46425"  align="middle" alt="Link opens in a Pdf Document" src="/fseimages/pdf.gif" /> 
+								</li>
+							
+								<li>
+                                      <a  target="_blank" 
+   									   href='/Internet/FSE_DOCUMENTS/fseprd795402.pdf'> Tussock Moths in Idaho Forests
+									</a>
+
+									<img id="quickLink_img_46374" name="quickLink_img_46374"  align="middle" alt="Link opens in a Pdf Document" src="/fseimages/pdf.gif" /> 
+								</li>
+							
+								<li><a  href="/detail/ipnf/home/?cid=stelprdb5342484 ">Report Suspicious Activity on Your National Forest</a></li>
+							
+								<li><a  href="https://www.fs.usda.gov/detail/ipnf/landmanagement/projects/?cid=fseprd572569 ">Kaniksu Over-snow Vehicle Travel Planning</a></li>
+							
+								<li><a  href="http://www.fs.usda.gov/detail/ipnf/recreation/?cid=stelprdb5421056 ">Respect the River</a></li>
+							
+								<li><a  href="https://www.fs.fed.us/ivm/index.html?minx=-13240622&amp;miny=5872935&amp;maxx=-12614450&amp;maxy=6319327&amp;exploremenu=no " target="_blank">Visit the Forest's Interactive Visitor Map</a>
+ 								     <img id="quickLink_img_42402" name="quickLink_img_42402" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+								
+								</li>
+							
+								<li><a  href="http://fs.usda.gov/goto/ipnf/mvum ">MVUM</a></li>
+							 </ul>
+	 					        
+	              </div>
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDQuickLinksPortletView.jsp   -->
+       <div class="box">
+       		<p class="boxheading">Alerts &amp; Warnings</p>
+       		<ul>
+			
+						
+						
+						<li ><a  href="/alerts/ipnf/alerts-notices/?aid=58931 ">Tentative Opening Dates for Rec Facilities on the Idaho Panhandle NF</a>   </li>
+								
+						 	
+						
+						
+						<li ><a  href="/alerts/ipnf/alerts-notices/?aid=9036 ">Food Storage Requirements on Bonners Ferry, Priest Lake &amp; Sandpoint Districts</a>   </li>
+								
+						 	 </ul>
+	 				    <p> <a title="View All Forest Alerts" href="/alerts/ipnf/alerts-notices">
+						View All Forest Alerts <span class="more">&nbsp;&nbsp;</span> 
+						</a></p>
+       </div>
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDHighlightsPortletView.jsp -->
+	   <div class="box">  
+	      
+				<p class="boxheading">Highlights</p>
+											
+	    	<ul>
+			
+						<li><a  href="https://twitter.com/ID_PanhandleNFs ">Follow us on Twitter!</a>
+							<br/>
+							<a class="twitter-timeline" data-height="600" data-theme="light" href="https://twitter.com/ID_PanhandleNFs?ref_src=twsrc%5Etfw">Tweets by ID_PanhandleNFs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</li>
+					 </ul>
+ 						                 		
+      </div>
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDPromoPortletView.jsp -->				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDFooterNavPortletView.jsp -->
+
+<br />
+<br />
+
+
+
+
+</main><div id="footer"><p> 
+				 <a href="https://www.fs.fed.us/" name="lnkFo">Forest Service Home</a> | <a href="https://www.usda.gov/" name="lnkUS">USDA.gov</a> | <a href="https://www.recreation.gov/" name="lnkre">recreation.gov</a> | <a href="https://www.fs.fed.us/visit/recreation-customer-service-standards/" name="lnkRe">Recreation Customer Service Standards</a> | <a href="https://www.usa.gov/" name="lnkUS">USA.gov</a> | <a href="https://www.whitehouse.gov/" name="lnkWh">Whitehouse.gov</a></p><p> 
+				 <a href="https://www.fs.fed.us/plugins.shtml" name="lnkPl">Plug-Ins</a> | <a href="https://www.dm.usda.gov/foia/" name="lnkFO">FOIA</a> | <a href="https://www.usda.gov/accessibility-statement" name="lnkAc">Accessibility Statement</a> | <a href="https://www.usda.gov/privacy-policy" name="lnkPr">Privacy Policy</a> | <a href="https://www.fs.fed.us/about-agency/disclaimers-important-notices" name="lnkIm">Important Notices</a> | <a href="https://www.fs.fed.us/qoi/" name="lnkIn">Information Quality</a></p></div>				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>              
+					</div>                   
+				</td>                                    
+			</tr>   
+		</table>						   		
+	<style>
+.hidewebpageurl {
+display: none;
+visibility: hidden;
+}
+</style>
+<div class="hidewebpageurl" id="webpage_url">https://www.fs.usda.gov/ipnf/</div></body>   
+</html>                         
+<!-- FSE_WIDTheme_war.ear version 18 -->

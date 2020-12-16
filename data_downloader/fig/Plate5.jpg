@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+<TITLE>NewCROP HomePage</TITLE>
+
+<!--this script makes the google submit button work-->
+<script language="JavaScript" type="text/javascript">
+<!--
+ function googleSearch ( selectedtype )
+ {
+  document.google.google.value = selectedtype ;
+  document.google.submit() ;
+ }
+-->
+</script>
+<!--end googlet submit button-->
+<link rel="stylesheet" type="text/css" href="stylesheets/style.css" />
+
+</HEAD>
+
+<BODY bgcolor="#FFFFFF">
+
+<CENTER><A href="http://www.hort.purdue.edu/hort/">Horticulture and Landscape Architecture</A><FONT color="green">|</FONT><A href="http://www.purdue.edu/">Purdue University</A></CENTER>
+
+<HR>
+
+<TABLE border=0 cellpadding="1"><TR>
+
+<TD valign="top"><IMG src="icons/logo_color.jpeg" alt="New Crop logo">
+
+<br><br><p></p></TD>
+
+
+
+<TD align="bottom">
+
+<H2>Welcome to <FONT size="+2">NewCROP<SUP><FONT size="+1">TM</FONT></SUP></FONT><BR>
+
+the <FONT size="+2">N</FONT>ew <FONT size="+2">C</FONT>rop <FONT size="+2">R</FONT>esource  <FONT size="+2">O</FONT>nline<FONT size="+2"> P</FONT>rogram</H2>
+
+<P>The Web site of the <A href="/newcrop/newCrops.html"> <B> Center for New Crops &amp; Plant Products</B></A>, at Purdue University.  NewCROP provides windows to new and specialty crop profiles.</p>
+</TD>
+
+</TR></TABLE>
+
+
+
+<HR>
+
+<IMG align="right" src="/newcrop/pics/harvest.gif" width="144" height="196" hspace="10" alt="harvest">
+
+<FONT size="+1" size+="1"><B><A href="/newcrop/help.html">Help</A></B></FONT> Strategies for using NewCROP<BR>
+
+<HR>
+
+<FONT size="+1" size+="1"><B><A href="/newcrop/Indices/index_ab.html">CropINDEX</A></B></FONT> A list of scientific and common names of crops for information access<BR>
+
+<HR>
+
+<form action="http://www.google.com/search" method="get" name="google" id="google">
+<font size="+1" size+="1"><b>CropSEARCH</b> </font> 
+
+	<INPUT TYPE=text name=q size=19 maxlength=255 value="Google it!" onFocus="value=''">
+	<input type="hidden" name="google" />
+	<a href="javascript:googleSearch ('Submit')" class="menulink">Submit</a>
+
+	<input type=hidden name=sitesearch value="www.hort.purdue.edu/newcrop" checked>
+<!--
+<font size="+1" size+="1"><b><a href="/newcrop/SearchEngine.html">CropSEARCH</a></b> </font> 
+A search engine to access crop information based upon key words
+-->
+<!--
+
+<form action="http://www.google.com/search" method="get" name="google" target="blank" id="google">
+NewCROP <font color="#003399">G</font><font color="#ff0000">o</font><font color="#D2A600">o</font><font color="#003399">g</font><font color="#30a72f">l</font><font color="#ff0000">e</font> Search</b>
+	<INPUT TYPE=text name=q size=19 maxlength=255 value="Google it!" onfocus="value=''">
+	<input type="hidden" name="google" />
+	<a href="javascript:googleSearch ('Submit')" class="menulink">Submit</a>
+
+	<input type=hidden name=sitesearch value="www.hort.purdue.edu/newcrop" checked>
+
+</form>
+-->
+<HR>
+
+<FONT size="+1" size+="1"><B><A href="/newcrop/cropmap/default.html">CropMAP</A></B></FONT> A nation-wide (US) location-specific crop information system<BR>
+
+
+
+<HR>
+<FONT size="+1" size+="1"><B><A href="projects.html">Current Projects</A></B></FONT> 
+Classes, presentations, websites<BR>
+
+
+
+<HR>
+
+<FONT size="+1" size+="1"><B><A href="/newcrop/CropReference/crop_reference.html">CropREFERENCE</A></b></FONT>  Books and manuals on crops
+
+<HR>
+
+<FONT size="+1" size+="1"><B><A href="/newcrop/experts/experts.html"> CropEXPERT</A></b></FONT> Directory of new crop resource personnel
+
+<HR>
+<!--
+
+<FONT size="+1" size+="1"><B><A href="/newcrop/maillist/default.html">NewCrop DISCUSSION GROUP</A></b></FONT>  An e-mail list for queries, discussion, and information  on  crops
+
+<HR>
+
+<FONT size="+1" size+="1"><A href="/newcrop/med-aro/default.html"><B>Aromatic-MedicinalPLANTS</b></A></FONT> A guide to aromatic &amp; medicinal plants, culinary herbs &amp; spices
+
+<HR>-->
+
+<FONT size="+1" size+="1"><B><A href="/newcrop/ImportExport/ie_index.html">IMPORT&#0151;EXPORT</A> </b></FONT> Plant quarantine information and phytosanitation permits for all countries.
+
+<HR>
+
+<FONT size="+1" size+="1"><B><A href="https://www.purdue.edu/hla/sites/famine-foods/">Famine Foods</A></b></FONT>   A list of unconventional food sources
+
+<HR>
+
+<FONT size="+1" size+="1"><B><A href="/newcrop/related_web_sites.html">NewCrop LINKS</A></b></FONT> Connections to  related web sites, external data-bases, and libraries
+
+
+
+<HR>
+
+<p><FONT color="green">What is NewCROP?  </FONT><BR>
+
+Online since 1995, NewCROP (New Crops Resource Online Program) is an information-rich site related to crop plants. It is a project of the Purdue University Center for New Crops and Plant Products and is associated with the New Crop Diversification project and the Jefferson Institute.</p> 
+
+
+
+<p><FONT color="green">Acknowledgements: </FONT><BR>
+
+<FONT size="-1">Funding provided by the Indiana <FONT size+="1"><B>B</B></FONT>usiness <FONT size+="1"><B>M</B></FONT>odernization and <FONT size+="1"><B>T</B></FONT>echnology Corporation and the Indiana Center for New Crops and Plant Products, Indiana Value-Added Grant Program, and the Jefferson Institute.</FONT></p>
+
+
+
+<p><FONT size="-1">We welcome your comments, constructive suggestions and hope you'll let us know if you are experiencing any problems while using the system.  Good luck and welcome again to NewCROP<SUP><FONT size="-3">TM</FONT></SUP>.</FONT></p>
+
+
+ 
+<hr>
+
+<p><FONT size="-1">This is an official World Wide Web page of Purdue University.<BR>
+
+  Suggestions and comments about this web site may be directed to:<BR>
+
+  <A href="https://ag.purdue.edu/hla/Pages/Profile.aspx?strAlias=janick&intDirDeptID=16">Jules Janick</A> 765-494-1329<br>
+
+Center for New Crops & Plant Products<BR>
+Purdue University<br>
+Department of Horticulture and Landscape Architecture<br>
+625 Agriculture Mall Drive<BR>
+West Lafayette, IN 47907-2010<br> 
+Fax: 765-494-0391:<BR>
+
+</p>
+<div id="footer">
+ <font size=-1>  
+<p>Copyright &copy; 2017, Purdue University, all rights  reserved. Purdue University is an equal access/equal opportunity university. If you have trouble accessing this page because of a disability, please contact the NewCROP Center | email: <a href="mailto:newcrop@purdue.edu">newcrop@purdue.edu</a> | phone: 765-494-6968.</p> 
+
+<p><font size=-2> 
+Last modified: July 15 2020  by aw</font></p>
+
+
+</div>
+
+</BODY>
+
+</HTML>
+

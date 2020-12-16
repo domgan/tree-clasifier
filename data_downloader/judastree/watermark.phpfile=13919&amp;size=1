@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs GalleryLazyLoader LoggedOut Sidebar RunDeferred Responsive" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	
+		<base href="http://www.digikeep.com/forum/" />
+		<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "http://www.digikeep.com/forum/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+	
+
+	<title>DigiKeep.com</title>
+	
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=5&amp;dir=LTR&amp;d=1580311256" />
+	<link rel="stylesheet" href="css.php?css=login_bar,nat_public_css,notices,panel_scroller&amp;style=5&amp;dir=LTR&amp;d=1580311256" />
+	
+	
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+	
+		<script src="js/jquery/jquery-1.11.0.min.js"></script>	
+		
+	<script src="js/xenforo/xenforo.js?_v=c8bda3c7"></script>
+
+	
+	<link rel="apple-touch-icon" href="http://www.digikeep.com/forum/styles/default/xenforo/dklogo.og.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for DigiKeep.com" href="forums/-/index.rss" />
+	
+	<link rel="canonical" href="http://www.digikeep.com/forum/" />
+	<meta name="description" content="DigiKeep community, forums, meets and photo club" />
+		<meta property="og:site_name" content="DigiKeep.com" />
+	
+	<meta property="og:image" content="http://www.digikeep.com/forum/styles/default/xenforo/dklogo.og.png" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.digikeep.com/forum/" />
+	<meta property="og:title" content="DigiKeep.com" />
+	<meta property="og:description" content="DigiKeep community, forums, meets and photo club" />
+	
+	
+	
+
+</head>
+
+<body>
+
+
+
+	
+
+<div id="loginBar">
+	<div class="pageWidth">
+		<div class="pageContent">	
+			<h3 id="loginBarHandle">
+				<label for="LoginControl"><a href="login/" class="concealed noOutline">Log in</a></label>
+			</h3>
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+
+<div id="content" class="forum_list">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<!-- main content area -->
+			
+			
+			
+			
+				<div class="mainContainer">
+					<div class="mainContent">
+						
+						
+						
+						
+						<div class="breadBoxTop ">
+							
+							
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>DigiKeep.com</strong></div>
+		
+		<span class="crumbs">
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://www.digikeep.com/forum/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+		</span>
+	</fieldset>
+</nav>
+						</div>
+						
+						
+						
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+	
+
+	
+						
+						
+						
+						
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1>DigiKeep.com</h1>
+								
+								
+							</div>
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+
+
+
+
+
+	
+
+
+
+	
+
+
+	
+
+						
+						
+						
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm " id="login" style="display:none">
+
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Password:</label>
+			</dt>
+			<dd>
+				<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+				<div class="lostPasswordLogin"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?</a></div>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign up" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/forum/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+					</div>
+				</div>
+				
+				<!-- sidebar -->
+				<aside>
+					<div class="sidebar">
+						
+						
+						
+
+<div class="section loginButton">		
+	<div class="secondaryContent">
+		<label for="LoginControl" id="SignupButton"><a href="login/" class="inner">Log in</a></label>
+	</div>
+</div>
+
+
+
+
+						
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+
+<!-- block: forum_stats -->
+		
+		<!-- end block: forum_stats -->
+
+		
+		
+		
+	
+
+						
+						
+					</div>
+				</aside>
+			
+			
+						
+			<div class="breadBoxBottom">
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>DigiKeep.com</strong></div>
+		
+		<span class="crumbs">
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="http://www.digikeep.com/forum/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+						
+			
+						
+		</div>
+	</div>
+</div>
+
+<header>
+	
+
+
+<div id="header">
+	<div id="logoBlock">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<div id="logo"><a href="http://www.digikeep.com/forum/">
+				<span></span>
+				<img src="styles/default/xenforo/digi_bb_logo9.png" alt="DigiKeep.com" />
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+<div id="navigation" class="pageWidth ">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+		
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums selected">
+			
+				<a href="http://www.digikeep.com/forum/" class="navLink">Forums</a>
+				<a href="http://www.digikeep.com/forum/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="tabLinks forumsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Forums</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						
+						
+						
+						<li><a href="find-new/posts" rel="nofollow">Forums Closed</a></li>
+					
+					</ul>
+				</div>
+			</li>
+		
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+		
+		<!-- members -->
+						
+		
+		<!-- extra tabs: end -->
+		
+		
+			
+				<li class="navTab nodetab110 PopupClosed">
+					<a href="http://www.digikeep.com/forum/pages/Info/" class="navLink">Information</a>
+					
+				</li>
+			
+		
+		
+
+		<!-- responsive popup -->
+		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
+						
+			<a rel="Menu" class="navLink NoPopupGadget"><span class="menuIcon">Menu</span></a>
+			
+			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+		</li>
+			
+		
+		<!-- no selection -->
+		
+		
+	</ul>
+	
+	
+</div>
+
+<span class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+	
+</div>
+
+	
+	
+</header>
+
+</div>
+
+<footer>
+	
+
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+						
+			<ul class="footerLinks">
+			
+				<li><a href="misc/contact" class="OverlayTrigger" data-overlayOptions="{&quot;fixed&quot;:false}"">Contact Us</a></li>
+				<li><a href="help/">Help</a></li>
+				<li><a href="http://www.digikeep.com/forum/" class="homeLink">Home</a></li>
+				<li><a href="/forum/#navigation" class="topLink">Top</a></li>
+			
+			
+			</ul>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+
+<div class="footerLegal">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<ul id="legal">
+			
+				
+				
+			
+			</ul>
+			
+			<div id="copyright"> Copyright 1991-2020 Powerline Systems Ltd.</div>
+			
+		
+			
+			
+			<span class="helper"></span>
+		</div>
+	</div>	
+</div>
+
+</footer>
+
+<div class="bottomFixer">
+	
+	
+		
+		
+		
+		<div class="PanelScrollerOff Notices">
+			<div class="scrollContainer">
+				<div class="PanelContainer">
+					<ol class="Panels">
+						
+							<li class="panel Notice DismissParent notice_-1 " data-notice="-1">
+	
+	<div class="baseHtml noticeContent"><div class="noticeCookiesContent">
+	<div class="noticeCookiesContentRow">
+		This site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.<br />
+By continuing to use this site, you are consenting to our use of cookies.
+	</div>
+	
+	<div class="noticeCookiesContentRow noticeCookiesContentButtonRow">
+		<a href="account/dismiss-notice?notice_id=-1" class="button CustomDismissCtrl">Accept</a>
+		<a href="help/cookies" class="button">Learn More...</a>
+	</div>
+</div></div>
+	
+	
+		<a href="account/dismiss-notice?notice_id=-1"
+			title="Dismiss Notice" class="DismissCtrl Tooltip" data-offsetx="7" data-tipclass="flipped">Dismiss Notice</a>
+</li>
+						
+					</ol>
+				</div>
+			</div>
+		</div>
+	
+
+</div>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1608153390,
+		today: 1608076800,
+		todayDow: 3
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "0",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 0,
+		closeSpeed: 0,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 0,
+			closeSpeed: 0
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"nat_public_css":true,"login_bar":true,"notices":true,"panel_scroller":true},
+	_cookieConfig: { path: "/", domain: ".digikeep.com", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "c8bda3c7",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	xengallery_lightbox_loading:	"Loading...",
+	xengallery_lightbox_close:	"Close (Esc)",
+	xengallery_lightbox_previous:	"Previous (Left arrow key)",
+	xengallery_lightbox_next:	"Next (Right arrow key)",
+	xengallery_lightbox_counter:	"%curr% of %total%",
+	xengallery_lightbox_error:	"The <a href=\"%url%\">media<\/a> could not be loaded.",
+	xengallery_touch_error:		"This operation will not work from a touch enabled device.",
+	cancel: "Cancel",
+
+	a_moment_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "";
+XenForo.Facebook.forceInit = false;
+
+
+
+
+
+</script>
+
+
+
+
+</body>
+</html>

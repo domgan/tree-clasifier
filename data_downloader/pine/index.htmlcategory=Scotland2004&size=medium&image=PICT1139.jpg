@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="live">
+<head>
+	<meta charset="utf-8">
+	<title>Website Closed</title>
+	<link rel="stylesheet" href="/common/httperrors/default_min.css">
+	<meta name="theme-color" content="#CCCCCC">
+	<meta name="robots" content="noindex, follow">
+	<link rel="home" href="/">
+</head>
+<body id="tmti_error">
+	<div class="bodycontainer">
+		<div id="header">
+			<a name="top"></a>
+			<div class="notdisplayed">
+				<a href="#contentstart">Skip to content</a>
+			</div>
+			<div id="masthead">
+				<a href="/"></a>
+			</div>
+		</div>
+		<div id="content" class="metal radial">
+			<a name="contentstart"></a>
+			<h1>Website Closed</h1>
+			<div id="contentlayout">
+				<div id="devicecontent">
+					<div id="devicetext">
+	<p>
+		Sorry, this website has closed and is no longer available.
+	</p>
+	<p class="closed">
+		<span lang="fr">Fermé</span>;
+<span lang="de">geschlossen</span>;
+<span lang="es">cerrado</span>;
+<span lang="it">chiuso</span>;
+<span lang="nl">gesloten</span>;
+<span lang="pl">zamkniete</span>;
+<span lang="pt">fechado</span>;
+<span lang="se">stängt</span>;
+<span lang="da">lukket</span>;
+<span lang="no">stengt</span>;
+<span lang="cy">ar gau</span>;
+<span lang="tr">kapal&#305;</span>;
+<span lang="el">&#954;&#955;&#949;&#953;&#963;&#964;&#972;</span>;
+<span lang="ru">&#1079;&#1072;&#1082;&#1088;&#1099;&#1090;&#1086;</span>;
+<span lang="zh">&#20851;&#38381;</span>;
+<span lang="ja">&#38281;&#12376;&#12383;</span>;
+<span lang="ko">&#45803;&#51008;</span>;
+<span lang="ar">&#1605;&#1594;&#1604;&#1602;</span>;
+<span lang="th">&#3611;&#3636;&#3604;</span>;
+<span lang="vi">&#273;&#243;ng c&#7917;a</span>;
+<span lang="hi">&#2348;&#2306;&#2342;</span>;
+<span lang="he">&#1505;&#1490;&#1493;&#1512;</span>
+	</p>
+	<p class="apology">
+	 	We apologise for any inconvenience this may cause.
+	 </p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="footer"></div>
+	</div>
+</body>
+</html>

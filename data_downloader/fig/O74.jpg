@@ -1,0 +1,1633 @@
+<!DOCTYPE html>
+<html lang="cs-cz" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta charset="utf-8" />
+	<base href="https://botanika.wendys.cz/index.php" />
+	<meta name="keywords" content="rostliny,květiny,kytky,zahrada,byliny,flóra,herbář,bylinky,fytoterapie,botanika,příroda,šamanismus,zvířata" />
+	<meta name="description" content="Herbář rostlin planých i zahradních" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Herbář Wendys - Domů</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_jcomments/tpl/default/style.css?v=3002" rel="stylesheet" />
+	<link href="/templates/protostar/css/template.css?deba46b3e4f76fbfb1fe74b03eee249d" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
+	<link href="/modules/mod_universal_ajaxlivesearch/cache/100/853d0d8fc421fb56a87a701ff736f2e8.css" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Alegreya:900" rel="stylesheet" />
+	<style>
+
+	h1, h2, h3, h4, h5, h6, .site-title {
+		font-family: 'Open Sans', sans-serif;
+	}
+	body.site {
+		border-top: 3px solid #2b7a55;
+		background-color: #4ba367;
+	}
+	a {
+		color: #2b7a55;
+	}
+	.nav-list > .active > a,
+	.nav-list > .active > a:hover,
+	.dropdown-menu li > a:hover,
+	.dropdown-menu .active > a,
+	.dropdown-menu .active > a:hover,
+	.nav-pills > .active > a,
+	.nav-pills > .active > a:hover,
+	.btn-primary {
+		background: #2b7a55;
+	}		.layout#kunena + div { display: block !important;}
+		#kunena + div { display: block !important;}
+	</style>
+	<script src="/media/jui/js/jquery.min.js?deba46b3e4f76fbfb1fe74b03eee249d"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?deba46b3e4f76fbfb1fe74b03eee249d"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?deba46b3e4f76fbfb1fe74b03eee249d"></script>
+	<script src="/media/system/js/caption.js?deba46b3e4f76fbfb1fe74b03eee249d"></script>
+	<script src="/media/jui/js/bootstrap.min.js?deba46b3e4f76fbfb1fe74b03eee249d"></script>
+	<script src="/templates/protostar/js/template.js?deba46b3e4f76fbfb1fe74b03eee249d"></script>
+	<!--[if lt IE 9]><script src="/media/jui/js/html5.js?deba46b3e4f76fbfb1fe74b03eee249d"></script><![endif]-->
+	<script src="/modules/mod_universal_ajaxlivesearch/engine/dojo.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/dojo/1.6/dojo/dojo.xd.js"></script>
+	<script src="/modules/mod_universal_ajaxlivesearch/cache/100/38fbc685ca8aa45e1678d3ea18f76443.js"></script>
+	<script src="/plugins/system/antispambycleantalk/js/ct-functions.js?1608152877"></script>
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});var ct_joom25=false;ctSetCookie("ct_checkjs", "897594", "0");
+	</script>
+	<script type="text/javascript">
+  dojo.addOnLoad(function(){
+      document.search = new AJAXSearchelegant({
+        id : '100',
+        node : dojo.byId('offlajn-ajax-search100'),
+        searchForm : dojo.byId('search-form100'),
+        textBox : dojo.byId('search-area100'),
+        suggestBox : dojo.byId('suggestion-area100'),
+        searchButton : dojo.byId('ajax-search-button100'),
+        closeButton : dojo.byId('search-area-close100'),
+        searchCategories : dojo.byId('search-categories100'),
+        productsPerPlugin : 3,
+        dynamicResult : '1',
+        searchRsWidth : 460,
+        searchImageWidth : '180',
+        minChars : 2,
+        searchBoxCaption : 'Najít',
+        noResultsTitle : 'Nic nenalezeno',
+        noResults : 'Pro tento výraz nebylo nic nalezeno.',
+        searchFormUrl : '/index.php',
+        enableScroll : '1',
+        showIntroText: '1',
+        scount: '6',
+        lang: '',
+        stext: 'Nic nenalezeno. Neměl jste na mysli?',
+        moduleId : '100',
+        resultAlign : '0',
+        targetsearch: '0',
+        linktarget: '0',
+        keypressWait: '500',
+        catChooser : 1,
+        searchResult : 1,
+        seemoreEnabled : 1,
+        seemoreAfter : 30,
+        keywordSuggestion : '0',
+        seeMoreResults : 'Zobrazit více výsledků ...',
+        resultsPerPage : '4',
+        resultsPadding : '10',
+        controllerPrev : 'PREV',
+        controllerNext : 'NEXT',
+        fullWidth : '1',
+        resultImageWidth : '180',
+        resultImageHeight : '100',
+        showCat : '1',
+        voicesearch : '0'
+      })
+    });</script>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1932120-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5423793809885344",
+    enable_page_level_ads: true
+  });
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5423793809885344",
+    enable_page_level_ads: true
+  });
+</script>
+
+</head>
+<body class="site com_content view-featured no-layout no-task itemid-101 fluid">
+	<!-- Body -->
+	<div class="body" id="top">
+		<div class="container-fluid">
+			<!-- Header -->
+			<header class="header" role="banner">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="/">
+						<img src="https://botanika.wendys.cz/images/headers/logo500.jpg" alt="Herbář Wendys" />											</a>
+					<div class="header-search pull-right">
+						          
+<div id="offlajn-ajax-search100">
+  <div class="offlajn-ajax-search-container">
+     
+  <form id="search-form100" action="/index.php/component/search/" method="get" onSubmit="return false;">
+    <div class="offlajn-ajax-search-inner">
+    <div class="category-chooser"><div class="arrow"></div></div>            <input type="text" name="searchword" id="search-area100" value="" autocomplete="off" />
+        <input type="text" name="searchwordsugg" id="suggestion-area100" value="" autocomplete="off" />
+        <input type="hidden" name="option" value="com_search" />
+              <div id="search-area-close100"></div>
+      <div id="ajax-search-button100"><div class="magnifier"></div></div>
+      <div class="ajax-clear"></div>
+    </div>
+  </form>
+  <div class="ajax-clear"></div>
+  </div>
+        <div id="search-categories100">
+      <div class="search-categories-inner">
+        <div id="search-category-10037" class="selected">Hledat v článcích</div><div id="search-category-417" class="selected">Hledat v kategoriích</div><div id="search-category-418" class="selected">Hledat v kontaktech</div><div id="search-category-419" class="selected">Hledat v článcích</div><div id="search-category-451" class="selected">Hledat ve štítcích</div><div id="search-category-10011" class="selected last">Hledat v komentářích</div>      </div>
+    </div>
+    </div>
+<div class="ajax-clear"></div>
+<svg style="position:absolute" height="0" width="0"><filter id="searchblur"><feGaussianBlur in="SourceGraphic" stdDeviation="3"/></filter></svg>
+
+
+<div class="custom"  >
+	<p></p> 
+  
+
+ 
+  
+
+ 
+<a href="http://abyporodnebolel.eshop-zdarma.cz/index.php?s=main_page"><img src="/images/banners/koreny.jpg" alt="Kořeny" title="Kořeny" border="0" height="60" width="468"></a> 
+<p></p></div>
+
+					</div>
+				</div>
+			</header>
+							<nav class="navigation" role="navigation">
+					<div class="navbar pull-left">
+						<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="element-invisible">Přepnout navigaci</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+					<div class="nav-collapse">
+						<div class="well "><ul class="nav menu nav-pills mod-list">
+<li class="item-101 default current active"><a href="/index.php" >Domů</a></li><li class="item-291 deeper parent"><a href="http://botanika.wendys.cz/index.php/14-herbar-rostlin" >Herbář</a><ul class="nav-child unstyled small"><li class="item-292 deeper parent"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/2-rostliny-plane" >Rostliny plané</a><ul class="nav-child unstyled small"><li class="item-310"><a href="/index.php/2016-01-14-11-46-53/rostliny-plane/kvetouci-v-mesici" >Plané rostliny podle doby květu</a></li></ul></li><li class="item-293"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/6-rostliny-lecive" >Rostliny léčivé</a></li><li class="item-294"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/20-rostliny-jedle" >Rostliny jedlé</a></li><li class="item-295"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/7-rostliny-jedovate" >Rostliny jedovaté, halucinogenní ...</a></li><li class="item-296"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/28-rostliny-uzitkove" >Rostliny užitkové</a></li><li class="item-297"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/3-rostliny-zahradni" >Rostliny zahradní a parkové</a></li><li class="item-298"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/16-rostliny-pokojove-a-sklenikove" >Rostliny pokojové a skleníkové</a></li><li class="item-299"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/601-kaktusy-a-jine-sukulenty" >Rostliny sukuletní</a></li><li class="item-300"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/50-rostliny-masozrave" >Rostliny masožravé</a></li><li class="item-301"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/8-byliny" >Byliny</a></li><li class="item-302"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/54-ker-nebo-poloker" >Keře, polokeře a keříky</a></li><li class="item-303"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/61-stromy" >Stromy</a></li><li class="item-307"><a href="http://botanika.wendys.cz/index.php/component/tags/tag/443-rostliny-vytrusne" >Rostliny výtrusné</a></li></ul></li><li class="item-161 deeper parent"><a href="/" >Digitalizované knihy</a><ul class="nav-child unstyled small"><li class="item-162"><a href="http://botanika.wendys.cz/index.php/19-fr-polivka-uzitkove-a-pametihodne-rostliny-cizich-zemi" >Fr. Polívka: Užitkové a pamětihodné rostliny cizích zemí (rok 1908)</a></li><li class="item-163"><a href="/kvetena/index.php" >Fr. Polívka: Názorná květena zemí koruny české (rok 1900 - 1904)</a></li><li class="item-290"><a href="http://botanika.wendys.cz/index.php/20-cesky-herbar-z-roku-1899" >dr. V. K.: Český herbář (asi rok 1899)</a></li></ul></li><li class="item-306"><a href="http://botanika.wendys.cz/index.php/21-slovnik" title="Slovník botanických pojmů">Slovník</a></li><li class="item-185 deeper parent"><a href="/index.php/forum" >Fórum</a><ul class="nav-child unstyled small"><li class="item-186"><a href="/index.php/forum/index" >Všechna témata</a></li><li class="item-187"><a href="/index.php/forum/posledni" >Poslední témata</a></li><li class="item-188"><a href="/index.php/forum/nove-tema" >Nové téma</a></li><li class="item-304"><a href="http://botanika.wendys.cz/index.php/forum/urcovani-rostlin" >Určování rostlin</a></li><li class="item-305"><a href="http://botanika.wendys.cz/index.php/forum/urcovani-rostlin/topic/create" >Určování rostlin - vložit dotaz</a></li><li class="item-189"><a href="/index.php/forum/bez-odpovedi" >Témata bez odpovědi</a></li><li class="item-193"><a href="/index.php/forum/hledat" >Hledat</a></li></ul></li><li class="item-171"><a href="/index.php/component/contact/category/4-uncategorised" >Kontakty</a></li><li class="item-164 deeper parent"><a href="/index.php/prihlaseni" >Přihlášení</a><ul class="nav-child unstyled small"><li class="item-308"><a href="/index.php/prihlaseni/registrace-noveho-uzivatele" >Registrace nového uživatele</a></li></ul></li></ul>
+</div>
+					</div>
+				</nav>
+						
+			<div class="row-fluid">
+								<main id="content" role="main" class="span9">
+					<!-- Begin Content -->
+					
+					<div id="system-message-container">
+	</div>
+
+					<div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+<div class="items-leading clearfix">
+			<div class="leading-0 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/1752-haworthia-turgida-havortie" itemprop="url">
+			Haworthia turgida - Havortie		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-1752" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-1752">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/1752-haworthia-turgida-havortie?tmpl=component&amp;print=1" title="Vytisknou články < Haworthia turgida - Havortie >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=c34cb17bf22e831c1bb7a6fd46a81f045ba0014d" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2016-03-02T15:44:30+01:00" itemprop="datePublished">
+					Zveřejněno: 2. březen 2016				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:14639" />
+					Zobrazení: 14639			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-8 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-514 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/xanthorrhoeaceae" class="label label-info">
+						Xanthorrhoeaceae - žlutokapovité					</a>
+				</li>
+																				<li class="tag-601 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-602 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/haworthia" class="label label-info">
+						Haworthia - Havortie					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/1752-haworthia-turgida-havortie"><img
+			 src="/images/prew/haworthiaturgida.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Haworthia turgida</em> - Havortie (zduřená)</h1>
+<p><strong>Syn.:</strong> <em>Aloe laetevirens, Aloe turgida, Catevala laetevirens, Catevala turgida, Haworthia caespitosa, Haworthia laetevirens</em></p>
+<h2>Čeleď: <em>Xanthorrhoeaceae</em> - žlutokapovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/1752-haworthia-turgida-havortie" title="Haworthia turgida - Havortie">Číst dál: Haworthia turgida - Havortie</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/1752-haworthia-turgida-havortie#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+		</div>
+					<div class="leading-1 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/1751-bryophyllum-daigremontianum-nadut-madagaskarska" itemprop="url">
+			Bryophyllum daigremontianum - Náduť madagaskarská		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-1751" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-1751">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/1751-bryophyllum-daigremontianum-nadut-madagaskarska?tmpl=component&amp;print=1" title="Vytisknou články < Bryophyllum daigremontianum - Náduť madagaskarská >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=8be699de1b460ce7f66e7f12c1b7d5c72b8dd01e" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2016-02-27T21:05:50+01:00" itemprop="datePublished">
+					Zveřejněno: 27. únor 2016				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:16625" />
+					Zobrazení: 16625			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-7 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-jedovate" class="label label-info">
+						Rostliny jedovaté a halucinogenní					</a>
+				</li>
+																				<li class="tag-8 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-95 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/crassulaceae" class="label label-info">
+						Crassulaceae - tlusticovité					</a>
+				</li>
+																				<li class="tag-601 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-1013 tag-list5" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/bryophyllum-nadut" class="label label-info">
+						Bryophyllum - Náduť					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/1751-bryophyllum-daigremontianum-nadut-madagaskarska"><img
+			 src="/images/prew/nadutmadagaskarska.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Bryophyllum daigremontianum</em> - Náduť madagaskarská</h1>
+<p><strong>Syn:</strong> <em>Kalanchoe daigremontiana</em></p>
+<h2>Čeleď: <em>Crassulaceae </em>- tlusticovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/1751-bryophyllum-daigremontianum-nadut-madagaskarska" title="Bryophyllum daigremontianum - Náduť madagaskarská">Číst dál: Bryophyllum daigremontianum - Náduť madagaskarská</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/1751-bryophyllum-daigremontianum-nadut-madagaskarska#comments" title="2 komentáře">2 komentáře</a> </div>
+
+
+
+
+		</div>
+					<div class="leading-2 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/1750-ledebouria-socialis-ledeburie" itemprop="url">
+			Ledebouria socialis - Ledeburie		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-1750" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-1750">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/1750-ledebouria-socialis-ledeburie?tmpl=component&amp;print=1" title="Vytisknou články < Ledebouria socialis - Ledeburie >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=b7f3478782ee1dc23b53e96ad896f7f6edd4b162" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2016-02-25T16:40:56+01:00" itemprop="datePublished">
+					Zveřejněno: 25. únor 2016				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:13870" />
+					Zobrazení: 13870			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-8 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-109 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/asparagaceae" class="label label-info">
+						Asparagaceae - chřestovité					</a>
+				</li>
+																				<li class="tag-601 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-1012 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/ledebouria" class="label label-info">
+						Ledebouria					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/1750-ledebouria-socialis-ledeburie"><img
+			 src="/images/prew/ledebouriasocialis.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Ledebouria socialis</em> - Ledeburie</h1>
+<p><strong>Syn.:</strong> <em>Ledebouria violacea, Scilla laxa, Scilla paucifolia, Scilla socialis, Scilla violacea</em></p>
+<h2>Čeleď: <em>Asparagaceae </em>- chřestovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/1750-ledebouria-socialis-ledeburie" title="Ledebouria socialis - Ledeburie">Číst dál: Ledebouria socialis - Ledeburie</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/1750-ledebouria-socialis-ledeburie#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+		</div>
+					<div class="leading-3 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/1749-crassula-muscosa-tlustice" itemprop="url">
+			Crassula muscosa - Tlustice		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-1749" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-1749">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/1749-crassula-muscosa-tlustice?tmpl=component&amp;print=1" title="Vytisknou články < Crassula muscosa - Tlustice >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=d2cff6073f44003d239281dbb70475dc9cfc113d" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2016-02-17T20:20:38+01:00" itemprop="datePublished">
+					Zveřejněno: 17. únor 2016				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:13544" />
+					Zobrazení: 13544			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-16 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-54 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/ker-nebo-poloker" class="label label-info">
+						Keře, polokeře a keříky					</a>
+				</li>
+																				<li class="tag-95 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/crassulaceae" class="label label-info">
+						Crassulaceae - tlusticovité					</a>
+				</li>
+																				<li class="tag-601 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-1011 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rod-crassula-tlustice" class="label label-info">
+						Rod Crassula - Tlustice					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/1749-crassula-muscosa-tlustice"><img
+			 src="/images/prew/crassulamuscosa.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Crassula muscosa</em> - Tlustice (mechovitá)</h1>
+<p><strong>Syn.:</strong> <em>Combesia muscosa, Crassula anguina, Crassula imbricata, Crassula imbricata, Crassula littoralis, Crassula lycioides, Crassula lycopodioides, Crassula pseudolycopodioides</em></p>
+<h2>Čeleď: <em>Crassulaceae </em>- tlusticovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/1749-crassula-muscosa-tlustice" title="Crassula muscosa - Tlustice">Číst dál: Crassula muscosa - Tlustice</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/1749-crassula-muscosa-tlustice#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+		</div>
+					<div class="leading-4 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/1748-dorstenia-foetida-dorstenie" itemprop="url">
+			Dorstenia foetida - Dorstenie		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-1748" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-1748">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/1748-dorstenia-foetida-dorstenie?tmpl=component&amp;print=1" title="Vytisknou články < Dorstenia foetida - Dorstenie >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=3554f802045d15829146f6af357bf8259cbe7277" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2016-02-14T21:16:26+01:00" itemprop="datePublished">
+					Zveřejněno: 14. únor 2016				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:13038" />
+					Zobrazení: 13038			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-8 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-62 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/moraceae" class="label label-info">
+						Moraceae - morušovníkovité					</a>
+				</li>
+																				<li class="tag-601 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-1010 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/dorstenia" class="label label-info">
+						Dorstenia					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/1748-dorstenia-foetida-dorstenie"><img
+			 src="/images/prew/dorsteniafoetida.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Dorstenia foetida</em> - Dorstenie (šolucha)</h1>
+<p><strong>Syn.:</strong> <em>Cosaria forskahlii, Dorstenia arabica, Dorstenia crispa, Dorstenia obovata, Dorstenia phillipsiae, Dorstenia radiata, Kosaria foetida</em></p>
+<h2>Čeleď: <em>Moraceae </em>- morušovníkovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/1748-dorstenia-foetida-dorstenie" title="Dorstenia foetida - Dorstenie">Číst dál: Dorstenia foetida - Dorstenie</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/1748-dorstenia-foetida-dorstenie#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+		</div>
+			</div>
+	
+		
+		<div class="items-row cols-2 row-0 row-fluid">
+					<div class="item column-1 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/1747-titanopsis-calcarea" itemprop="url">
+			Titanopsis calcarea		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-1747" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-1747">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/1747-titanopsis-calcarea?tmpl=component&amp;print=1" title="Vytisknou články < Titanopsis calcarea >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=f0448a963a33f1965a3b3646418e6e69c4025be6" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2016-02-03T21:46:25+01:00" itemprop="datePublished">
+					Zveřejněno: 3. únor 2016				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:12136" />
+					Zobrazení: 12136			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-8 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-601 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-608 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/aizoaceae" class="label label-info">
+						Aizoaceae - kosmatcovité					</a>
+				</li>
+																				<li class="tag-1009 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/titanopsis" class="label label-info">
+						Titanopsis					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/1747-titanopsis-calcarea"><img
+			 src="/images/prew/titanopsiscalcarea.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Titanopsis calcarea</em> - Titanopsis</h1>
+<p><strong>Syn.:</strong> <em>Mesembryanthemum calcareum</em></p>
+<h2>Čeleď: <em>Aizoaceae</em> - kosmatcovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/1747-titanopsis-calcarea" title="Titanopsis calcarea">Číst dál: Titanopsis calcarea</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/1747-titanopsis-calcarea#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+			</div>
+			
+			
+	
+					<div class="item column-2 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/874-faucaria-tigrina-faukarie" itemprop="url">
+			Faucaria tigrina - Faukárie		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-874" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-874">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/874-faucaria-tigrina-faukarie?tmpl=component&amp;print=1" title="Vytisknou články < Faucaria tigrina - Faukárie >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=57e9e99665e025ac599cb1a7551160f65b51d1bd" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2016-02-01T22:04:11+01:00" itemprop="datePublished">
+					Zveřejněno: 1. únor 2016				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:13332" />
+					Zobrazení: 13332			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-8 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-601 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-608 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/aizoaceae" class="label label-info">
+						Aizoaceae - kosmatcovité					</a>
+				</li>
+																				<li class="tag-1008 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/faucaria" class="label label-info">
+						Faucaria					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/874-faucaria-tigrina-faukarie"><img
+			 src="/images/prew/faucariatigrina.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Faucaria tigrina</em> - Faukárie (tygří tlamička)</h1>
+<p><strong>Syn.:</strong> <em>Mesembryanthemum tigrinum</em></p>
+<h2>Čeleď: <em>Aizoaceae</em> - kosmatcovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/874-faucaria-tigrina-faukarie" title="Faucaria tigrina - Faukárie">Číst dál: Faucaria tigrina - Faukárie</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/874-faucaria-tigrina-faukarie#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+		
+		<div class="items-row cols-2 row-1 row-fluid">
+					<div class="item column-1 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/873-frithia-pulchra-fritie" itemprop="url">
+			Frithia pulchra - Fritie		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-873" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-873">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/873-frithia-pulchra-fritie?tmpl=component&amp;print=1" title="Vytisknou články < Frithia pulchra - Fritie >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=14fa645f6caf4d8d1469aa70da3c1352960d7683" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2015-10-26T22:06:55+01:00" itemprop="datePublished">
+					Zveřejněno: 26. říjen 2015				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:12770" />
+					Zobrazení: 12770			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-8 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-601 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-608 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/aizoaceae" class="label label-info">
+						Aizoaceae - kosmatcovité					</a>
+				</li>
+																				<li class="tag-609 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/frithia" class="label label-info">
+						Frithia - Fritie					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/873-frithia-pulchra-fritie"><img
+			 src="/images/prew/frithiapulchra.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Frithia pulchra</em> - Fritie (krásná)</h1>
+<h2>Čeleď: <em>Aizoaceae</em> - kosmatcovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/873-frithia-pulchra-fritie" title="Frithia pulchra - Fritie">Číst dál: Frithia pulchra - Fritie</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/873-frithia-pulchra-fritie#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+			</div>
+			
+			
+	
+					<div class="item column-2 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/872-haworthia-coarctata-havortie" itemprop="url">
+			Haworthia coarctata - Havortie		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-872" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-872">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/872-haworthia-coarctata-havortie?tmpl=component&amp;print=1" title="Vytisknou články < Haworthia coarctata - Havortie >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=cb92ddb94ad21c8422ec9d46d1561e7500cc22ea" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2015-10-24T22:09:54+02:00" itemprop="datePublished">
+					Zveřejněno: 24. říjen 2015				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:14328" />
+					Zobrazení: 14328			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-8 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-514 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/xanthorrhoeaceae" class="label label-info">
+						Xanthorrhoeaceae - žlutokapovité					</a>
+				</li>
+																				<li class="tag-601 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-602 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/haworthia" class="label label-info">
+						Haworthia - Havortie					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/872-haworthia-coarctata-havortie"><img
+			 src="/images/prew/Haworthiacoarctata.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Haworthia coarctata</em> - Havortie (havorcie zhuštěná)</h1>
+<p><strong>Syn.:</strong> <em>Aloe coarctata, Catevala coarctata, Haworthia baccata, Haworthia chalwinii, Haworthia coarctatoides, Haworthia fallax, Haworthia fulva, Haworthia musculina, Haworthia resendeana</em></p>
+<h2>Čeleď: <em>Xanthorrhoeaceae</em> - žlutokapovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/872-haworthia-coarctata-havortie" title="Haworthia coarctata - Havortie">Číst dál: Haworthia coarctata - Havortie</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/872-haworthia-coarctata-havortie#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+		
+		<div class="items-row cols-2 row-2 row-fluid">
+					<div class="item column-1 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/871-huernia-zebrina-huernie" itemprop="url">
+			Huernia zebrina -  Huernie		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-871" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-871">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/871-huernia-zebrina-huernie?tmpl=component&amp;print=1" title="Vytisknou články < Huernia zebrina -  Huernie >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=6bfbdad788d59730dcfeaa3e5dd34999baa253ed" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2015-10-22T21:22:56+02:00" itemprop="datePublished">
+					Zveřejněno: 22. říjen 2015				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:13462" />
+					Zobrazení: 13462			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-5 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/apocynaceae" class="label label-info">
+						Apocynaceae - toješťovité					</a>
+				</li>
+																				<li class="tag-8 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-601 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-607 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/huernia" class="label label-info">
+						Huernia - Huernie					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/871-huernia-zebrina-huernie"><img
+			 src="/images/prew/huerniazebrina.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><span class="name"><i class="genus">Huernia</i> <i class="species">zebrina - </i>Huernie (pruhovaná)</span></h1>
+<h2>Čeleď: <em>Apocynaceae </em>- toješťovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/871-huernia-zebrina-huernie" title="Huernia zebrina -  Huernie">Číst dál: Huernia zebrina -  Huernie</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/871-huernia-zebrina-huernie#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+			</div>
+			
+			
+	
+					<div class="item column-2 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/869-orbea-variegata" itemprop="url">
+			Orbea variegata		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-869" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-869">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/869-orbea-variegata?tmpl=component&amp;print=1" title="Vytisknou články < Orbea variegata >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=a47dfeb5ccf576102702b6597adcb6fba634eb53" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2015-10-16T22:10:04+02:00" itemprop="datePublished">
+					Zveřejněno: 16. říjen 2015				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:13332" />
+					Zobrazení: 13332			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-5 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/apocynaceae" class="label label-info">
+						Apocynaceae - toješťovité					</a>
+				</li>
+																				<li class="tag-8 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-601 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-606 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/orbea" class="label label-info">
+						Orbea					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/869-orbea-variegata"><img
+			 src="/images/prew/orbeavar.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Orbea variegata</em> - Orbea (pestrá, strakatá)</h1>
+<p><strong>Syn.:</strong> <em>Stapelia variegata, Stisseria variegata</em></p>
+<h2>Čeleď: <em>Apocynaceae </em>- toješťovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/869-orbea-variegata" title="Orbea variegata">Číst dál: Orbea variegata</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/869-orbea-variegata#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+		
+		<div class="items-row cols-2 row-3 row-fluid">
+					<div class="item column-1 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/17-clanky/870-jak-jsem-ne-potkal-roryse" itemprop="url">
+			Jak jsem (ne)potkal rorýse		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-870" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-870">
+											<li class="print-icon"> <a href="/index.php/17-clanky/870-jak-jsem-ne-potkal-roryse?tmpl=component&amp;print=1" title="Vytisknou články < Jak jsem (ne)potkal rorýse >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=c534ca6230d456cc2ad1d54f193cda494e67d2ad" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/83-wranka-wronska?Itemid=101" itemprop="url"><span itemprop="name">Wranka Wronská</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/17-clanky" itemprop="genre">Články, povídky aj.</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2015-10-14T20:29:29+02:00" itemprop="datePublished">
+					Zveřejněno: 14. říjen 2015				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:10378" />
+					Zobrazení: 10378			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-604 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rorys" class="label label-info">
+						rorýs					</a>
+				</li>
+																				<li class="tag-605 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/povidka" class="label label-info">
+						povídka					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/17-clanky/870-jak-jsem-ne-potkal-roryse"><img
+			 src="/images/prew/Rorys1.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h2>Jak jsem potkal rorýse v pravěku</h2>
+<p>Když jsem ještě žil v jeskyni (říkali jsme tomu místu Divoké údolí, ale později se mu, nevím proč, začalo říkat Český kras) a živil jsem se lovem zvěře, vždy jsem se těšil na jejich přílet. Když se objevili, bylo vždy jisté, že zima už je opravdu za námi, že nadchází období tepla. Jejich ostré hvízdání nás pak dennodenně provázelo při cestě za úlovkem i při návratu domů. Ještě za setmění, když ostatní ptáci již dávno umlkli, oni se svým pokřikem divoce létali v hejnu a chytali kdejaký hmyz. Byli opravdu divocí a rychlí a ulovit se téměř nedali – to s jinými ptáky to šlo lépe. Jenom, když z nějakého důvodu usedli na zem, tak se nedokázali vznést, a tak jsme si občas zpestřili jídelníček. Všiml jsem si, že mají ohromně krátké nožičky – takové zakrslé. Ale na skále, tam se uměli přichytit, to jo. Taky si tam ve skalních štěrbinách stavěli svá hnízda. Měl jsem je rád – nejen jako součást jídelníčku, byli i součástí našeho údolí, našich životů.<br />Vždy mě mrzelo, že už odlétají. Zvykl jsem si na ně, i když pokaždé pobyli jen krátkou dobu. Jiní ptáci se u nás zdržovali déle. Byla to úžasná podívaná, ten jejich akrobatický let. A navíc – bylo jasné, že po jejich odletu přijde zima a bude nám krušno.</p>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/17-clanky/870-jak-jsem-ne-potkal-roryse" title="Jak jsem (ne)potkal rorýse">Číst dál: Jak jsem (ne)potkal rorýse</a> <a class="comments-link" href="/index.php/17-clanky/870-jak-jsem-ne-potkal-roryse#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+			</div>
+			
+			
+	
+					<div class="item column-2 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php/14-herbar-rostlin/868-stapelia-gigantea-smrdutka" itemprop="url">
+			Stapelia gigantea - Smrdutka		</a>
+		</h2>
+
+
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-868" aria-label="Uživatelské nástroje"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-868">
+											<li class="print-icon"> <a href="/index.php/14-herbar-rostlin/868-stapelia-gigantea-smrdutka?tmpl=component&amp;print=1" title="Vytisknou články < Stapelia gigantea - Smrdutka >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Vytisknout	</a> </li>
+																<li class="email-icon"> <a href="/index.php/component/mailto/?tmpl=component&amp;template=protostar&amp;link=ae6742dcab39e15b354682b35f406e7cf087f170" title="Poslat tento odkaz e-mailem známému" onclick="window.open(this.href,'win2','width=400,height=550,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		E-mail	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+			<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Podrobnosti							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+					Napsal <a href="/index.php/component/contact/contact/4-uncategorised/1-zdenek-pazdera?Itemid=101" itemprop="url"><span itemprop="name">Wendys</span></a>	</dd>
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/14-herbar-rostlin" itemprop="genre">Herbář rostlin</a>							</dd>			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2015-10-11T21:00:00+02:00" itemprop="datePublished">
+					Zveřejněno: 11. říjen 2015				</time>
+			</dd>			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:13328" />
+					Zobrazení: 13328			</dd>						</dl>
+		<ul class="tags inline">
+																	<li class="tag-5 tag-list0" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/apocynaceae" class="label label-info">
+						Apocynaceae - toješťovité					</a>
+				</li>
+																				<li class="tag-7 tag-list1" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-jedovate" class="label label-info">
+						Rostliny jedovaté a halucinogenní					</a>
+				</li>
+																				<li class="tag-8 tag-list2" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/byliny" class="label label-info">
+						Byliny					</a>
+				</li>
+																				<li class="tag-16 tag-list3" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/rostliny-pokojove-a-sklenikove" class="label label-info">
+						Rostliny pokojové a skleníkové					</a>
+				</li>
+																				<li class="tag-601 tag-list4" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/kaktusy-a-jine-sukulenty" class="label label-info">
+						Rostliny sukuletní a kaktusy					</a>
+				</li>
+																				<li class="tag-603 tag-list5" itemprop="keywords">
+					<a href="/index.php/component/tags/tag/stapelia" class="label label-info">
+						Stapelia - Smrdutka					</a>
+				</li>
+						</ul>
+
+		<div class="pull-left item-image">
+			<a href="/index.php/14-herbar-rostlin/868-stapelia-gigantea-smrdutka"><img
+			 src="/images/prew/stapeliagiga.jpg" alt="" itemprop="thumbnailUrl"/></a>
+		</div>
+
+
+<h1><em>Stapelia gigantea </em>- Smrdutka (stapelie obrovská)</h1>
+<h2>Čeleď: <em>Apocynaceae </em>- toješťovité</h2>
+<div class="jcomments-links"><a class="readmore-link" href="/index.php/14-herbar-rostlin/868-stapelia-gigantea-smrdutka" title="Stapelia gigantea - Smrdutka">Číst dál: Stapelia gigantea - Smrdutka</a> <a class="comments-link" href="/index.php/14-herbar-rostlin/868-stapelia-gigantea-smrdutka#addcomments" title="Přidat komentář">Přidat komentář</a> </div>
+
+
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+	<div class="items-more">
+	<ol class="nav nav-tabs nav-stacked">
+	<li>
+		<a href="/index.php/14-herbar-rostlin/867-stapelia-grandiflora-smrdutka">
+			Stapelia grandiflora - Smrdutka </a>
+	</li>
+	<li>
+		<a href="/index.php/14-herbar-rostlin/866-haworthia-fasciata-havortie-paskovana">
+			Haworthia attenuata - Havortie</a>
+	</li>
+	<li>
+		<a href="/index.php/2-uncategorised/865-euphorbia-obesa-prysec-tucny-prysec-tlusty">
+			Euphorbia obesa - Pryšec tučný (pryšec tlustý)</a>
+	</li>
+	<li>
+		<a href="/index.php/14-herbar-rostlin/864-cyclanthera-pedata-acokca">
+			Cyclanthera pedata - Ačokča</a>
+	</li>
+	<li>
+		<a href="/index.php/14-herbar-rostlin/863-orchis-purpurea-vstavac-nachovy">
+			Orchis purpurea - Vstavač nachový</a>
+	</li>
+	<li>
+		<a href="/index.php/14-herbar-rostlin/862-blechnum-spicant-zebrovice-ruznolista">
+			Blechnum spicant - Žebrovice různolistá</a>
+	</li>
+	<li>
+		<a href="/index.php/14-herbar-rostlin/861-senecio-hercynicus-starcek-hercynsky">
+			Senecio hercynicus - Starček hercynský</a>
+	</li>
+	<li>
+		<a href="/index.php/14-herbar-rostlin/860-gnaphalium-norvegicum-protez-norska">
+			Gnaphalium norvegicum - Protěž norská</a>
+	</li>
+	<li>
+		<a href="/index.php/14-herbar-rostlin/859-juncus-trifidus-sitina-trojklana">
+			Juncus trifidus - Sítina trojklaná</a>
+	</li>
+	<li>
+		<a href="/index.php/14-herbar-rostlin/858-viola-lutea-subsp-sudetica-violka-zluta-sudetska">
+			Viola lutea subsp. sudetica - Violka žlutá sudetská</a>
+	</li>
+</ol>
+	</div>
+
+	<div class="pagination">
+
+					<p class="counter pull-right">
+				Strana 1 z 67			</p>
+						<nav role="navigation" aria-label="Stránkování"><ul class="pagination-list"><li class="disabled"><a><span class="icon-first" aria-hidden="true"></span></a></li><li class="disabled"><a><span class="icon-previous" aria-hidden="true"></span></a></li><li class="active hidden-phone"><a aria-current="true" aria-label="Strana 1">1</a></li><li class="hidden-phone"><a title="2" href="/index.php?start=13" class="pagenav" aria-label="Přejít na stránku 2">2</a></li><li class="hidden-phone"><a title="3" href="/index.php?start=26" class="pagenav" aria-label="Přejít na stránku 3">3</a></li><li class="hidden-phone"><a title="4" href="/index.php?start=39" class="pagenav" aria-label="Přejít na stránku 4">4</a></li><li class="hidden-phone"><a title="5" href="/index.php?start=52" class="pagenav" aria-label="Přejít na stránku 5">...</a></li><li class="hidden-phone"><a title="6" href="/index.php?start=65" class="pagenav" aria-label="Přejít na stránku 6">6</a></li><li class="hidden-phone"><a title="7" href="/index.php?start=78" class="pagenav" aria-label="Přejít na stránku 7">7</a></li><li class="hidden-phone"><a title="8" href="/index.php?start=91" class="pagenav" aria-label="Přejít na stránku 8">8</a></li><li class="hidden-phone"><a title="9" href="/index.php?start=104" class="pagenav" aria-label="Přejít na stránku 9">9</a></li><li class="hidden-phone"><a title="10" href="/index.php?start=117" class="pagenav" aria-label="Přejít na stránku 10">10</a></li><li><a title="Následující" href="/index.php?start=13" class="pagenav" aria-label="Přejít na následující stránku"><span class="icon-next" aria-hidden="true"></span></a></li><li><a title="Konec" href="/index.php?start=858" class="pagenav" aria-label="Přejít na konec stránku"><span class="icon-last" aria-hidden="true"></span></a></li></ul></nav>	</div>
+
+</div>
+					<div class="clearfix"></div>
+					
+					<!-- End Content -->
+				</main>
+									<div id="aside" class="span3">
+						<!-- Begin Right Sidebar -->
+						<div id="offlajn-ajax-tile-results"></div>
+<div class="ajax-clear"></div>
+<div class="well ">
+
+<div class="custom"  >
+	<p></p> 
+  
+
+ 
+<center> 
+
+ 
+<a href="http://abyporodnebolel.eshop-zdarma.cz/index.php?s=main_page"><img src="/images/banners/Florarium.jpg" alt="Florarium" title="Florarium" border="0" height="380" width="266"></a> 
+
+ 
+</center> 
+
+ 
+<br> 
+<p></p></div>
+</div><div class="well "><h3 class="page-header">Malý rozcestník</h3>
+
+<div class="custom"  >
+	<p><strong>Herbář rostlin:</strong></p>
+<ul>
+<li><a href="/index.php/14-herbar-rostlin" rel="alternate">Všechny rostliny</a></li>
+<li><a href="/index.php/component/tags/tag/2-rostliny-plane" rel="alternate">Plané rostliny</a>
+<ul>
+<li><a href="/index.php/2-uncategorised/1746-plane-rostliny-podle-doby-kveteni" rel="alternate">Plané rostliny podle doby květu</a><a href="/index.php/2-uncategorised/1746-plane-rostliny-podle-doby-kveteni" rel="alternate"> 
+ 
+<li><b><a href="/index.php/component/tags/tag/997" rel="alternate">Rostliny kvetoucí v prosinci</a></b></li> 
+ 
+</a></li>
+</ul>
+</li>
+<li><a href="/index.php/component/tags/tag/6-rostliny-lecive" rel="alternate">Léčivé rostliny</a></li>
+<li><a href="/index.php/component/tags/tag/20-rostliny-jedle" rel="alternate">Jedlé rostliny</a></li>
+<li><a href="/index.php/component/tags/tag/7-rostliny-jedovate" rel="alternate">Jedovaté a halucinogenní rostliny</a></li>
+<li><a href="/index.php/component/tags/tag/28-rostliny-uzitkove" rel="alternate">Užitkové rostliny</a></li>
+<li><a href="/index.php/component/tags/tag/3-rostliny-zahradni" rel="alternate">Zahradní rostliny</a></li>
+<li><a href="/index.php/component/tags/tag/16-rostliny-pokojove-a-sklenikove" rel="alternate">Pokojové rostliny</a><br />
+<ul>
+<li><a href="/index.php/component/tags/tag/601-kaktusy-a-jine-sukulenty" rel="alternate">Sukulenty a kaktusy</a></li>
+</ul>
+</li>
+<li><a href="/index.php/component/tags/tag/50-rostliny-masozrave" rel="alternate">Masožravé rostliny</a></li>
+<li><a href="/index.php/component/tags/tag/8-byliny" rel="alternate">Byliny</a></li>
+<li><a href="/index.php/component/tags/tag/54-ker-nebo-poloker" rel="alternate">Keře a polokeře</a></li>
+<li><a href="/index.php/component/tags/tag/61-stromy" rel="alternate">Stromy</a></li>
+<li><a href="/index.php/component/tags/tag/443-rostliny-vytrusne" rel="alternate">Výtrusné rostliny</a></li>
+</ul>
+<p><strong>Další kategorie:</strong></p>
+<ul>
+<li><a href="/index.php/21-slovnik" rel="alternate">Botanický slovník</a></li>
+<li><a href="/index.php/19-fr-polivka-uzitkove-a-pametihodne-rostliny-cizich-zemi" rel="alternate">Užitkové a pamětihodné rostliny cizích zemí</a></li>
+<li><a href="/kvetena/index.php" rel="alternate">Názorná květena zemí koruny české</a></li>
+<li><a href="/index.php/20-cesky-herbar-z-roku-1899" rel="alternate">Český herbář z roku 1899</a></li>
+</ul></div>
+</div><div class="well "><h3 class="page-header">Poslední komentáře návštěvníků</h3>
+
+<div class="custom"  >
+	<p> 
+ 
+
+ 
+<table width=100% bgcolor=#F7FDF bordercolor=#63BF50 bordercolordark=#63BF50 bordercolorlight=#63BF50 border=3 cellspacing=0 cellpadding=3><tr><td bgcolor=#F7FDF><b>Komentář k článku <a href=http://botanika.wendys.cz/index.php/21-slovnik/1468-okveti-perigon-perigonium>Okvětí (perigon, perigonium)</a>:</b><br><small><i>Potřebujeme více druhů rostlin s okvetim!! </i>[<a href=http://botanika.wendys.cz/index.php/21-slovnik/1468-okveti-perigon-perigonium#comment-996>komentovat</a>]</small></tr></td><tr><td bgcolor=#F7FDF><b>Komentář k článku <a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/124-lewisia-cotyledon-levisie-kvetnata>Lewisia cotyledon - levisie květnatá</a>:</b><br><small><i>Prosím, chtěla bych koupit semínka lewisií. Poradí mi někdo kde se prodávají, popř. kdo je má a chce prodat a může je poslat </i>[<a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/124-lewisia-cotyledon-levisie-kvetnata#comment-987>komentovat</a>]</small></tr></td><tr><td bgcolor=#F7FDF><b>Komentář k článku <a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/482-verbascum-phlomoides-divizna-sapovita>Verbascum phlomoides - divizna sápovitá</a>:</b><br><small><i>Jméno je odvozeno od sápy = Phlomis. Koncovka "ides"je odvozený tvar od "eidos", tj. podoba. Phlomoides pak značí "podobající se sápě". Patrně tím byl zamýšlen tvar nesbíhavých listů na lodyze. </i>[<a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/482-verbascum-phlomoides-divizna-sapovita#comment-985>komentovat</a>]</small></tr></td><tr><td bgcolor=#F7FDF><b>Komentář k článku <a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/482-verbascum-phlomoides-divizna-sapovita>Verbascum phlomoides - divizna sápovitá</a>:</b><br><small><i>co prosím zunamená sápovitá rostlin,konkrétně u divizny se objevuje tento název..ODKUD PRAMENÍ?děkuji </i>[<a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/482-verbascum-phlomoides-divizna-sapovita#comment-984>komentovat</a>]</small></tr></td><tr><td bgcolor=#F7FDF><b>Komentář k článku <a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/230-senecio-ovatus-starcek-fuchsuv>Senecio ovatus - starček Fuchsův</a>:</b><br><small><i>stará německá důchodkyně sousedka už před 50 lety, když mi s ním léčila 14 dní hnisající oteklý "ukopnutý" palec. Od té doby s ním tahám hluboko zapíchnuté třísky, hnis při tzv. silničním lišeji, tj. písek hluboko v ... </i>[<a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/230-senecio-ovatus-starcek-fuchsuv#comment-983>přečíst celé, komentovat</a>]</small></tr></td><tr><td bgcolor=#F7FDF><b>Komentář k článku <a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/396-pachypodium-lamieri-pachypodium>Pachypodium lamerei - pachypodium</a>:</b><br><small><i>Začali mi opadavat listy teď v létě jsou konce černé a pak je list žlutý jako suchý a upadne co stim je přelitá? A ještě nedá se v létě dát ven na zahradu na slunce jako Kaktusy tak dávám. </i>[<a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/396-pachypodium-lamieri-pachypodium#comment-981>komentovat</a>]</small></tr></td><tr><td bgcolor=#F7FDF><b>Komentář k článku <a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/499-pachystachys-lutea-tlustoklasec-zluty>Pachystachys lutea - tlustoklasec žlutý</a>:</b><br><small><i>prosim vas ma niekto tuto rastlinku napredaj? </i>[<a href=http://botanika.wendys.cz/index.php/14-herbar-rostlin/499-pachystachys-lutea-tlustoklasec-zluty#comment-980>komentovat</a>]</small></tr></td></table> 
+<p></p></div>
+</div><div class="well "><a href="/index.php?format=feed&amp;type=rss" class="syndicate-module">
+	<img src="/media/system/images/livemarks.png" alt="feed-image" />			<span>
+					RSS				</span>
+	</a>
+</div>
+						<!-- End Right Sidebar -->
+					</div>
+							</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container-fluid">
+			<hr />
+			
+
+<div class="custom"  >
+	<table style="background-color: #e0ffe0; border-color: #006633;" border="3" cellpadding="10">
+<tbody>
+<tr>
+<td>
+<p><strong>Licence:</strong> Fotografie a texty umístěné na těchto stránkách je možné <strong>pro nekomerční účely bezplatně</strong> použít v rámci sítě internet, pokud bude uveden autor (včetně aktivního odkazu na tento web) a pokud do díla nebude jakkoliv zasahováno. Jedná se tedy o licenci CC BY-NC-ND (Uvedení autora - Pouze nekomerční užití - Žádné modifikace).</p>
+<p><b>Jakékoliv jiné použití</b> fotografií a textů je možné až po vzájemné dohodě s autorem a zpravidla za úhradu. V případě zájmu o takové použití, prosím, <a href="/index.php/component/contact/category/4-uncategorised?Itemid=101" rel="alternate">kontaktujte autora</a>.</p>
+<hr />
+<p>Také si, prosím, přečtěte <strong><a href="/index.php/829-zasady-ochrany-osobnich-udaju" rel="alternate">Zásady ochrany osobních údajů a soubory cookie</a></strong>.</p>
+<p>Aniž bychom se chtěli chlubit, je tento web archivován <strong><a href="http://www.webarchiv.cz/cs" target="_blank" rel="alternate noopener noreferrer">Národní knihovnou ČR</a>,</strong> aby byl uchován na věčné časy.</p>
+<p>Najdete nás i na <a href="https://www.facebook.com/rostliny" target="_blank" rel="alternate noopener noreferrer">Facebooku</a>.</p>
+<p>Hostujeme u společnosti <strong><a href="http://www.savana.cz/?aid=acb64989" target="_blank" rel="alternate noopener noreferrer">SAVANA</a> </strong>(klikněte na odkaz, udělejte objednávku a my dostaneme provizi).</p>
+<p>Lehněte si do mechu a mějte se fajn ...</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></div>
+
+			<p class="pull-right">
+				<a href="#top" id="back-top">
+					Nahoru				</a>
+			</p>
+			<p>
+				&copy; 2020 Herbář Wendys			</p>
+		</div>
+	</footer>
+	
+</body>
+</html>

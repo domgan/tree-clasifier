@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.bildercache.de/xmlrpc.php" />
+<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>kostenloses Bilder-Hosting - bildercache.de</title>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.bildercache.de/" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="kostenloses Bilder-Hosting - bildercache.de" />
+<meta property="og:description" content="Leistungsfähiges Bilder-Management-Tool. Jetzt kostenlos anmelden und sofort los legen. Das größte Problem der Informationsgesellschaft ist die hohe Transferzeit für Informationen. Gerade Bilder und Fotos sind wichtige Medien, die schleunigst ihre Empfänger erreichen müssen. Sehr oft scheitert deren zügige Übermittlung an der komplexen Technik. Nichts ist frustrierender, als wertvolle Freizeit investieren … Continue reading" />
+<meta property="og:url" content="https://www.bildercache.de/" />
+<meta property="og:site_name" content="bildercache.de" />
+<meta property="article:modified_time" content="2016-10-25T15:10:04+00:00" />
+<meta property="og:image" content="http://wp-content/uploads/2016/10/bh1.jpg" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.bildercache.de/#website","url":"https://www.bildercache.de/","name":"bildercache.de","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.bildercache.de/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"de-DE"},{"@type":"ImageObject","@id":"https://www.bildercache.de/#primaryimage","inLanguage":"de-DE","url":"wp-content/uploads/2016/10/bh1.jpg"},{"@type":"WebPage","@id":"https://www.bildercache.de/#webpage","url":"https://www.bildercache.de/","name":"kostenloses Bilder-Hosting - bildercache.de","isPartOf":{"@id":"https://www.bildercache.de/#website"},"primaryImageOfPage":{"@id":"https://www.bildercache.de/#primaryimage"},"datePublished":"2016-01-14T12:13:59+00:00","dateModified":"2016-10-25T15:10:04+00:00","inLanguage":"de-DE","potentialAction":[{"@type":"ReadAction","target":["https://www.bildercache.de/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel="alternate" type="application/rss+xml" title="bildercache.de &raquo; Feed" href="https://www.bildercache.de/feed/" />
+<!-- bildercache.de is managing ads with Advanced Ads – https://wpadvancedads.com/ --><script data-wpfc-render="false">
+advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+</script>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.bildercache.de/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://www.bildercache.de/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://www.bildercache.de/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='parabola-style-css'  href='https://www.bildercache.de/wp-content/themes/parabola/style.css?ver=2.0.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.bildercache.de/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","ccpaType":"gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":"","button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#62a329","button_4_as_button":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/www.bildercache.de\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bildercache.de/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.9.3' id='cookie-law-info-js'></script>
+<script type='text/javascript' id='parabola-frontend-js-extra'>
+/* <![CDATA[ */
+var parabola_settings = {"masonry":"0","magazine":"0","mobile":"1","fitvids":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bildercache.de/wp-content/themes/parabola/js/frontend.js?ver=2.0.7' id='parabola-frontend-js'></script>
+<link rel="https://api.w.org/" href="https://www.bildercache.de/wp-json/" /><link rel="alternate" type="application/json" href="https://www.bildercache.de/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bildercache.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.bildercache.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://www.bildercache.de/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.bildercache.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bildercache.de%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.bildercache.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bildercache.de%2F&#038;format=xml" />
+<!-- start Woody ad snippets CSS and JS -->
+<script>(function(){
+'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[\w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";
+if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=
+function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display=
+"flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,
+e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,
+255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};
+M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&
+3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};
+var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);
+e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);
+window.__d3lUW8vwsKlB__("WyI4YTY4N2Q0MTU4NmQ0Mjg5IixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4WFVIWG43a2M2cUkyam9FaEo1RUVoVDBPTmNMdEZCcWY2RXhkX0ZXczA1MGNMaEF3bFhvMkx5a3lNZXJ5V1E1THFBNXNxc0ExRlJ3dS13NVpFSXhXY1x1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiT0dFMk9EZGtOREUxT0Raa05ESTRPUVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC84YTY4N2Q0MTU4NmQ0Mjg5LmpzP3VzcXBcdTAwM2RDQXciXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hXcEVpZkVqQVpwYkh5SG9JU3lqbmttaEVLQ0VNVUJWc0lPTXFJNktZTkRWVC1zTVhDS2R4LUFBX2VIWlRCMElJb3dFU1RHdmdDaEkzSG1aWVM1P2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4VUhTOGxCSGRMS3lxTmpZNk43ZmZnY053TUgyQmRfeTYxVTAtTVdGV1Z3ekN5RXh0V3VGYTNNVEVtalA3RFpId1V2R2NNbGZ0R0ZRMjVhdjB1bD9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVSWJHZUpTMmlseGxOMWlFSjRwVmVLeEJBMk1VYjBPTEh0TGJEUGhvcXBNdmhpeWFhd3pYaUFHTFo1WDBaNVJTbXB0RGx4NXoweU42WXV3Tm9LP3NiZlx1MDAzZDIiXQo=");</script><!-- end Woody ad snippets CSS and JS -->
+<script type="text/javascript">
+var cli_flush_cache = true;
+</script>
+<meta name="sdsverify" content="bN4h1QFED2O2nVe2yeu979BK6QFpA" /><style type="text/css"> #header, #main, .topmenu, #colophon, #footer2-inner { max-width: 1200px; } #container.one-column { } #container.two-columns-right #secondary { width:280px; float:right; } #container.two-columns-right #content { width:900px; float:left; } /*fallback*/ #container.two-columns-right #content { width:calc(100% - 300px); float:left; } #container.two-columns-left #primary { width:280px; float:left; } #container.two-columns-left #content { width:900px; float:right; } /*fallback*/ #container.two-columns-left #content { width:-moz-calc(100% - 300px); float:right; width:-webkit-calc(100% - 300px); width:calc(100% - 300px); } #container.three-columns-right .sidey { width:140px; float:left; } #container.three-columns-right #primary { margin-left:20px; margin-right:20px; } #container.three-columns-right #content { width:880px; float:left; } /*fallback*/ #container.three-columns-right #content { width:-moz-calc(100% - 320px); float:left; width:-webkit-calc(100% - 320px); width:calc(100% - 320px);} #container.three-columns-left .sidey { width:140px; float:left; } #container.three-columns-left #secondary {margin-left:20px; margin-right:20px; } #container.three-columns-left #content { width:880px; float:right;} /*fallback*/ #container.three-columns-left #content { width:-moz-calc(100% - 320px); float:right; width:-webkit-calc(100% - 320px); width:calc(100% - 320px); } #container.three-columns-sided .sidey { width:140px; float:left; } #container.three-columns-sided #secondary { float:right; } #container.three-columns-sided #content { width:880px; float:right; /*fallback*/ width:-moz-calc(100% - 320px); float:right; width:-webkit-calc(100% - 320px); float:right; width:calc(100% - 320px); float:right; margin: 0 160px 0 -1200px; } body { font-family: "Open Sans"; } #content h1.entry-title a, #content h2.entry-title a, #content h1.entry-title , #content h2.entry-title, #frontpage .nivo-caption h3, .column-header-image, .column-header-noimage, .columnmore { font-family: "Bebas Neue"; } .widget-title, .widget-title a { line-height: normal; font-family: "Bebas Neue"; } .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, h3#comments-title, #comments #reply-title { font-family: "Yanone Kaffeesatz Regular"; } #site-title span a { font-family: "Bebas Neue"; } #access ul li a, #access ul li a span { font-family: "Open Sans"; } body { color: #555555; background-color: #F3F3EE } a { color: #BF4D28; } a:hover { color: #E6AC27; } #header-full { background-color: #FFFFFF; } #site-title span a { color:#BF4D28; } #site-description { color:#999999; } .socials a { background-color: #BF4D28; } .socials-hover { background-color: #333333; } .breadcrumbs:before { border-color: transparent transparent transparent #555555; } #access a, #nav-toggle span { color: #EEEEEE; background-color: #333333; } @media (max-width: 650px) { #access, #nav-toggle { background-color: #333333; } } #access a:hover { color: #E6AC27; background-color: #444444; } #access > .menu > ul > li > a:after, #access > .menu > ul ul:after { border-color: transparent transparent #BF4D28 transparent; } #access ul li:hover a:after { border-bottom-color:#E6AC27;} #access ul li.current_page_item > a, #access ul li.current-menu-item > a, /*#access ul li.current_page_parent > a, #access ul li.current-menu-parent > a,*/ #access ul li.current_page_ancestor > a, #access ul li.current-menu-ancestor > a { color: #FFFFFF; background-color: #000000; } #access ul li.current_page_item > a:hover, #access ul li.current-menu-item > a:hover, /*#access ul li.current_page_parent > a:hover, #access ul li.current-menu-parent > a:hover,*/ #access ul li.current_page_ancestor > a:hover, #access ul li.current-menu-ancestor > a:hover { color: #E6AC27; } #access ul ul { box-shadow: 3px 3px 0 rgba(102,102,102,0.3); } .topmenu ul li a { color: ; } .topmenu ul li a:before { border-color: #BF4D28 transparent transparent transparent; } .topmenu ul li a:hover:before{border-top-color:#E6AC27} .topmenu ul li a:hover { color: #BF4D28; background-color: ; } div.post, div.page, div.hentry, div.product, div[class^='post-'], #comments, .comments, .column-text, .column-image, #srights, #slefts, #front-text3, #front-text4, .page-title, .page-header, article.post, article.page, article.hentry, .contentsearch, #author-info, #nav-below, .yoyo > li, .woocommerce #mainwoo { background-color: #FFFFFF; } div.post, div.page, div.hentry, .sidey .widget-container, #comments, .commentlist .comment-body, article.post, article.page, article.hentry, #nav-below, .page-header, .yoyo > li, #front-text3, #front-text4 { border-color: #EEEEEE; } #author-info, #entry-author-info { border-color: #F7F7F7; } #entry-author-info #author-avatar, #author-info #author-avatar { border-color: #EEEEEE; } article.sticky:hover { border-color: rgba(230,172,39,.6); } .sidey .widget-container { color: #333333; background-color: #FFFFFF; } .sidey .widget-title { color: #FFFFFF; background-color: #444444; } .sidey .widget-title:after { border-color: transparent transparent #BF4D28; } .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 { color: #444444; } .entry-title, .entry-title a, .page-title { color: #444444; } .entry-title a:hover { color: #000000; } #content h3.entry-format { color: #EEEEEE; background-color: #333333; border-color: #333333; } #content h3.entry-format { color: #EEEEEE; background-color: #333333; border-color: #333333; } .comments-link { background-color: #F7F7F7; } .comments-link:before { border-color: #F7F7F7 transparent transparent; } #footer { color: #AAAAAA; background-color: #1A1917; } #footer2 { color: #AAAAAA; background-color: #131211; border-color:rgba(255,255,255,.1); } #footer a { color: #BF4D28; } #footer a:hover { color: #E6AC27; } #footer2 a { color: #BF4D28; } #footer2 a:hover { color: #E6AC27; } #footer .widget-container { color: #333333; background-color: #FFFFFF; } #footer .widget-title { color: #FFFFFF; background-color: #444444; } #footer .widget-title:after { border-color: transparent transparent #BF4D28; } .footermenu ul li a:after { border-color: transparent transparent #BF4D28 transparent; } a.continue-reading-link { color:#EEEEEE !important; background:#333333; border-color:#EEEEEE; } a.continue-reading-link:hover { background-color:#BF4D28; } .button, #respond .form-submit input#submit { background-color: #F7F7F7; border-color: #EEEEEE; } .button:hover, #respond .form-submit input#submit:hover { border-color: #CCCCCC; } .entry-content tr th, .entry-content thead th { color: #FFFFFF; background-color: #444444; } .entry-content fieldset, #content tr td { border-color: #CCCCCC; } hr { background-color: #CCCCCC; } input[type="text"], input[type="password"], input[type="email"], textarea, select, input[type="color"],input[type="date"],input[type="datetime"],input[type="datetime-local"],input[type="month"],input[type="number"],input[type="range"], input[type="search"],input[type="tel"],input[type="time"],input[type="url"],input[type="week"] { background-color: #F7F7F7; border-color: #CCCCCC #EEEEEE #EEEEEE #CCCCCC; color: #555555; } input[type="submit"], input[type="reset"] { color: #555555; background-color: #F7F7F7; border-color: #EEEEEE;} input[type="text"]:hover, input[type="password"]:hover, input[type="email"]:hover, textarea:hover, input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="month"]:hover, input[type="number"]:hover, input[type="range"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="time"]:hover, input[type="url"]:hover, input[type="week"]:hover { background-color: rgb(247,247,247); background-color: rgba(247,247,247,0.4); } .entry-content code { border-color: #CCCCCC; background-color: #F7F7F7; } .entry-content pre { background-color: #F7F7F7; } .entry-content blockquote { border-color: #BF4D28; background-color: #F7F7F7; } abbr, acronym { border-color: #555555; } span.edit-link { color: #555555; background-color: #EEEEEE; border-color: #F7F7F7; } .meta-border .entry-meta span, .meta-border .entry-utility span.bl_posted { border-color: #F7F7F7; } .meta-accented .entry-meta span, .meta-accented .entry-utility span.bl_posted { background-color: #EEEEEE; border-color: #F7F7F7; } .comment-meta a { color: #999999; } .comment-author { background-color: #F7F7F7; } .comment-details:after { border-color: transparent transparent transparent #F7F7F7; } .comment:hover > div > .comment-author { background-color: #EEEEEE; } .comment:hover > div > .comment-author .comment-details:after { border-color: transparent transparent transparent #EEEEEE; } #respond .form-allowed-tags { color: #999999; } .reply a { border-color: #EEEEEE; color: #555555;} .reply a:hover { background-color: #EEEEEE } .nav-next a:hover, .nav-previous a:hover {background: #F7F7F7} .pagination .current { font-weight: bold; } .pagination span, .pagination a { background-color: #FFFFFF; } .pagination a:hover { background-color: #333333;color:#BF4D28} .page-link em {background-color: #333333; color:#EEEEEE; color:#BF4D28;} .page-link a em {color:#E6AC27;} .page-link a:hover em {background-color:#444444;} #searchform input[type="text"] {color:#999999;} #toTop {border-color:transparent transparent #131211;} #toTop:after {border-color:transparent transparent #FFFFFF;} #toTop:hover:after {border-bottom-color:#BF4D28;} .caption-accented .wp-caption { background-color:rgb(191,77,40); background-color:rgba(191,77,40,0.8); color:#FFFFFF} .meta-themed .entry-meta span { color: #999999; background-color: #F7F7F7; border-color: #EEEEEE; } .meta-themed .entry-meta span:hover { background-color: #EEEEEE; } .meta-themed .entry-meta span a:hover { color: #555555; } #content p, #content ul, #content ol, #content, #front-text3, #front-text4 { text-align:Default ; } body { font-size:16px; word-spacing:Default; letter-spacing:Default; } body { line-height:1.7em; } #content h1.entry-title, #content h2.entry-title { font-size:36px ;} .widget-title, .widget-title a { font-size:18px ;} #content .entry-content h1 { font-size: 38px;} #content .entry-content h2 { font-size: 34px;} #content .entry-content h3 { font-size: 29px;} #content .entry-content h4 { font-size: 24px;} #content .entry-content h5 { font-size: 19px;} #content .entry-content h6 { font-size: 14px;} #site-title span a { font-size:48px ;} #access ul li a { font-size:14px ;} #access ul ul ul a {font-size:12px;} .nocomments, .nocomments2 {display:none;} #header-container > div:first-child { margin:40px 0 0 0px;} #content p, #content ul, #content ol, #content dd, #content pre, #content hr { margin-bottom: 1.0em; } #header-widget-area { width: 33%; } #branding { height:120px; } @media (max-width: 800px) { #content h1.entry-title, #content h2.entry-title { font-size:34.2px ; } #site-title span a { font-size:43.2px;} } @media (max-width: 650px) { #content h1.entry-title, #content h2.entry-title {font-size:32.4px ;} #site-title span a { font-size:38.4px;} } @media (max-width: 480px) { #site-title span a { font-size:28.8px;} } </style> 
+<style type="text/css">/* Parabola Custom CSS */</style>
+<link rel='stylesheet' id='parabola_style_mobile'  href='https://www.bildercache.de/wp-content/themes/parabola/styles/style-mobile.css?ver=2.0.7' type='text/css' media='all' /><script type="text/javascript">var cryout_global_content_width = 920;</script><!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+</script>
+<![endif]-->
+</head>
+<body class="home page-template-default page page-id-6 parabola-image-four caption-light meta-light parabola-menu-left">
+<div id="toTop"> </div>
+<div id="wrapper" class="hfeed">
+<div class="socials" id="srights">
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-YouTube" title="YouTube">
+<img alt="YouTube" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/YouTube.png" />
+</a>
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-Twitter" title="Twitter">
+<img alt="Twitter" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/Twitter.png" />
+</a>
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-RSS" title="RSS">
+<img alt="RSS" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/RSS.png" />
+</a></div>
+<div id="header-full">
+<header id="header">
+<div id="masthead">
+<div id="branding" role="banner" >
+<div id="header-container">
+<div><div id="site-title"><span> <a href="https://www.bildercache.de/" title="bildercache.de" rel="home">bildercache.de</a> </span></div><div id="site-description" ></div></div><div class="socials" id="sheader">
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-YouTube" title="YouTube">
+<img alt="YouTube" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/YouTube.png" />
+</a>
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-Twitter" title="Twitter">
+<img alt="Twitter" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/Twitter.png" />
+</a>
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-RSS" title="RSS">
+<img alt="RSS" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/RSS.png" />
+</a></div></div>								<div style="clear:both;"></div>
+</div><!-- #branding -->
+<a id="nav-toggle"><span>&nbsp;</span></a>
+<nav id="access" role="navigation">
+<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+<div class="menu"><ul id="prime_nav" class="menu"><li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-75"><a href="/" aria-current="page"><span>Startseite</span></a></li>
+<li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a href="http://bildhochladen.de/"><span>Login</span></a></li>
+<li id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a href="http://bildhochladen.de/"><span>Registrieren</span></a></li>
+<li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-229"><a href="http://bildhochladen.de/"><span>Bild hochladen</span></a>
+<ul class="sub-menu">
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://www.bildercache.de/?page_id=35"><span>Bilderausgabe – Bildeingabe</span></a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://www.bildercache.de/?page_id=39"><span>Fehlermeldungen – Errorcodeliste</span></a></li>
+</ul>
+</li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-64"><a href="https://www.bildercache.de/?page_id=46"><span>Häufig gestellte Fragen</span></a>
+<ul class="sub-menu">
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://www.bildercache.de/faqantworten-html.html"><span>Häufig gestellte Fragen – Antworten</span></a></li>
+</ul>
+</li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="https://www.bildercache.de/datenschutz.html"><span>Datenschutz</span></a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://www.bildercache.de/impressum.html"><span>Impressum</span></a></li>
+</ul></div>
+</nav><!-- #access -->
+</div><!-- #masthead -->
+<div style="clear:both;height:1px;width:1px;"> </div>
+</header><!-- #header -->
+</div><!-- #header-full -->
+<div id="main">
+<div  id="forbottom" >
+<div style="clear:both;"> </div>
+<section id="container" class="two-columns-right">
+<div id="content" role="main">
+<ul class="yoyo">
+<li class="widget-container bilde-widget"><!-- Revive Adserver Asynchronous JS Tag - Generated with Revive Adserver v5.0.2 -->
+<ins data-revive-zoneid="4296" data-revive-id="f4be748faffee5c9845768efc8666ad5"></ins>
+<script async src="//za-ads.de/new/www/delivery/asyncjs.php"></script></li>			</ul>
+<div id="post-6" class="post-6 page type-page status-publish hentry">
+<h2 class="entry-title">kostenloses Bilder-Hosting</h2>
+<div class="entry-content">
+<p>Leistungsfähiges Bilder-Management-Tool. Jetzt kostenlos <a href="http://bildhochladen.de/" target="_blank">anmelden</a> und sofort los legen.</p>
+<p><a href="http://bildhochladen.de/" rel="attachment wp-att-221"><img loading="lazy" class="aligncenter wp-image-259 size-full" src="wp-content/uploads/2016/10/bh1.jpg" width="1866" height="1049" srcset="https://www.bildercache.de/wp-content/uploads/2016/10/bh1.jpg 1866w, https://www.bildercache.de/wp-content/uploads/2016/10/bh1-300x169.jpg 300w, https://www.bildercache.de/wp-content/uploads/2016/10/bh1-768x432.jpg 768w, https://www.bildercache.de/wp-content/uploads/2016/10/bh1-1024x576.jpg 1024w, https://www.bildercache.de/wp-content/uploads/2016/10/bh1-623x350.jpg 623w, https://www.bildercache.de/wp-content/uploads/2016/10/bh1-150x84.jpg 150w" sizes="(max-width: 1866px) 100vw, 1866px" /></a></p>
+<p>Das größte Problem der Informationsgesellschaft ist die hohe Transferzeit für Informationen. Gerade Bilder und Fotos sind wichtige Medien, die schleunigst ihre Empfänger erreichen müssen. Sehr oft scheitert deren zügige Übermittlung an der komplexen Technik. Nichts ist frustrierender, als wertvolle Freizeit investieren zu müssen, nur um Informationen visuell zu übermitteln.</p><div class="bilde-336x280imbeitrag" style="float: left; margin-right: 10px; margin-bottom: 10px; " id="bilde-104940195"><!-- Revive Adserver Asynchronous JS Tag - Generated with Revive Adserver v4.2.1 -->
+<ins data-revive-zoneid="2644" data-revive-id="f4be748faffee5c9845768efc8666ad5"></ins>
+<script async src="//za-ads.de/new/www/delivery/asyncjs.php"></script></div>
+<p>Wir lösen dieses Problem. bildercache bieten unseren Nutzern die Möglichkeit, Bilder, Fotos und Grafiken im Web zu hosten.</p>
+<p>bildercache &#8211; professionell, kostenlos, sofort und schnell Bilder hochladen und im einem Schritt bearbeiten. Ob die Bilder drehen, spiegeln, verkleinern, vergrössern, umwandeln in andere Bildformate oder in der Bildqualität verändern. Alles in einem Schritt beim Bild hochladen.</p>
+<p>&nbsp;</p>
+</div><!-- .entry-content -->
+</div><!-- #post-## -->
+</div><!-- #content -->
+<div id="secondary" class="widget-area sidey" role="complementary">
+<ul class="xoxo">
+<li id="search-2" class="widget-container widget_search">
+<form role="search" method="get" class="searchform" action="https://www.bildercache.de/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="s" placeholder="SEARCH" value="" name="s" />
+</label>
+<button type="submit" class="searchsubmit"><span class="screen-reader-text">Search</span></button>
+</form>
+</li><li id="categories-2" class="widget-container widget_categories"><h3 class="widget-title">Tipps &#038; Tricks</h3>
+<ul>
+<li class="cat-item cat-item-56"><a href="https://www.bildercache.de/rategeber/andenken/">Andenken</a>
+</li>
+<li class="cat-item cat-item-30"><a href="https://www.bildercache.de/rategeber/photoimpact/augenfarbe/">Augenfarbe</a>
+</li>
+<li class="cat-item cat-item-88"><a href="https://www.bildercache.de/rategeber/auto-korrekturen/">Auto-Korrekturen</a>
+</li>
+<li class="cat-item cat-item-27"><a href="https://www.bildercache.de/rategeber/photoimpact/automatischem-speichern/">automatischem Speichern</a>
+</li>
+<li class="cat-item cat-item-31"><a href="https://www.bildercache.de/rategeber/photoimpact/bildansicht/">Bildansicht</a>
+</li>
+<li class="cat-item cat-item-11"><a href="https://www.bildercache.de/rategeber/bilder-ausdrucken/">Bilder ausdrucken</a>
+</li>
+<li class="cat-item cat-item-7"><a href="https://www.bildercache.de/rategeber/bilder-bearbeiten/">Bilder bearbeiten</a>
+</li>
+<li class="cat-item cat-item-18"><a href="https://www.bildercache.de/rategeber/bilder-duplizieren/">Bilder duplizieren</a>
+</li>
+<li class="cat-item cat-item-9"><a href="https://www.bildercache.de/rategeber/bilder-einscannen/">Bilder einscannen</a>
+</li>
+<li class="cat-item cat-item-89"><a href="https://www.bildercache.de/rategeber/bilder-einsetzen/">Bilder einsetzen</a>
+</li>
+<li class="cat-item cat-item-8"><a href="https://www.bildercache.de/rategeber/bilder-schneiden/">Bilder schneiden</a>
+</li>
+<li class="cat-item cat-item-13"><a href="https://www.bildercache.de/rategeber/bilder-speichern/">Bilder speichern</a>
+</li>
+<li class="cat-item cat-item-5"><a href="https://www.bildercache.de/rategeber/bilder-verbessern/">Bilder verbessern</a>
+</li>
+<li class="cat-item cat-item-3"><a href="https://www.bildercache.de/rategeber/bilder-vergroessern/">Bilder vergrößern</a>
+</li>
+<li class="cat-item cat-item-22"><a href="https://www.bildercache.de/rategeber/bilder-versenden/">Bilder versenden</a>
+</li>
+<li class="cat-item cat-item-10"><a href="https://www.bildercache.de/rategeber/bilder-effekte/">Bilder-Effekte</a>
+</li>
+<li class="cat-item cat-item-14"><a href="https://www.bildercache.de/rategeber/bildmasse-aendern/">Bildmasse ändern</a>
+</li>
+<li class="cat-item cat-item-35"><a href="https://www.bildercache.de/rategeber/bildmontage/">Bildmontage</a>
+</li>
+<li class="cat-item cat-item-29"><a href="https://www.bildercache.de/rategeber/photoimpact/bildmotiv/">Bildmotiv</a>
+</li>
+<li class="cat-item cat-item-12"><a href="https://www.bildercache.de/rategeber/bildrauschen-entfernen/">Bildrauschen entfernen</a>
+</li>
+<li class="cat-item cat-item-34"><a href="https://www.bildercache.de/rategeber/cddvd-etikett/">CD/DVD Etikett</a>
+</li>
+<li class="cat-item cat-item-77"><a href="https://www.bildercache.de/rategeber/designpublikationen/">Designpublikationen</a>
+</li>
+<li class="cat-item cat-item-49"><a href="https://www.bildercache.de/rategeber/digitalkamera/">Digitalkamera</a>
+</li>
+<li class="cat-item cat-item-28"><a href="https://www.bildercache.de/rategeber/photoimpact/effektvorschau/">Effektvorschau</a>
+</li>
+<li class="cat-item cat-item-59"><a href="https://www.bildercache.de/rategeber/farbprofile/">Farbprofile</a>
+</li>
+<li class="cat-item cat-item-69"><a href="https://www.bildercache.de/rategeber/fotoentwicklung/">Fotoentwicklung</a>
+</li>
+<li class="cat-item cat-item-55"><a href="https://www.bildercache.de/rategeber/fotogeschenke/">Fotogeschenke</a>
+</li>
+<li class="cat-item cat-item-26"><a href="https://www.bildercache.de/rategeber/photoimpact/fotografenwetter/">Fotografenwetter</a>
+</li>
+<li class="cat-item cat-item-45"><a href="https://www.bildercache.de/rategeber/fotopapier/">Fotopapier</a>
+</li>
+<li class="cat-item cat-item-41"><a href="https://www.bildercache.de/rategeber/fotos-suchen/">Fotos suchen</a>
+</li>
+<li class="cat-item cat-item-37"><a href="https://www.bildercache.de/rategeber/fuellmuster/">Füllmuster</a>
+</li>
+<li class="cat-item cat-item-6"><a href="https://www.bildercache.de/rategeber/meta-daten/">Meta-Daten</a>
+</li>
+<li class="cat-item cat-item-19"><a href="https://www.bildercache.de/rategeber/objekte-skalieren/">Objekte skalieren</a>
+</li>
+<li class="cat-item cat-item-16"><a href="https://www.bildercache.de/rategeber/paintshop-pro/">Paintshop Pro</a>
+</li>
+<li class="cat-item cat-item-23"><a href="https://www.bildercache.de/rategeber/photoimpact/">Photoimpact</a>
+</li>
+<li class="cat-item cat-item-4"><a href="https://www.bildercache.de/rategeber/photoshop/">Photoshop</a>
+</li>
+<li class="cat-item cat-item-38"><a href="https://www.bildercache.de/rategeber/photoshop-elements/">Photoshop-Elements</a>
+</li>
+<li class="cat-item cat-item-75"><a href="https://www.bildercache.de/rategeber/produkte-mit-eigenen-bildern/">Produkte mit eigenen Bildern</a>
+</li>
+<li class="cat-item cat-item-24"><a href="https://www.bildercache.de/rategeber/photoimpact/rote-augen/">rote Augen</a>
+</li>
+<li class="cat-item cat-item-32"><a href="https://www.bildercache.de/rategeber/schatten/">Schatten</a>
+</li>
+<li class="cat-item cat-item-42"><a href="https://www.bildercache.de/rategeber/photoshop-elements/schloss-symbol/">Schloss-Symbol</a>
+</li>
+<li class="cat-item cat-item-21"><a href="https://www.bildercache.de/rategeber/texte-bearbeiten/">Texte bearbeiten</a>
+</li>
+<li class="cat-item cat-item-20"><a href="https://www.bildercache.de/rategeber/textfarbe/">Textfarbe</a>
+</li>
+<li class="cat-item cat-item-25"><a href="https://www.bildercache.de/rategeber/photoimpact/trickkiste/">Trickkiste</a>
+</li>
+<li class="cat-item cat-item-36"><a href="https://www.bildercache.de/rategeber/photoimpact/ueberblenden/">Überblenden</a>
+</li>
+<li class="cat-item cat-item-1"><a href="https://www.bildercache.de/rategeber/uncategorized/">Uncategorized</a>
+</li>
+</ul>
+</li>			</ul>
+</div>
+</section><!-- #container -->
+	<div style="clear:both;"></div>
+</div> <!-- #forbottom -->
+</div><!-- #main -->
+<footer id="footer" role="contentinfo">
+<div id="colophon">
+</div><!-- #colophon -->
+<div id="footer2">
+<div id="footer2-inner">
+<div style="text-align:center;padding:5px 0 2px;text-transform:uppercase;font-size:12px;margin:1em auto 0;">
+Powered by <a target="_blank" href="http://www.cryoutcreations.eu" title="Parabola Theme by Cryout Creations">Parabola</a> &amp; <a target="_blank" href="http://wordpress.org/"
+title="Semantic Personal Publishing Platform">  WordPress.		</a>
+</div><!-- #site-info -->
+<div class="socials" id="sfooter">
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-YouTube" title="YouTube">
+<img alt="YouTube" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/YouTube.png" />
+</a>
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-Twitter" title="Twitter">
+<img alt="Twitter" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/Twitter.png" />
+</a>
+<a  target="_blank"  rel="nofollow" href="#"
+class="socialicons social-RSS" title="RSS">
+<img alt="RSS" src="https://www.bildercache.de/wp-content/themes/parabola/images/socials/RSS.png" />
+</a></div>			</div>
+</div><!-- #footer2 -->
+</footer><!-- #footer -->
+</div><!-- #wrapper -->
+<!--googleoff: all--><div id="cookie-law-info-bar"><span>Diese Webseite verwendet Cookies. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies setzen. <a role='button' tabindex='0' data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block; ">Ok</a> <a href='/datenschutz.html' id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  style="display:inline-block;" >Mehr Infos</a></span></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<div class="cli-modal-dialog" role="document">
+<div class="cli-modal-content cli-bar-popup">
+<button type="button" class="cli-modal-close" id="cliModalClose">
+<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+<span class="wt-cli-sr-only">Schließen</span>
+</button>
+<div class="cli-modal-body">
+<div class="cli-container-fluid cli-tab-container">
+<div class="cli-row">
+<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+<div class="cli-privacy-overview">
+<h4>Privacy Overview</h4>                <div class="cli-privacy-content">
+<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+</div>
+<a class="cli-privacy-readmore" data-readmore-text="Mehr anzeigen" data-readless-text="Weniger anzeigen"></a>            </div>
+</div>
+<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+Notwendig                            </a>
+<div class="wt-cli-necessary-checkbox">
+<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+<label class="form-check-label" for="wt-cli-checkbox-necessary">Notwendig</label>
+</div>
+<span class="cli-necessary-caption">immer aktiv</span>                         </div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade" data-id="necessary">
+<p>Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.</p>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+Nicht notwendig                            </a>
+<div class="cli-switch">
+<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary"  checked='checked' />
+<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Aktiviert" data-cli-disable="Deaktiviert"><span class="wt-cli-sr-only">Nicht notwendig</span></label>
+</div>                        </div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+<p>Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><!-- Matomo -->
+<script type="text/javascript">
+var _paq = window._paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//www.stats4net.de/piwik/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '490']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- End Matomo Code -->
+<script>(function(sds, sb, w, d, n) {
+w[sds] = w[sds] || {}; w[sds][sb] = w[sds][sb] || {}; w[n] = w[sds][sb].queue = w[sds][sb].queue || [];
+var s = d.createElement('script'); var ss = d.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);
+s.async = true; s.src = 'https://static.smartdomainsale.com/embed/sale-banner/v1.0.js';
+})('SmartDomainSale', 'SaleBanner', window, document, 'bannerCtrl');
+bannerCtrl.push(['locale', 'de']);
+bannerCtrl.push(['render-toolbar']);
+bannerCtrl.push(['init']);
+</script>
+<script type='text/javascript' src='https://www.bildercache.de/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.13189601898193 seconds, on 22-10-20 6:15:04 -->

@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Layout: plantbio -->
+  <head>
+        <meta charset="UTF-8">
+    <title>School of Integrative Biology | University of Illinois at Urbana-Champaign</title>
+
+    <!-- Description & Keywords: publicaffairs marketing web guidelines -->
+    <meta name="description" content="School of Integrative Biology site at University of Illinois Urbana-Champaign">
+    <meta name="keywords" content="Integrative Biology,uiuc,University of Illinois,Urbana-Champaign">
+    <!-- Security tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="d3jxI3NXLyeR9cqPJ/kEH6m8CcrrGvu4L+rwcje/pP44+vqwVOIEw+WcpBfV7R651yg3eb93dLoO33D31iMb+A==" />
+
+    <!-- Font Awesome: for glyphs used in menus -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Google fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" media="all">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Heebo:300,400,500,700">
+
+    <!-- Bootstrap CSS -->
+    <!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+    <!-- Bootstrap Optional theme -->
+    <!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"-->
+    <!-- Local style assets last -->
+    <link rel="stylesheet" media="all" href="/assets/application-d1c6fb9bfb74c78f83bdfe9424794c5f0b159948d16631cbc629f61723e8a5c7.css" data-turbolinks-track="reload" />
+
+    <!--Bootstrap JavaScript -->
+    <!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+    <!-- JQuery -->
+    <!--script src="https://code.jquery.com/jquery-1.9.1.min.js"></script-->
+    <!-- Local script assets last -->
+    <script src="/assets/application-98540d967b9780452ed275fb0dfb59dc07d404345dd1d6b1bfe601ae44cf8c37.js" data-turbolinks-track="reload"></script>
+  </head>
+  <body>
+
+    <div id ="container">
+      <div id ="content">
+
+<!-- Plant Biology Header Banner and Menus
+       used for content in sib.illinois.edu/plantbio/
+       updated by uebele@ Aug-2020 -->
+
+<div id="sib-header" role="complementary" aria-label="college logo">
+
+  <a class="link hide_small block1" target="_blank" href="/">School of Integrative Biology</a>
+  <span class="divider hide_small">|</span>
+  <a class="link hide_medium_small block1" target="_blank" rel="noopener noreferrer" href="https://las.illinois.edu/">College of Liberal Arts &amp; Sciences</a>
+  <span class="divider hide_medium_small">|</span>
+  <a class="uilink" target="_blank" rel="noopener noreferrer" href="https://illinois.edu/"></a>
+
+
+  <div id="give-now" class="hide_medium_small">
+    <a href="/plantbio/giving">
+      <span class="give1">Give</span>&nbsp;<span class="give2">Now</span>
+</a>  </div>
+
+</div>
+
+<div id="emergency_banner">
+  <a href="/covid19">
+    <i class="fa fa-exclamation-triangle"></i>
+    COVID-19 Information for School of Integrative Biology
+</a></div>
+
+
+<div id="department-title">
+  <div class="small">Department of</div>
+  <div class="large">Plant Biology</div>
+  <div id="menu-icon" onclick="$( 'nav' ).toggle();">
+    <!-- 3 lines of hamburger menu -->
+    <div></div> <div></div> <div></div>
+  </div>
+</div>
+
+<!-- Plant Biology Supermenu Dropdown Navigation
+       used for menus in /plantbio/
+       updated by uebele@ Jul-2019 -->
+
+
+<nav class="dept">
+
+  <div class="dropdown hover-menu" id="first-menu">
+    <a class="button_like" href="/plantbio/">
+      <i class="fa fa-home"></i>
+    </a>
+  </div>
+
+  <div class="dropdown hover-menu">
+    <button onclick="toggle_dd( 'dd-pb' )">Plant Biology at Illinois</button>
+    <div id="dd-pb" class="dropdown-content">
+      <div class="header">
+        Plant Biology at Illinois
+      </div>
+      <div class="flex">
+        <div class="navflex">
+          <a href="/plantbio/why/">Why Plant Biology at Illinois?</a>
+          <a href="/plantbio/research">Faculty Research Areas</a>
+          <a href="/plantbio/news">News</a>
+          <a target="_blank" href="/calendar_events">SIB Calendar</a>
+          <a target="_blank" href="https://publish.illinois.edu/illinoisherbarium/">Herbarium</a>
+          <a href="/plantbio/history">History</a>
+          <a href="/plantbio/contact_us">Contact Us</a>
+          <a href="/plantbio/giving">Giving</a>
+        </div><!-- end grid -->
+      </div><!-- end flex -->
+    </div><!-- end dropdown-content -->
+  </div><!-- end dropdown -->
+
+  <div class="dropdown hover-menu">
+    <button onclick="toggle_dd( 'dd-pb-people' )">People</button>
+    <div id="dd-pb-people" class="dropdown-content">
+      <div class="header">
+        People
+      </div>
+      <div class="flex">
+        <div class="navflex">
+          <a href="/plantbio/faculty">Faculty</a>
+          <a href="/plantbio/students">Students</a>
+          <a href="/plantbio/directory">Directory</a>
+        </div><!-- end grid -->
+      </div><!-- end flex -->
+    </div><!-- end dropdown-content -->
+  </div><!-- end dropdown -->
+
+  <div class="dropdown hover-menu">
+    <button onclick="toggle_dd( 'dd-pb-acad' )">Academics</button>
+    <div id="dd-pb-acad" class="dropdown-content">
+      <div class="header">
+        Academics
+      </div>
+      <div class="flex">
+        <div class="navflex">
+          <a href="/plantbio/graduate_admissions">Graduate Admissions</a>
+          <a href="/plantbio/graduate_handbook">Graduate Handbook</a>
+          <a href="/plantbio/undergraduate_research">Undergraduate Research</a>
+          <a href="/plantbio/studyabroad">Study Abroad at Illinois</a>
+          <a target="_blank" href="http://www.life.illinois.edu/pbags/">Plant Biology Grad Students Association</a>
+          <a href="/plantbio/life_in_cu">Life in C-U</a>
+        </div><!-- end grid -->
+      </div><!-- end flex -->
+    </div><!-- end dropdown-content -->
+  </div><!-- end dropdown -->
+
+  <!-- DO NOT ENABLE ON PRODUCTION YET-->
+  <!--
+  <div class="dropdown hover-menu">
+    <button onclick="toggle_dd( 'dd-pb-green' )">Greenhouse</button>
+    <div id="dd-pb-green" class="dropdown-content">
+      <div class="header">
+        Greenhouse
+      </div>
+      <div class="flex">
+        <div class="navflex">
+-->
+        <!--/div--><!-- end grid -->
+      <!--/div--><!-- end flex -->
+    <!--/div--><!-- end dropdown-content -->
+  <!--/div--><!-- end dropdown -->
+
+  <div class="dropdown hover-menu">
+    <button onclick="toggle_dd( 'dd-pb-alum' )">Alumni &amp; Friends</button>
+    <div id="dd-pb-alum" class="dropdown-content">
+      <div class="header">
+        Alumni &amp; Friends
+      </div>
+      <div class="flex">
+        <div class="navflex">
+          <a href="/plantbio/giving">Giving to Plant Biology</a>
+          <a target="_blank" href="https://illinoisalumni.org/">UI Alumni Association</a>
+          <a target="_blank" href="https://www.las.illinois.edu/alumni/">LAS Alumni</a>
+        </div><!-- end grid -->
+      </div><!-- end flex -->
+    </div><!-- end dropdown-content -->
+  </div><!-- end dropdown -->
+
+</nav>
+
+
+
+        <!-- home page has full width photo
+             needs to avoid main_content,
+             which sets a max-width -->
+<!-- shared partial: front page -->
+
+
+
+<div id="front" class="front-page">
+ <!-- layout: front page grid cell -->
+
+
+<div id="slides" class="slides_grid">
+
+<a class="news_image" href="/plantbio/news/205">
+  <img class="news_image_bg" src="/system/news_items/images/000/000/205/w960/SoyFACE.png?1605035781" />
+  <img class="news_image" srcset="/system/news_items/images/000/000/205/w960/SoyFACE.png?1605035781, /system/news_items/images/000/000/205/d960/SoyFACE.png?1605035781 2x" src="/system/news_items/images/000/000/205/w960/SoyFACE.png?1605035781" />
+</a>
+<a class="news_headline" href="/plantbio/news/205">
+  <div class="news_headline">
+    To predict how crops cope with changing climate, 30 years of experiments simulate future
+  </div>
+</a>
+
+
+<!-- layout ends: front page grid cell -->
+
+ <!-- layout: front page grid cell -->
+
+
+
+<a class="news_image" href="/plantbio/news/203">
+  <img class="news_image_bg" src="/system/news_items/images/000/000/203/w960/pollen.png?1603824881" />
+  <img class="news_image" srcset="/system/news_items/images/000/000/203/w960/pollen.png?1603824881, /system/news_items/images/000/000/203/d960/pollen.png?1603824881 2x" src="/system/news_items/images/000/000/203/w960/pollen.png?1603824881" />
+</a>
+<a class="news_headline" href="/plantbio/news/203">
+  <div class="news_headline">
+    Super-resolution microscopy and machine learning shed new light on identifying fossil pollen grains
+  </div>
+</a>
+
+
+<!-- layout ends: front page grid cell -->
+
+ <!-- layout: front page grid cell -->
+
+
+
+<a class="news_image" href="/plantbio/news/207">
+  <img class="news_image_bg" src="/system/news_items/images/000/000/207/w960/ppp-split.png?1605911192" />
+  <img class="news_image" srcset="/system/news_items/images/000/000/207/w960/ppp-split.png?1605911192, /system/news_items/images/000/000/207/d960/ppp-split.png?1605911192 2x" src="/system/news_items/images/000/000/207/w960/ppp-split.png?1605911192" />
+</a>
+<a class="news_headline" href="/plantbio/news/207">
+  <div class="news_headline">
+    Trade‐offs tip toward litter trapping: Insights from a little‐known Panamanian cloud‐forest treelet
+  </div>
+</a>
+
+
+<!-- layout ends: front page grid cell -->
+
+ <!-- layout: front page grid cell -->
+
+
+
+<a class="news_image" href="/plantbio/news/204">
+  <img class="news_image_bg" src="/system/news_items/images/000/000/204/w960/corn.png?1605034325" />
+  <img class="news_image" srcset="/system/news_items/images/000/000/204/w960/corn.png?1605034325, /system/news_items/images/000/000/204/d960/corn.png?1605034325 2x" src="/system/news_items/images/000/000/204/w960/corn.png?1605034325" />
+</a>
+<a class="news_headline" href="/plantbio/news/204">
+  <div class="news_headline">
+    Corn and other crops are not adapted to benefit from elevated carbon dioxide levels
+  </div>
+</a>
+
+
+<!-- layout ends: front page grid cell -->
+
+ <!-- layout: front page grid cell -->
+
+
+
+<a class="news_image" href="/plantbio/news/201">
+  <img class="news_image_bg" src="/system/news_items/images/000/000/201/w960/Oilcane.png?1603732289" />
+  <img class="news_image" srcset="/system/news_items/images/000/000/201/w960/Oilcane.png?1603732289, /system/news_items/images/000/000/201/d960/Oilcane.png?1603732289 2x" src="/system/news_items/images/000/000/201/w960/Oilcane.png?1603732289" />
+</a>
+<a class="news_headline" href="/plantbio/news/201">
+  <div class="news_headline">
+    CABBI Researchers Collaborate on Oilcane Pilot Project
+  </div>
+</a>
+
+
+<!-- layout ends: front page grid cell -->
+
+ <!-- layout: front page grid cell -->
+
+
+
+<a class="news_image" href="/plantbio/news/200">
+  <img class="news_image_bg" src="/system/news_items/images/000/000/200/w960/buckw_cc.png?1602710598" />
+  <img class="news_image" srcset="/system/news_items/images/000/000/200/w960/buckw_cc.png?1602710598, /system/news_items/images/000/000/200/d960/buckw_cc.png?1602710598 2x" src="/system/news_items/images/000/000/200/w960/buckw_cc.png?1602710598" />
+</a>
+<a class="news_headline" href="/plantbio/news/200">
+  <div class="news_headline">
+    Illinois Regenerative Agriculture Initiative launches at University of Illinois
+  </div>
+</a>
+
+</div><!-- end grid -->
+
+<!-- layout ends: front page grid cell -->
+
+
+<div id="main_content">
+
+  <div class="fw">
+    <div class="see_all"><a class="gen_btn" href="/plantbio/news">Plant Biology News</a></div>
+  </div>
+  <br>
+
+  <div class="fw">
+    <h2>Calendar</h2>
+  </div>
+  <div class="cal-row">
+      <!-- Shared Front Page Event partial on SIB, EEB, PB sites -->
+
+
+<div class="cal-event">
+
+  <div class="cal-heading">
+    <h4>Wed, Dec 16, 2020</h4>
+    <h6>4:00 pm</h6>
+  </div>
+
+  <div class="cal-desc">
+    <a target="_blank" href="http://illinois.edu/calendar/detail/5259?eventId=33382198">PEEC Seminar:  Dr. Esther Ngumbi, Department of Entomology, University of Illinois - &quot;Unravelling chemical mediated interactions between plants, beneficial soil microbes  and insects &quot;  - https://www.estherngumbi.com</a>
+  </div>
+</div>
+<!-- Shared Front Page Event partial ends -->
+
+      <!-- Shared Front Page Event partial on SIB, EEB, PB sites -->
+
+
+<div class="cal-event">
+
+  <div class="cal-heading">
+    <h4>Mon, Jan 11, 2021</h4>
+    <h6>10:00 am</h6>
+  </div>
+
+  <div class="cal-desc">
+    <a target="_blank" href="http://illinois.edu/calendar/detail/5259?eventId=33396047">Microbiology Thesis Defense:  Ananya Sen/Imlay Lab</a>
+      <p>
+        <i class="fa fa-map-marker"></i>&nbsp;
+        Zoom
+      </p>
+  </div>
+</div>
+<!-- Shared Front Page Event partial ends -->
+
+      <!-- Shared Front Page Event partial on SIB, EEB, PB sites -->
+
+
+<div class="cal-event">
+
+  <div class="cal-heading">
+    <h4>Mon, Jan 25, 2021</h4>
+    <h6></h6>
+  </div>
+
+  <div class="cal-desc">
+    <a target="_blank" href="http://illinois.edu/calendar/detail/5259?eventId=33383957">First Day of Instruction, Spring Semester</a>
+  </div>
+</div>
+<!-- Shared Front Page Event partial ends -->
+
+  </div>
+
+  <div class="fw">
+    <div class="see_all"><a class="gen_btn" target="_blank" href="/calendar_events">All SIB Events</a></div>
+  </div>
+
+  <div class="fp_btm"></div>
+
+</div>
+<!-- shared partial ends: front page -->
+
+
+
+<footer class="dept_footer">
+
+  <div>
+    &copy; <a href="http://sib.illinois.edu/">School of Integrative Biology</a>
+    |
+    <a href="http://www.las.illinois.edu/">College of Liberal Arts and Sciences</a>
+    |
+    <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>
+  </div>
+
+  <div>
+    <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm" target="_blank">Privacy</a>
+    |
+    <a href="https://my.atlas.illinois.edu/gradapps/index.asp">ATLAS GradApps</a>
+    |
+    <a href="https://sib.illinois.edu/private/edit_profile">Edit Profile</a>
+  </div>
+
+
+</footer>
+
+      </div>
+    </div>
+
+<script src="https://emergency.publicaffairs.illinois.edu/illinois.js"></script>
+  <script src="/assets/nav-99c3db04d3c75264484605ffa6bcb59ea32a3e25b2828fea3685674433b0e39e.js"></script>
+  <script src="/assets/slider-febb3eb7dbaa876e20fc47c23730f31b4cc30bc9d4a78f9c6e9821222e36aa30.js"></script>
+
+
+
+  </body>
+</html>

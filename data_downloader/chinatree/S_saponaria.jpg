@@ -1,0 +1,1057 @@
+<!doctype html>
+<!--[if lt IE 7]>  <html id="blog_id_28" class="ie ie6 lte9 lte8 lte7 no-js hasSecondaryMenu" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>     <html id="blog_id_28" class="ie ie7 lte9 lte8 lte7 no-js hasSecondaryMenu" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>     <html id="blog_id_28" class="ie ie8 lte9 lte8 no-js hasSecondaryMenu" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9]>     <html id="blog_id_28" class="ie ie9 lte9 no-js hasSecondaryMenu" lang="en" prefix="og: http://ogp.me/ns#""> <![endif]-->
+<!--[if gt IE 9]>  <html id="blog_id_28" class="no-js hasSecondaryMenu" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if !IE]><!--> <html id="blog_id_28" class="no-js hasSecondaryMenu" lang="en" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<html id="blog_id_28" class="no-js hasSecondaryMenu" lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Botany - Department of Natural Sciences</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="fragment" content="!">
+  
+  
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Botany degree, Gila National Forest, Gila Wilderness, WNMU, Silver City, Norris, Kleinmann"/>
+<link rel="canonical" href="https://natsci.wnmu.edu/degrees/botany/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Botany - Department of Natural Sciences" />
+<meta property="og:description" content="Botany degree, Gila National Forest, Gila Wilderness, WNMU, Silver City, Norris, Kleinmann" />
+<meta property="og:url" content="https://natsci.wnmu.edu/degrees/botany/" />
+<meta property="og:site_name" content="Department of Natural Sciences" />
+<meta property="article:author" content="marinos" />
+<!-- / Yoast SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"\/wp-includes\/js\/wp-emoji.js?ver=4.3.21","twemoji":"\/wp-includes\/js\/twemoji.js?ver=4.3.21"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.53">
+<link rel="stylesheet" href="/wp-content/plugins/wp-fullcalendar/includes/css/main.css?ver=4.3.21">
+<link rel="stylesheet" href="/wp-content/themes/wnmu/assets/css/styles/bootstrap/bootstrap.css?ver=4.3.21">
+<link rel="stylesheet" href="/wp-content/themes/wnmu/assets/css/main.min.css?ver=b01047ee344da5dea758bc5a0310c341">
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<script>window.jQuery || document.write('<script src="https://natsci.wnmu.edu/wp-content/themes/wnmu/assets/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/natsci.wnmu.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/natsci.wnmu.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"https:\/\/natsci.wnmu.edu\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"","is_ssl":"1","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"https:\/\/natsci.wnmu.edu\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.53'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPFC = {"ajaxurl":"https:\/\/natsci.wnmu.edu\/wp-admin\/admin-ajax.php","firstDay":"1","wpfc_theme":"1","wpfc_limit":"3","wpfc_limit_txt":"more ...","wpfc_theme_css":"http:\/\/natsci.wnmu.edu\/wp-content\/plugins\/wp-fullcalendar\/includes\/css\/ui-themes\/ui-lightness.css","wpfc_qtips":"1","wpfc_qtips_classes":"ui-tooltip-light ui-tooltip-shadow","wpfc_qtips_my":"top center","wpfc_qtips_at":"bottom center","wpfc_locale":{"firstDay":"1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/wp-fullcalendar/includes/js/main.js?ver=4.3.21'></script>
+<script type='text/javascript' src='/wp-content/themes/wnmu/assets/js/vendor/modernizr-2.7.0.min.js'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js?ver=4.3.21'></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8569980-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-8569980-1');
+</script>
+
+
+  <link rel="alternate" type="application/rss+xml" title="Department of Natural Sciences Feed" href="https://natsci.wnmu.edu/?lang=en/feed/">
+  <script type="text/javascript"> if (!window.console) console = {log: function() {}}; </script>
+</head>
+<body class="page page-id-608 page-child parent-pageid-1294 page-template page-template-templates page-template-template-information page-template-templatestemplate-information-php botany">
+
+  <!--[if lt IE 9]>
+    <div class="alert alert-warning">
+      You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.    </div>
+  <![endif]-->
+
+                <section class="alert-dismissible campus_alert" role="alert" style="color:#ffffff;background-color:#42196f">
+        <script>
+          $("html").addClass("hasCampusAlert");
+        </script>
+        <span>COVID-19 University Information</span>
+        <button class="btn btn-sm btn-outline" data-toggle="modal" data-target="#campus_alert_modal">
+          More Info        </button>
+        <div class="modal fade" id="campus_alert_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="myModalLabel">WNMU Information Regarding the COVID-19 Virus</h4>
+              </div>
+              <div class="modal-body">
+                <p style="text-align: center;">Western New Mexico University works to ensure the health and safety of its community and is monitoring the global public health concern related to the new coronavirus that causes COVID-19 while also ensuring those pursuing degrees may continue working toward their goals safely.</p>
+<p style="text-align: center;"><strong><a href="https://wnmu.edu/covid-19-updates/" target="_blank">Find updates regarding the WNMU plan to mitigate the spread of the coronavirus.</a></strong></p>
+<p style="text-align: center;"><div class="btn-group btn-group-justified  oscitas-bootstrap-container"><a class="btn btn-success btn-sm btn-wnmu-teal   oscitas-bootstrap-container" href="https://wnmu.edu/covid-19-f-a-q/"  target="_blank"><i class="glyphicon " ></i> Frequently Asked Questions</a><a class="btn btn-success btn-sm btn-wnmu-orange   oscitas-bootstrap-container" href="https://wnmu.edu/covid-19-updates/"  target="_blank"><i class="glyphicon " ></i> Universituy Information</a><a class="btn btn-success btn-sm btn-wnmu-blue   oscitas-bootstrap-container" href="https://financialaid.wnmu.edu/cares-act-information/"  target="_blank"><i class="glyphicon " ></i> CARES Act</a>
+</div></p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+      </section>
+        <header class="banner navbar navbar-default navbar-static-top affix-top" data-spy="affix" data-offset-top="45" role="banner">
+        <div class="content row" role="document">
+          <div class="navbar-header">
+            <div id="responsive_menu_toggles">
+                <!--<a id="responsive_site_nav_button" href="#site_sidr">Site <br> Nav</a>-->
+                <a id="responsive_wnmu_menu_button" href="#wnmu_sidr"><i class="fa fa-bars"></i></a>
+            </div>
+            <div class="flipper">
+              <div class="front">
+                <a class="logo full_logo graduation-day" href="https://wnmu.edu/">
+                 <span class="img"></span>
+                 </a>
+              </div>
+              <div class="back">
+                <a class="logo condensed_logo thumbnail_logo" href="https://wnmu.edu/">
+                  <span class="img"></span>
+                </a>
+              </div>
+            </div>
+            <a class="logo mobile_logo condensed_logo" href="https://wnmu.edu/">
+              <span class="img"></span>
+            </a>
+          </div>
+            <nav id="main_wnmu_menu" class="collapse navbar-collapse" role="navigation">
+              <ul id="menu-main-wnmu-menu" class="nav">
+                <li class="menu-about-wnmu dd_toggle"><div class="title">About WNMU<i class="fa fa-angle-down"></i></a></div>
+                  <section id="about_wnmu_dd" class="dropdown">
+                    <div class="susy_container">
+                      <section class="card menu menuLeft">
+                        <ul id="menu-about-wnmu-left-menu" class=""><li class="menu-about-us"><a href="https://wnmu.edu/about/">About Us</a></li>
+<li class="menu-contact-us"><a href="http://wnmu.edu/old/Address.shtml?utm_source=contact-us&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Contact Us</a></li>
+<li class="menu-mission-vision"><a href="https://admin.wnmu.edu/mission/">Mission &#038; Vision</a></li>
+<li class="menu-history"><a href="http://www.wnmu.edu/old/history/hp.htm?utm_source=history&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">History</a></li>
+<li class="menu-movie-theater"><a href="http://movies.wnmu.edu?utm_source=movie-theater&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Movie Theater</a></li>
+<li class="menu-our-principles"><a href="http://www.wnmu.edu/old/admin/president/missionvision.shtml?utm_source=our-prinicples&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Our Principles</a></li>
+<li class="menu-public-record-request"><a href="http://admin.wnmu.edu/request/">Public Record Request</a></li>
+<li class="menu-press-release"><a href="http://wnmu.edu/news/?utm_source=press-releases&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Press Release</a></li>
+<li class="menu-start-giving"><a href="http://www.wnmu.edu/old/admin/foundation/?utm_source=start-giving&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Start Giving</a></li>
+</ul>                      </section>
+                      <section class="card menu menuRight">
+                        <ul id="menu-about-wnmu-right-menu" class="submenu"><li class="menu-athletics"><a href="http://www.wnmumustangs.com?utm_source=athletics&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Athletics</a></li>
+<li class="menu-accreditation"><a href="https://wnmu.edu/accreditation-information/">Accreditation</a></li>
+<li class="menu-campus-map"><a href="http://www.wnmu.edu/maps/?utm_source=campus-map&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Campus Map</a></li>
+<li class="menu-campus-police"><a href="http://police.wnmu.edu">Campus Police</a></li>
+<li class="menu-media-services"><a href="http://mts.wnmu.edu/?utm_source=media-services&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Media Services</a></li>
+<li class="menu-miller-library"><a href="https://library.wnmu.edu">Miller Library</a></li>
+<li class="menu-early-childhood-programs"><a href="http://ecp.wnmu.edu?utm_source=early-childhood-programs&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Early Childhood Programs</a></li>
+<li class="menu-employment"><a href="http://www.wnmu.edu/jobs/jobs.shtml?utm_source=employment&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">Employment</a></li>
+<li class="menu-wnmu-museum"><a href="http://www.wnmumuseum.org/?utm_source=wnmu-museum&#038;utm_medium=wnmu-supermenu-about&#038;utm_campaign=dropdown-menus">WNMU Museum</a></li>
+<li class="menu-silver-city"><a target="_blank" href="http://www.silvercity.org">Silver City</a></li>
+</ul>                      </section>
+                                            <section id="cultural" class="card content ad">
+                        <a target="_blank" href="http://admin.wnmu.edu/cultural/?utm_source=cultural-affairs&utm_medium=wnmu-supermenu-about&utm_campaign=dropdown-ad">
+                          <div class="img"></div>
+                          <div class="title">Cultural Affairs<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+
+
+                      <section id="degrees" class="card content ad icon">
+                        <div id="degree_header" class="title"><a href="http://wnmu.edu/degrees">Degree Offerings</a></div>
+                        	<div class="btn-group col-xs-12 col-sm-6 undergrad">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            Undergraduate Programs <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+	    <li><a href="http://sb.wnmu.edu/undergrad/accounting/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Accounting</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/american-indian-studies/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">American Indian Studies</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/applied-spanish-minor/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Applied Spanish Minor</a></li><li><a href="http://art.wnmu.edu/undergrad/minor/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Art</a></li><li><a href="http://natsci.wnmu.edu/degrees/biology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Biology</a></li><li><a href="http://www.wnmu.edu/academic/nspages/Botany/BotanyMajor.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Botany</a></li><li><a href="http://sb.wnmu.edu/undergrad/business-administration/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Business Administration</a></li><li><a href="http://sb.wnmu.edu/undergrad/management/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Business Management</a></li><li><a href="http://natsci.wnmu.edu/degrees/cell-and-molecular-biology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Cell & Molecular Biology</a></li><li><a href="http://behavioral.wnmu.edu/chdp/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Chemical Dependency</a></li><li><a href="http://natsci.wnmu.edu/degrees/chemistry/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Chemistry</a></li><li><a href="http://soe.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Coaching</a></li><li><a href="http://humanities.wnmu.edu/communication/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Communication</a></li><li><a href="http://mathcs.wnmu.edu/programs/cs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Computer Science</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Construction</a></li><li><a href="http://behavioral.wnmu.edu/cjus/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Criminal Justice</a></li><li><a href="http://behavioral.wnmu.edu/cjus/digital-forensics/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Digital Forensics</a></li><li><a href="http://soe.wnmu.edu/undergraduate/ecp/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Early Childhood Education</a></li><li><a href="http://sb.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Economics</a></li><li><a href="http://appliedtech.wnmu.edu/programs/electrical/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Electrical Technology</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Elementary Education</a></li><li><a href="http://wnmu.edu/academic/hum/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">English</a></li><li><a href="http://sb.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Entrepreneurship</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Environmental Electric</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Financial Services</a></li><li><a href="http://art.wnmu.edu/undergrad/bfa/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Fine Arts</a></li><li><a href="http://natsci.wnmu.edu/degrees/forest-wildlife/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Forest Wildlife Law Enforcement</a></li><li><a href="http://natsci.wnmu.edu/degrees/forest-wildlife/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Forest/Wildlife</a></li><li><a href="http://sb.wnmu.edu/undergrad/general-business/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">General Business</a></li><li><a href="http://natsci.wnmu.edu/degrees/general-science/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">General Science</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/geography/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Geography</a></li><li><a href="http://natsci.wnmu.edu/degrees/geology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Geology</a></li><li><a href="http://alliedhealth.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Gerontology</a></li><li><a href="http://art.wnmu.edu/undergrad/graphic/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Graphic Design</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/history/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">History</a></li><li><a href="http://socialwork.wnmu.edu/humanservices/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Human Services</a></li><li><a href="http://interdisciplinary.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Interdisciplinary Studies</a></li><li><a href="http://alliedhealth.wnmu.edu/undergrad/kinesiology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Kinesiology</a></li><li><a href="http://behavioral.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Law Enforcement Training</a></li><li><a href="http://interdisciplinary.wnmu.edu/undergrad/associates/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Liberal Studies</a></li><li><a href="http://sb.wnmu.edu/undergrad/bbamarketing/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Marketing</a></li><li><a href="http://mathcs.wnmu.edu/programs/math/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Mathematics</a></li><li><a href="http://natsci.wnmu.edu/degrees/medical-technology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Medical Technology</a></li><li><a href="http://art.wnmu.edu/undergrad/music/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Music</a></li><li><a href="http://nursing.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Nursing</a></li><li><a href="http://natsci.wnmu.edu/degrees/outdoor-leadership-studies/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Outdoor Leadership</a></li><li><a href="http://humanities.wnmu.edu/minor-in-philosophy/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Philosophy</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Physical Education</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/political/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Political Science</a></li><li><a href="https://natsci.wnmu.edu/degrees/pre-professional-programs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Pre-Dental</a></li><li><a href="https://behavioral.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Pre-Law</a></li><li><a href="https://natsci.wnmu.edu/degrees/pre-professional-programs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Pre-Med</a></li><li><a href="http://behavioral.wnmu.edu/psychology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Psychology</a></li><li><a href="http://alliedhealth.wnmu.edu/undergrad/rehab/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Rehabilitation Services</a></li><li><a href="http://natsci.wnmu.edu/degrees/science-education/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Science Education</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Secondary Education</a></li><li><a href="http://socialsciences.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Social Science</a></li><li><a href="http://socialwork.wnmu.edu/bsw/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Social Work</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/sociology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Sociology</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Special Education</a></li><li><a href="http://natsci.wnmu.edu/degrees/environmental-sustainability/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Sustainable Development</a></li><li><a href="http://appliedtech.wnmu.edu/programs/welding/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Welding</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/wgs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Women and Gender Studies</a></li><li><a href="http://natsci.wnmu.edu/degrees/zoology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Zoology</a></li>	 </ul>
+    </div>
+	    <div class="btn-group col-xs-12 col-sm-6 grad">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            Graduate Programs <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+        <li><a href="http://wnmu.edu/academic/business/mbaInfo.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Business Administration</a></li><li><a href="http://soe.wnmu.edu/Counseling/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Counseling</a></li><li><a href="http://edl.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Educational Leadership</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Elementary Education</a></li><li><a href="http://online.wnmu.edu/offerings/certificates/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Graduate Certificates</a></li><li><a href="http://www.wnmu.edu/VirtualCampus/programs/InterdisciplinaryMasters.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Interdisciplinary Studies</a></li><li><a href="https://sonak.wnmu.edu/msn/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Master of Science in Nursing</a></li><li><a href="http://soe.wnmu.edu/grad/mat-reading/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Reading</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Secondary Education</a></li><li><a href="http://socialwork.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Social Work</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Special Education</a></li>        </ul>
+    </div>
+                            <a href="http://online.wnmu.edu/?utm_source=online-degrees&utm_medium=wnmu-supermenu-future-students&utm_campaign=dropdown-ad" alt="Full Online Degrees">
+                          <div class="title"><i class="fa fa-laptop"></i>Online Degrees <i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="alumni" class="card content ad">
+                        <a target="_blank" href="http://alumni.wnmu.edu/?utm_source=alumni_tile&utm_medium=wnmu-supermenu-about&utm_campaign=dropdown-ad">
+                          <div class="img"></div>
+                          <div class="title">Alumni Association <i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="athletics_ad" class="card content ad">
+                        <a target="_blank" href="http://www.wnmumustangs.com/?utm_source=athletics&utm_medium=wnmu-supermenu-about&utm_campaign=dropdown-ad">
+                          <div class="img"></div>
+                          <div class="title">Mustang Athletics<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+
+                    </div>
+                  </section>
+                </li>
+                <li class="menu-current-students dd_toggle"><div class="title">Current Students<i class="fa fa-angle-down"></i></div>
+                  <section id="current-students_dd" class="dropdown">
+                    <div class="susy_container">
+                      <section class="card menu menuLeft">
+                        <ul id="menu-current-students-left-menu" class="submenu"><li class="menu-academic-advising"><a href="http://admissions.wnmu.edu/sss/">Academic Advising</a></li>
+<li class="menu-athletics"><a href="http://www.wnmumustangs.com/?utm_source=athletics&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Athletics</a></li>
+<li class="menu-canvas"><a href="https://wnmu.instructure.com/?utm_source=canvas&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Canvas</a></li>
+<li class="menu-bookstore"><a href="http://wnmushop.com/">Bookstore</a></li>
+<li class="menu-center-for-student-success"><a href="http://css.wnmu.edu/?utm_source=css&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Center for Student Success</a></li>
+<li class="menu-calendar"><a href="http://wnmu.edu/events/?utm_source=calendar&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Calendar</a></li>
+<li class="menu-course-schedule"><a href="http://fuse.wnmu.edu:8080/webtm/sched.jsp?utm_source=course-schedule&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Course Schedule</a></li>
+<li class="menu-student-services"><a href="http://life.wnmu.edu/services/">Student Services</a></li>
+<li class="menu-helpdesk-it"><a href="https://mycampus.wnmu.edu/group/mycampus/it-service">Helpdesk (IT)</a></li>
+<li class="menu-housing"><a href="http://reslife.wnmu.edu/?utm_source=housing&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Housing</a></li>
+</ul>                      </section>
+                      <section class="card menu menuRight">
+                        <ul id="menu-current-students-right-menu" class="submenu"><li class="menu-emergency-care"><a href="http://reportit.wnmu.edu/report/">Emergency Care</a></li>
+<li class="menu-financial-aid"><a href="http://www.wnmu.edu/old/financialaid/index.shtml?utm_source=financial-aid&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Financial Aid</a></li>
+<li class="menu-scholarships"><a href="http://admissions.wnmu.edu/save/?utm_source=Scholarships&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Scholarships</a></li>
+<li class="menu-library"><a href="http://voyager.wnmu.edu/?utm_source=library&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Library</a></li>
+<li class="menu-mustang-express"><a href="https://mycampus.wnmu.edu?utm_source=mustang-express&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Mustang Express</a></li>
+<li class="menu-online-payments"><a href="http://www.wnmu.edu/admin/businessaff/paynow.shtml?utm_source=online-payments&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Online Payments</a></li>
+<li class="menu-student-life"><a href="http://life.wnmu.edu/?utm_source=student-life&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Student Life</a></li>
+<li class="menu-writing-center"><a href="http://humanities.wnmu.edu/writingcenter/">Writing Center</a></li>
+<li class="menu-student-government"><a href="http://aswnmu.wnmu.edu">Student Government</a></li>
+<li class="menu-registrar"><a href="http://registrar.wnmu.edu/?utm_source=registrar&#038;utm_medium=wnmu-supermenu-current-students&#038;utm_campaign=dropdown-menus">Registrar</a></li>
+</ul>                      </section>
+                      <section id="css_ad" class="card content ad">
+                        <a href="https://css.wnmu.edu/?utm_source=css-ad&utm_medium=wnmu-supermenu-current-students&utm_campaign=dropdown-ad">
+                          <div class="img"></div>
+                          <div class="title">Access / Career / Tutoring<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                                              <section id="mustang_login" class="card content ad icon">
+                        <a href="https://mycampus.wnmu.edu/?utm_source=mustang-express-login&utm_medium=wnmu-supermenu-faculty-staff&utm_campaign=dropdown-ad">
+                          <i class="fa fa-laptop"></i>
+                          <div class="title">Mustang Express<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="canvas" class="card content ad">
+                        <a href="https://wnmu.instructure.com/?utm_source=canvas-login&utm_medium=wnmu-supermenu-current-students&utm_campaign=dropdown-ad" alt="canvas login">
+                          <div class="img"></div>
+                          <div class="title">Canvas<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section class="card content events">
+                            <article>
+        <a href="https://wnmu.edu/events/preliminary-high-school-and-test-scores-deadline/">
+            <div class="date">
+                <div class="month">Jan                </div>
+                <div class="day">15                </div>
+            </div>
+            <header>
+                 <h2>Preliminary High School and Test Scores Deadline</h2>
+                 <h6>All Day</h6>
+            </header>
+        </a>
+    </article>
+            <article>
+        <a href="https://wnmu.edu/events/foundation-scholarship-application-deadline/">
+            <div class="date">
+                <div class="month">Jan                </div>
+                <div class="day">31                </div>
+            </div>
+            <header>
+                 <h2>Foundation Scholarship Application Deadline</h2>
+                 <h6>All Day</h6>
+            </header>
+        </a>
+    </article>
+            <article>
+        <a href="https://wnmu.edu/events/fafsa-priority-deadline/">
+            <div class="date">
+                <div class="month">Feb                </div>
+                <div class="day">01                </div>
+            </div>
+            <header>
+                 <h2>FAFSA Priority Deadline</h2>
+                 <h6>All Day</h6>
+            </header>
+        </a>
+    </article>
+                                <a href="http://wnmu.edu/events/?utm_source=current-student-events&utm_medium=wnmu-supermenu-current-students&utm_campaign=dropdown-ad"><div class="title">See more <i class="fa fa-arrow-right"></i></div></a>
+                      </section>
+                                          </div>
+                  </section>
+                </li>
+                <li class="menu-prospective-students dd_toggle"><div class="title">Future Students<i class="fa fa-angle-down"></i></div>
+                  <section id="prospective-students_dd" class="dropdown">
+                    <div class="susy_container">
+                      <section class="card menu menuLeft">
+                        <ul id="menu-future-students-left-menu" class=""><li class="menu-academic-programs"><a href="http://wnmu.edu/degrees/?utm_source=academic-college&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Academic Programs</a></li>
+<li class="menu-admissions"><a href="http://admissions.wnmu.edu?utm_source=admissions&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Admissions</a></li>
+<li class="menu-applications"><a href="http://wnmu.edu/applynow?utm_source=applications&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Applications</a></li>
+<li class="menu-campus-tour-request"><a href="http://admissions.wnmu.edu/expedition/?utm_source=campus-tour-request&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Campus Tour Request</a></li>
+<li class="menu-dual-enrollment"><a href="http://www.wnmu.edu/old/duen/?utm_source=dual-enrollement&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Dual Enrollment</a></li>
+<li class="menu-financial-aid"><a href="http://www.wnmu.edu/old/financialAid/?utm_source=financial-aid&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Financial Aid</a></li>
+<li class="menu-center-for-student-success"><a href="http://css.wnmu.edu/?utm_source=first-year-experience&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Center for Student Success</a></li>
+<li class="menu-extended-campuses"><a href="http://extended.wnmu.edu/">Extended Campuses</a></li>
+<li class="menu-international-studies"><a href="http://international.wnmu.edu/?utm_source=interntaional-studies&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">International Studies</a></li>
+<li class="menu-language-institute"><a href="http://language.wnmu.edu">Language Institute</a></li>
+</ul>                      </section>
+                      <section class="card menu menuRight">
+                        <ul id="menu-future-students-right-menu" class=""><li class="menu-graduate"><a href="http://www.wnmu.edu/old/gradstudies/?utm_source=graduate-studies&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Graduate</a></li>
+<li class="menu-undergraduate"><a href="http://admissions.wnmu.edu/undergrad?utm_source=undergraduate&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Undergraduate</a></li>
+<li class="menu-transfer-student"><a href="http://admissions.wnmu.edu/transfer?utm_source=undergraduate&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Transfer Student</a></li>
+<li class="menu-online-programs"><a href="http://online.wnmu.edu?utm_source=online-programs&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Online Programs</a></li>
+<li class="menu-housing"><a href="http://reslife.wnmu.edu?utm_source=housing&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Housing</a></li>
+<li class="menu-orientation"><a href="http://www.wnmu.edu/old/orientation/?utm_source=orientation&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Orientation</a></li>
+<li class="menu-scholarships"><a target="_blank" href="https://financialaid.wnmu.edu/financial-aid-scholarships/">Scholarships</a></li>
+<li class="menu-tuition-and-fees"><a href="http://admissions.wnmu.edu/tuition/?utm_source=tuition-and-fees&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Tuition and Fees</a></li>
+<li class="menu-tuition-discounts"><a href="http://admissions.wnmu.edu/save/?utm_source=tuition-discounts&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Tuition Discounts</a></li>
+<li class="menu-student-life"><a href="http://life.wnmu.edu/?utm_source=student-life&#038;utm_medium=wnmu-supermenu-future-students&#038;utm_campaign=dropdown-menus">Student Life</a></li>
+</ul>                      </section>
+                                              <section id="virtual_tour" class="card content ad">
+                          <a href="https://wnmu.edu/virtual-tour/?utm_source=wnmu-website&utm_medium=wnmu-supermenu-future-students&utm_campaign=dropdown-ad">
+                              <div class="img"></div>
+                              <div class="title">Discover our campus <i class="fa fa-arrow-right"></i></div>
+                          </a>
+                        </section>
+                                              <!--<section id="Find_your_Degree" class="card content ad icon">
+                        <a href="http://www.wnmu.edu/Degree_Offerings.shtml" alt="WNMU Find Your Degree">
+                          <i class="fa fa-file-o"></i>
+                          <div class="title">Find Your Degree<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>-->
+
+                      <section id="degrees" class="card content ad icon">
+                        <div id="degree_header" class="title"><a href="http://wnmu.edu/degrees">Degree Offerings</a></div>
+                        	<div class="btn-group col-xs-12 col-sm-6 undergrad">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            Undergraduate Programs <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+	    <li><a href="http://sb.wnmu.edu/undergrad/accounting/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Accounting</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/american-indian-studies/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">American Indian Studies</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/applied-spanish-minor/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Applied Spanish Minor</a></li><li><a href="http://art.wnmu.edu/undergrad/minor/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Art</a></li><li><a href="http://natsci.wnmu.edu/degrees/biology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Biology</a></li><li><a href="http://www.wnmu.edu/academic/nspages/Botany/BotanyMajor.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Botany</a></li><li><a href="http://sb.wnmu.edu/undergrad/business-administration/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Business Administration</a></li><li><a href="http://sb.wnmu.edu/undergrad/management/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Business Management</a></li><li><a href="http://natsci.wnmu.edu/degrees/cell-and-molecular-biology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Cell & Molecular Biology</a></li><li><a href="http://behavioral.wnmu.edu/chdp/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Chemical Dependency</a></li><li><a href="http://natsci.wnmu.edu/degrees/chemistry/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Chemistry</a></li><li><a href="http://soe.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Coaching</a></li><li><a href="http://humanities.wnmu.edu/communication/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Communication</a></li><li><a href="http://mathcs.wnmu.edu/programs/cs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Computer Science</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Construction</a></li><li><a href="http://behavioral.wnmu.edu/cjus/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Criminal Justice</a></li><li><a href="http://behavioral.wnmu.edu/cjus/digital-forensics/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Digital Forensics</a></li><li><a href="http://soe.wnmu.edu/undergraduate/ecp/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Early Childhood Education</a></li><li><a href="http://sb.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Economics</a></li><li><a href="http://appliedtech.wnmu.edu/programs/electrical/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Electrical Technology</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Elementary Education</a></li><li><a href="http://wnmu.edu/academic/hum/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">English</a></li><li><a href="http://sb.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Entrepreneurship</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Environmental Electric</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Financial Services</a></li><li><a href="http://art.wnmu.edu/undergrad/bfa/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Fine Arts</a></li><li><a href="http://natsci.wnmu.edu/degrees/forest-wildlife/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Forest Wildlife Law Enforcement</a></li><li><a href="http://natsci.wnmu.edu/degrees/forest-wildlife/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Forest/Wildlife</a></li><li><a href="http://sb.wnmu.edu/undergrad/general-business/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">General Business</a></li><li><a href="http://natsci.wnmu.edu/degrees/general-science/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">General Science</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/geography/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Geography</a></li><li><a href="http://natsci.wnmu.edu/degrees/geology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Geology</a></li><li><a href="http://alliedhealth.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Gerontology</a></li><li><a href="http://art.wnmu.edu/undergrad/graphic/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Graphic Design</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/history/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">History</a></li><li><a href="http://socialwork.wnmu.edu/humanservices/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Human Services</a></li><li><a href="http://interdisciplinary.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Interdisciplinary Studies</a></li><li><a href="http://alliedhealth.wnmu.edu/undergrad/kinesiology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Kinesiology</a></li><li><a href="http://behavioral.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Law Enforcement Training</a></li><li><a href="http://interdisciplinary.wnmu.edu/undergrad/associates/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Liberal Studies</a></li><li><a href="http://sb.wnmu.edu/undergrad/bbamarketing/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Marketing</a></li><li><a href="http://mathcs.wnmu.edu/programs/math/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Mathematics</a></li><li><a href="http://natsci.wnmu.edu/degrees/medical-technology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Medical Technology</a></li><li><a href="http://art.wnmu.edu/undergrad/music/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Music</a></li><li><a href="http://nursing.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Nursing</a></li><li><a href="http://natsci.wnmu.edu/degrees/outdoor-leadership-studies/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Outdoor Leadership</a></li><li><a href="http://humanities.wnmu.edu/minor-in-philosophy/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Philosophy</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Physical Education</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/political/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Political Science</a></li><li><a href="https://natsci.wnmu.edu/degrees/pre-professional-programs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Pre-Dental</a></li><li><a href="https://behavioral.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Pre-Law</a></li><li><a href="https://natsci.wnmu.edu/degrees/pre-professional-programs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Pre-Med</a></li><li><a href="http://behavioral.wnmu.edu/psychology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Psychology</a></li><li><a href="http://alliedhealth.wnmu.edu/undergrad/rehab/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Rehabilitation Services</a></li><li><a href="http://natsci.wnmu.edu/degrees/science-education/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Science Education</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Secondary Education</a></li><li><a href="http://socialsciences.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Social Science</a></li><li><a href="http://socialwork.wnmu.edu/bsw/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Social Work</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/sociology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Sociology</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Special Education</a></li><li><a href="http://natsci.wnmu.edu/degrees/environmental-sustainability/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Sustainable Development</a></li><li><a href="http://appliedtech.wnmu.edu/programs/welding/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Welding</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/wgs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Women and Gender Studies</a></li><li><a href="http://natsci.wnmu.edu/degrees/zoology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Zoology</a></li>	 </ul>
+    </div>
+	    <div class="btn-group col-xs-12 col-sm-6 grad">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            Graduate Programs <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+        <li><a href="http://wnmu.edu/academic/business/mbaInfo.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Business Administration</a></li><li><a href="http://soe.wnmu.edu/Counseling/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Counseling</a></li><li><a href="http://edl.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Educational Leadership</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Elementary Education</a></li><li><a href="http://online.wnmu.edu/offerings/certificates/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Graduate Certificates</a></li><li><a href="http://www.wnmu.edu/VirtualCampus/programs/InterdisciplinaryMasters.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Interdisciplinary Studies</a></li><li><a href="https://sonak.wnmu.edu/msn/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Master of Science in Nursing</a></li><li><a href="http://soe.wnmu.edu/grad/mat-reading/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Reading</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Secondary Education</a></li><li><a href="http://socialwork.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Social Work</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=wnmu-supermenu-future-students">Special Education</a></li>        </ul>
+    </div>
+                            <a href="http://online.wnmu.edu/?utm_source=online-degrees&utm_medium=wnmu-supermenu-future-students&utm_campaign=dropdown-ad" alt="Full Online Degrees">
+                          <div class="title"><i class="fa fa-laptop"></i>Online Degrees <i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="apply_now" class="card content ad icon">
+                        <a href="http://www.wnmu.edu/applynow/?utm_source=apply-now&utm_medium=wnmu-supermenu-future-students&utm_campaign=dropdown-ad" alt="WNMU Apply Now">
+                          <i class="fa fa-check-square-o"></i>
+                          <div class="title">Apply Now<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="ways_to_save" class="card content ad">
+                        <a href="https://admissions.wnmu.edu/save/?utm_source=ways-to-save&utm_medium=wnmu-supermenu-future-students&utm_campaign=dropdown-ad" alt="WNMU Apply Now">
+                          <div class="img"></div>
+                          <div class="title">Ways to save<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                                          </div>
+                  </section>
+                </li>
+                <li class="menu-faculty-staff dd_toggle"><div class="title">Faculty &amp; Staff<i class="fa fa-angle-down"></i></div>
+                  <section id="menu-faculty-staff_dd" class="dropdown">
+                    <div class="susy_container">
+                      <section class="card menu menuLeft">
+                        <ul id="menu-faculty-staff-left-menu" class=""><li class="menu-administration"><a href="http://admin.wnmu.edu/?utm_source=administration&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Administration</a></li>
+<li class="menu-academic-calendar"><a href="http://registrar.wnmu.edu/calendar/">Academic Calendar</a></li>
+<li class="menu-canvas"><a href="https://wnmu.instructure.com/?utm_source=canvas&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Canvas</a></li>
+<li class="menu-early-childhood-programs"><a href="http://ecp.wnmu.edu/?utm_source=early-childhood-programs&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Early Childhood Programs</a></li>
+<li class="menu-email"><a href="https://outlook.office.com/owa/?realm=wnmu.edu?utm_source=email&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Email</a></li>
+<li class="menu-employment"><a href="http://hr.wnmu.edu/">Employment</a></li>
+<li class="menu-faculty-senate"><a href="https://facultysenate.wnmu.edu">Faculty Senate</a></li>
+<li class="menu-helpdesk-it"><a href="https://mycampus.wnmu.edu/group/mycampus/it-service">Helpdesk (IT)</a></li>
+<li class="menu-maintenance-request"><a href="https://login.myschoolbuilding.com/msb?acctNum=631601845&#038;productID=MD">Maintenance Request</a></li>
+</ul>                      </section>
+                      <section class="card menu menuRight">
+                        <ul id="menu-faculty-staff-right-menu" class=""><li class="menu-human-resources"><a href="http://hr.wnmu.edu/?utm_source=human-resources&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Human Resources</a></li>
+<li class="menu-mail-services"><a href="http://www.wnmu.edu/old/admin/businessaff/mailroom.shtml?utm_source=mail-services&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Mail Services</a></li>
+<li class="menu-media-services"><a href="http://mts.wnmu.edu">Media Services</a></li>
+<li class="menu-miller-library"><a href="http://voyager.wnmu.edu/?utm_source=miller-library&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Miller Library</a></li>
+<li class="menu-mustang-express"><a href="http://mycampus.wnmu.edu?utm_source=mustang-express&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Mustang Express</a></li>
+<li class="menu-payroll"><a href="http://www.wnmu.edu/old/jobs/PayrollTeam.shtml?utm_source=payroll&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Payroll</a></li>
+<li class="menu-purchasing"><a href="http://www.wnmu.edu/old/admin/businessaff/purchasing/purchasing.shtml?utm_source=purchasing&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Purchasing</a></li>
+<li class="menu-staff-senate"><a href="http://staffsenate.wnmu.edu">Staff Senate</a></li>
+<li class="menu-faculty-resources"><a href="http://online.wnmu.edu/resources/?utm_source=faculty-resources&#038;utm_medium=wnmu-supermenu-faculty-and-staff&#038;utm_campaign=dropdown-menus">Faculty Resources</a></li>
+</ul>                      </section>
+                      <section class="card content events">
+                                                <a href="http://wnmu.edu/events/"><div class="title">See more <i class="fa fa-arrow-right"></i></div></a>
+                      </section>
+                      <section id="mustang_login" class="card content ad icon">
+                        <a href="https://mycampus.wnmu.edu/?utm_source=mustang-express-login&utm_medium=wnmu-supermenu-faculty-staff&utm_campaign=dropdown-ad">
+                          <i class="fa fa-laptop"></i>
+                          <div class="title">Mustang Express<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="canvas" class="card content ad">
+                        <a href="https://wnmu.instructure.com/?utm_source=canvas-login&utm_medium=wnmu-supermenu-faculty-staff&utm_campaign=dropdown-ad" alt="canvas login">
+                          <div class="img"></div>
+                          <div class="title">Canvas<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="job_annoucements" class="card content ad icon">
+                        <a href="http://www.wnmu.edu/jobs/jobs.shtml" alt="WNMU Job Announcements">
+                          <i class="fa fa-users"></i>
+                          <div class="title">Job Announcements<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                                          </div>
+                  </section>
+                </li>
+                <li class="menu-alumni-friends dd_toggle"><div class="title">Alumni &amp; Friends<i class="fa fa-angle-down"></i></div>
+                  <section id="menu-alumni-friends_dd" class="dropdown">
+                    <div class="susy_container">
+                       <section class="card menu menuLeft">
+                        <ul id="menu-alumni-friends-left-menu" class=""><li class="menu-alumni-association"><a href="http://www.wnmu.edu/old/alumni/?utm_source=alumni&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">Alumni Association</a></li>
+<li class="menu-athletics"><a href="http://www.wnmumustangs.com?utm_source=athletics&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">Athletics</a></li>
+<li class="menu-campus-tour"><a href="http://admissions.wnmu.edu/expedition/">Campus Tour</a></li>
+<li class="menu-donate"><a href="https://form.jotform.com/50545711190954">Donate</a></li>
+<li class="menu-foundation"><a href="http://www.wnmu.edu/old/admin/foundation/?utm_source=foundation&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">Foundation</a></li>
+<li class="menu-miller-library"><a href="http://voyager.wnmu.edu/?utm_source=miller-library&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">Miller Library</a></li>
+<li class="menu-sbdc"><a href="http://www.nmsbdc.org/silver-city.aspx?utm_source=sbdc&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">SBDC</a></li>
+<li class="menu-western-institute-for-lifelong-learning"><a href="https://www.facebook.com/WesternInstituteForLifelongLearning/?utm_source=western-institute-for-lifelong-learning&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">Western Institute for Lifelong Learning</a></li>
+</ul>                      </section>
+                      <section class="card menu menuRight">
+                        <ul id="menu-alumni-friends-right-menu" class=""><li class="menu-adult-education-services"><a href="http://aes.wnmu.edu/?utm_source=adult-education-services&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">Adult Education Services</a></li>
+<li class="menu-language-institute"><a href="http://language.wnmu.edu?utm_source=wnmu-museum&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">Language Institute</a></li>
+<li class="menu-cultural-affairs"><a href="http://admin.wnmu.edu/cultural/">Cultural Affairs</a></li>
+<li class="menu-movie-theater"><a href="http://movies.wnmu.edu?utm_source=movies-theater&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">Movie Theater</a></li>
+<li class="menu-wnmu-museum"><a href="http://www.wnmumuseum.org/?utm_source=wnmu-museum&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">WNMU Museum</a></li>
+<li class="menu-the-mustang"><a href="http://themustang.wnmu.edu?utm_source=wnmu-museum&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">The Mustang</a></li>
+<li class="menu-university-golf-course"><a href="http://golfcourse.wnmu.edu?utm_source=wnmu-museum&#038;utm_medium=wnmu-supermenu-alumni-and-friends&#038;utm_campaign=dropdown-menus">University Golf Course</a></li>
+<li class="menu-the-outpost"><a href="https://outdoor.wnmu.edu/gear-rental/">The Outpost</a></li>
+</ul>                      </section>
+                                            <section id="alumniFacebook" class="card content ad">
+                        <a target="_blank" href="https://www.facebook.com/WNMUalumni">
+                          <div class="icons"><i class="fa fa-facebook-official"></i></div>
+                          <div class="title">Like the Alumni Facebook<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="Make a Gift" class="card content ad icon">
+                        <a href="http://www.wnmu.edu/donate/" alt="WNMU Make a Gift">
+                          <i class="fa fa-gift"></i>
+                          <div class="title">Donate Today!<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section id="museum_ad" class="card content ad">
+                        <a target="_blank" href="http://museum.wnmu.edu?utm_source=meuseum-ad&utm_medium=wnmu-supermenu-alumni&utm_campaign=dropdown-ad">
+                          <div class="img"></div>
+                          <div class="title">WNMU Museum<i class="fa fa-arrow-right"></i></div>
+                        </a>
+                      </section>
+                      <section class="card content post">                    <article id="post-20440">
+                        <a href="https://wnmu.edu/western-new-mexico-university-fall-graduates-honored-through-virtual-commencement/">
+                        <div class="image" style="background-image: url(https://natsci.wnmu.edu/wp-content/uploads/Screen-Shot-2020-12-11-at-2.44.58-PM-344x190.png)">                        <header>
+                            <h1>WNMU Fall Graduates Honored Through Virtual Commencement</h1>
+                                                    </header>
+                        </div>
+                        </a>
+                    </article>
+</section>                    </div>
+                  </section>
+                    </div>
+                  </section>
+                </li>
+              </ul>
+            </nav>
+                    </div><!-- /.content -->
+      <nav id="secondary_nav" class="hasMenu">
+          <div class="content row" role="document">
+            <div class="menu navbar navbar-default" role="navigation">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" href="https://natsci.wnmu.edu/?lang=en">Department of Natural Sciences</a>
+              </div>
+              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul id="menu-department-nav" class="nav navbar-nav"><li class="dropdown menu-why-natsci"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="https://natsci.wnmu.edu/why/">Why NatSci? <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-meet-our-faculty"><a href="https://natsci.wnmu.edu/faculty/">Meet our Faculty</a></li>
+</ul>
+</li>
+<li class="active dropdown menu-programs"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="https://natsci.wnmu.edu/gilacenter/">Programs <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-biology"><a href="https://natsci.wnmu.edu/degrees/biology/">Biology</a></li>
+	<li class="active menu-botany"><a href="https://natsci.wnmu.edu/degrees/botany/">Botany</a></li>
+	<li class="menu-cell-and-molecular-biology"><a href="https://natsci.wnmu.edu/degrees/cell-and-molecular-biology/">Cell and Molecular Biology</a></li>
+	<li class="menu-chemistry"><a href="https://natsci.wnmu.edu/degrees/chemistry/">Chemistry</a></li>
+	<li class="menu-sustainable-development"><a href="https://natsci.wnmu.edu/degrees/environmental-sustainability/">Sustainable Development</a></li>
+	<li class="menu-forest-wildlife-and-forest-wildlife-law"><a href="https://natsci.wnmu.edu/degrees/forest-wildlife/">Forest / Wildlife and Forest / Wildlife Law</a></li>
+	<li class="menu-general-science"><a href="https://natsci.wnmu.edu/degrees/general-science/">General Science</a></li>
+	<li class="menu-geographic-information-systems-science"><a href="https://natsci.wnmu.edu/degrees/geographic-information-systems-science/">Geographic Information Systems &amp; Science</a></li>
+	<li class="menu-geology"><a href="https://natsci.wnmu.edu/degrees/geology/">Geology</a></li>
+	<li class="menu-medical-technology"><a href="https://natsci.wnmu.edu/degrees/medical-technology/">Medical Technology</a></li>
+	<li class="menu-outdoor-leadership-studies"><a href="https://natsci.wnmu.edu/degrees/outdoor-leadership-studies/">Outdoor Leadership Studies</a></li>
+	<li class="menu-science-education"><a href="https://natsci.wnmu.edu/degrees/science-education/">Science Education</a></li>
+	<li class="menu-zoology"><a href="https://natsci.wnmu.edu/degrees/zoology/">Zoology</a></li>
+</ul>
+</li>
+<li class="menu-gila-center-for-natural-history"><a href="https://natsci.wnmu.edu/gila/">Gila Center for Natural History</a></li>
+<li class="dropdown menu-resources"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="https://natsci.wnmu.edu/">Resources <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-tuition-fees"><a href="http://admissions.wnmu.edu/tuition">Tuition &amp; Fees</a></li>
+	<li class="menu-natural-sciences-scholarships"><a href="https://natsci.wnmu.edu/sciencescholarships/">Natural Sciences Scholarships</a></li>
+	<li class="menu-local-links"><a href="https://natsci.wnmu.edu/local/">Local Links</a></li>
+	<li class="menu-glendale-community-college-partnership"><a href="https://natsci.wnmu.edu/glendale/">Glendale Community College Partnership</a></li>
+</ul>
+</li>
+<li class="menu-practicum"><a href="https://natsci.wnmu.edu/degrees/practicum/">Practicum</a></li>
+<li class="menu-contact"><a href="https://natsci.wnmu.edu/contact/">Contact</a></li>
+</ul>              </div>
+            </div>
+            <div id="search_box">
+              <gcse:searchbox enableAutoComplete="true" gname="wnmusearch" ></gcse:searchbox>
+              <button type="button" class="close" aria-hidden="true">&times;</button>
+            </div>
+            <section class="social_icons">
+              <a id="openSearch" class="openSearch"><span>search </span><i class="fa fa-search"></i></a>
+              <a href="http://www.facebook.com/WesternNewMexicoUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
+              <a href="http://www.twitter.com/WNMU" target="_blank"><i class="fa fa-twitter"></i></a>
+              <a href="http://instagram.com/WNMU" target="_blank"><i class="fa fa-instagram"></i></a>
+            </section>
+          </div><!-- /.content -->
+      </nav>
+    </header>
+    
+
+  <div id="search_results">
+    <div id="local_search">
+      <div class="searching">Searching <i class="fa fa-circle-o-notch fa-spin"></i></div>
+      <ul class="results"></ul>
+      <h6 class="iHeartGoogle">Search for Employees, Departments and Webpages Index. Press "Enter" to search <a href="https://www.google.com/cse/?hl=en" target="_BLANK" class="gcsc-branding-clickable"><img src="https://www.google.com/uds/css/small-logo.png" class="gcsc-branding-img-noclear"></a>.</h6>
+      <h6 class="noResults">No directory results. Check spelling or press "Enter" to search <a href="https://www.google.com/cse/?hl=en" target="_BLANK" class="gcsc-branding-clickable"><img src="https://www.google.com/uds/css/small-logo.png" class="gcsc-branding-img-noclear"></a>.</h6>
+      <h6 class="error">There was an error. Press enter to search google</h6>
+    </div>
+    <h6 class="pardon">Download or view full directories: <a target="_blank" href="https://directory.wnmu.edu/personnel">Personnel</a> and <a target="_blank" href="https://directory.wnmu.edu/departments/">Departments</a>. <a href="https://directory.wnmu.edu/update/">Request changes to this directory</a>.</h6>
+    <gcse:searchresults enableAutoComplete="false" gname="wnmusearch"></gcse:searchresults>
+  </div>
+
+              <main class="main col-sm-12" role="main">
+          <script>
+	//passing to backbone
+		var sections = {"sections":[{"acf_fc_layout":"page_header","title":"Botany","subtitle":"","background_color":"default","background_image":{"id":1373,"alt":"","title":"10","caption":"","description":"","mime_type":"image\/jpeg","url":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101.jpg","width":1600,"height":543,"sizes":{"thumbnail":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101-150x150.jpg","thumbnail-width":150,"thumbnail-height":150,"medium":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101-300x102.jpg","medium-width":300,"medium-height":102,"large":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101-1024x348.jpg","large-width":1024,"large-height":348,"fullpage_image":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101.jpg","fullpage_image-width":1600,"fullpage_image-height":543,"compressed_large":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101.jpg","compressed_large-width":1600,"compressed_large-height":543,"post_image":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101-1024x348.jpg","post_image-width":1024,"post_image-height":348,"dropdown_post_image":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101-560x190.jpg","dropdown_post_image-width":560,"dropdown_post_image-height":190,"mobile":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/101-480x163.jpg","mobile-width":480,"mobile-height":163}},"image_or_icon":"none","add_an_icon":false,"add_an_image":{"id":181,"alt":"","title":"DSC07250-Edit","caption":"","description":"","mime_type":"image\/jpeg","url":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit.jpg","width":1600,"height":800,"sizes":{"thumbnail":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit-150x150.jpg","thumbnail-width":150,"thumbnail-height":150,"medium":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit-300x150.jpg","medium-width":300,"medium-height":150,"large":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit-1024x512.jpg","large-width":1024,"large-height":512,"fullpage_image":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit.jpg","fullpage_image-width":1600,"fullpage_image-height":800,"compressed_large":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit.jpg","compressed_large-width":1600,"compressed_large-height":800,"post_image":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit-1024x512.jpg","post_image-width":1024,"post_image-height":512,"dropdown_post_image":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit-380x190.jpg","dropdown_post_image-width":380,"dropdown_post_image-height":190,"mobile":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2014\/07\/DSC07250-Edit-480x240.jpg","mobile-width":480,"mobile-height":240}},"options":[{"background_x":"50","background_y":"0","height":""}],"alt_style":"Yes","alt_options":[{"title_color":"#ffffff","title_background_color":"#24614f","title_font_size":"","subtitle_color":"#ffffff","subtitle_background_color":"","subtitle_font_size":""}]},{"acf_fc_layout":"header","strength":"h1","title":"Introduction","subtext":"Advisor: Dr. William (Bill) Norris"},{"acf_fc_layout":"paragraph","text":"<p>The Botany degree includes three lower division preparatory courses (Plant Form, Function and Diversity, Animal Form, Function and Diversity, and Introductory Cell and Molecular Biology) and three core upper division courses (Genetics, Ecology, and Evolution)\u00a0in biology. Students majoring in Botany will then enroll in a suite of courses which feature plants (and algae and fungi): Evolution and Diversity of Plants, Biology of Algae and Fungi, Plant Taxonomy, Dendrology, Range Vegetation, and Plant Physiology.<\/p>\n<p>Near the WNMU campus a wide variety of ecological settings serve as \u201cnatural laboratories\u201d for field oriented classes and provide opportunities for field trips and student research. These areas include montane forests, woodlands, riparian forests, desert shrublands, desert grasslands, and rangelands. <a href=\"http:\/\/www.fs.usda.gov\/gila\">The Gila National Forest<\/a> (3.3 million acres), the <a href=\"http:\/\/www.nature.org\/ourinitiatives\/regions\/northamerica\/unitedstates\/newmexico\/new-mexico-gila-river-slideshow.xml\">Gila River riparian ecosystem<\/a>, and <a href=\"http:\/\/www.emnrd.state.nm.us\/SPD\/cityofrocksstatepark.html\">City of Rocks State Park<\/a> are but a short drive from the Silver City campus and are frequent destinations during <a href=\"http:\/\/wnmu.edu\/academic\/nspages\/gilaflora\/class%202014.jpg\">class field trips.<\/a><\/p>\n<p>The Botany degree is a suitable major for students interested in careers in applied fields including those associated with natural resource management agencies (e.g., United States Forest Service, National Park Service, Bureau of Land Management), businesses that market plants (e.g., florist, herb shops), and\/or careers in science education. The Botany major also prepares students for post-graduate Master and Ph. D. programs focusing on plants and fungi including range management, forest management, plant pathology, agriculture science, etc.<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n"},{"acf_fc_layout":"header","strength":"h1","title":"Bachelor of Science in Botany - Learning Outcomes","subtext":""},{"acf_fc_layout":"paragraph","text":"<p><strong>Students are able to comprehend, apply, analyze, and synthesize the following core concepts in botany: <\/strong><\/p>\n<ul>\n<li>Evolution.<\/li>\n<li>Biodiversity<\/li>\n<li>Structure and function.<\/li>\n<li>Information flow, exchange, and storage.<\/li>\n<li>Pathways and transformations of energy and matter.<\/li>\n<li>Systems.<\/li>\n<\/ul>\n<p><strong>Students will demonstrate the ability to apply the scientific process. <\/strong><\/p>\n<ul>\n<li>Understand the defining characteristics of the process of science.<\/li>\n<li>Apply the methods of scientific inquiry.<\/li>\n<li>Develop testable hypotheses, design appropriate experiments, and present reasoned analyses and interpretations of results.<\/li>\n<li>Demonstrate proper and safe field and laboratory practices including the proper use of equipment and the ability to use basic field and lab techniques.<\/li>\n<li>Demonstrate the ability to employ modern library search tools to locate, retrieve, evaluate, and apply scientific information.<\/li>\n<\/ul>\n<p><strong>\u00a0Students will be able to reason quantitatively. <\/strong><\/p>\n<ul>\n<li>Understand common quantitative approaches in botany.<\/li>\n<li>Evaluate and interpret quantitative data using the scientific method.<\/li>\n<li>Interpret and act on quantitative data from a variety of sources.<\/li>\n<li>Understand the role of uncertainty in science.<\/li>\n<li>Evaluate information by discriminating between science and non-science.<\/li>\n<\/ul>\n<p><strong>Students will demonstrate the ability to effectively communicate and collaborate within and outside the field of biology. <\/strong><\/p>\n<ul>\n<li>Communicate concepts through peer interactions and collaboration.<\/li>\n<li>Communicate science through written, visual, and oral methods.<\/li>\n<li>Recognize the interdisciplinary nature of science.<\/li>\n<\/ul>\n<p><strong>Students will understand the relationship between science and society. <\/strong><\/p>\n<ul>\n<li>Explain the historical context of botanical discoveries.<\/li>\n<li>Evaluate the impact of science on society.<\/li>\n<li>Evaluate the ethical implications of science.<\/li>\n<li>Explain why science is integral for addressing social and environmental problems.<\/li>\n<li>Explore how science is applied in a social context.<\/li>\n<\/ul>\n<p><strong>Graduates will demonstrate the ability to use their degrees to undertake careers in botany or to gain admittance to graduate or professional schools.<\/strong><\/p>\n"},{"acf_fc_layout":"header","strength":"h1","title":" Core Courses ","subtext":""},{"acf_fc_layout":"according_panel","panels":[{"title":"View Core Course Options","content":"<p><!--more--><\/p>\n<p><strong><span style=\"color: #0000ff;\"><em>Please see the official degree plan\u00a0 for additional details.<\/em><\/span><\/strong><\/p>\n<p><strong>CHEM 151\/153. General Chemistry I &amp; lab.<\/strong> Introductory course in chemistry; three lectures and one lab per week. <strong>Prerequisite: MATH 131 or equivalent<\/strong> (may be taken concurrently). (NMCCN CHEM 1213\/1211)(Area III). (4)<\/p>\n<p><strong>CHEM 152\/154. General Chemistry II &amp; lab.<\/strong> Second introductory course in chemistry; three lectures and one lab per week. <strong>Prerequisite: CHEM 151\/153.<\/strong> (NMCCN CHEM 1223\/1221)(Area III). (4)<\/p>\n<p><strong>BIOL 202\/203. Majors I: Plant Form, Function and Diversity.<\/strong> Introduction to plant biology: summarizes the major disciplines of botany and includes study of the more important plant groups: three lectures and one laboratory period per week. <strong>This course, BIOL 204, and BIOL 206 constitute the prerequisite for all biology related majors and minors. BIOL 202, 204 and 206 can be taken in any order.<\/strong> (NMCCN BIOL 1213\/1211) (Area III). (4)<\/p>\n<p><strong>BIOL 204\/205. Majors II.<\/strong> Animal Form, Function and Diversity. Introductory biology covering biological macromolecules, ecology, evolution, systematics, phylogeny, developmental biology, and a survey of major animal groups; three lectures and one two-hour laboratory a week. <strong>This course, BIOL 202, and BIOL 206 constitute the prerequisite for all biology related majors and minors. BIOL 202, 204, and 206 can be taken in any order.<\/strong> (NMCCN BIOL 1223\/1221)(Area III). (4)<\/p>\n<p><strong>BIOL 206\/207. Majors III: Intro Cell Biology &amp; lab.<\/strong> Introductory biology for majors covering biological molecules, eukaryotic and prokaryotic cell form and function, cellular metabolism and mechanisms of heredity; three lectures and one two-hour laboratory a week. <strong>This course, BIOL 202 and 204 constitute the prerequisites for all biology related majors and minors. BIOL 202, 204, and 206 can be taken in any order.<\/strong> (4)<\/p>\n<p><strong>BIOL 301\/303 Ecology &amp; lab.<\/strong> The study of the interactions between organisms, their abiotic environment, and other biotic components of natural systems; the structure and function of biotic communities and ecosystems; three lectures and one laboratory or field period per week. <strong>Prerequisites: BIOL 202\/203, 204\/205, and ENGL 102.<\/strong> Offered every Spring. (4)<\/p>\n<p><strong>BIOL 322\/324 Dendrology &amp; lab.<\/strong> Identification and natural history of North American trees, shrubs, and vines, with emphasis on species native to the Southwest. Considerable time spent in field study. Three major projects involving analysis and interpretation of field data collected by the class in lab. <strong>Prerequisites: BIOL 202\/203, 204\/205, 206\/207, and ENGL 102.<\/strong> Offered alternate years. (4)<\/p>\n<p><strong>BIOL 331\/333 Biology of Algae and Fungi &amp; lab.<\/strong> Structure, taxonomy, evolution, and ecology of fungi and non-vascular plants; three lectures and one laboratory period per week. <strong>Prerequisites: BIOL 202\/203 and ENGL 102.<\/strong> Offered alternate years. (4)<\/p>\n<p><strong>BIOL 332\/334 Evolution and Diversity of Plants &amp; lab.<\/strong> Anatomy, morphology, and evolutionary development of the vascular plants; three lectures and one laboratory period per week. <strong>Prerequisites: BIOL 202\/203 and ENGL 102.<\/strong> Offered alternate years. (4)<\/p>\n<p><strong>BIOL 351\/353 Plant Taxonomy &amp; lab.<\/strong> Flowering plants and their classification, with emphasis on flora of the Southwest: three lectures and one laboratory per week. <strong>Prerequisites: BIOL 202\/203 and ENGL 102.<\/strong> Offered alternate years. (4)<\/p>\n<p><strong>BIOL 366\/368 Genetics &amp; lab.<\/strong> Methods and results of the transmission of hereditary characteristics; three lectures and one laboratory per week. <strong>Prerequisites: BIOL 202\/203, 204\/205, 206\/207, and ENGL 102.<\/strong> (4)<\/p>\n<p><strong>BIOL 410\/412 Plant Physiology and lab.<\/strong> Course covers basic plant processes, including transport, water balance, nutrition, photosynthesis, defence mechanisms, sensory systems, and plant growth hormones. <strong>Prerequisites: BIOL 202\/203, 204\/205, BIOL 206\/207, and ENGL 102.<\/strong> Two lectures and one lab per week. (4)<\/p>\n<p><strong>BIOL 422. Evolution.<\/strong> The study of changes in natural populations of organisms and the dynamics underlying those changes. Evolutionary processes including mutation, genetic recombination, natural selection, migration, and genetic drift are reviewed, as well as their microevolutionary and macroevolutionary consequences; three lectures or discussion periods per week. <strong>Prerequisites: ENGL 102 and 15 credit hours of biology including BIOL 366.<\/strong> Offered alternate years. (3)<\/p>\n<p><strong>BIOL 425\/427 Range Vegetation &amp; lab.<\/strong> Focuses on plants of rangelands of the southwest, with emphasis on identification of range plants and ecology of rangeland plant communities. <strong>Prerequisites: BIOL 202\/203, 204\/205, and ENGL 102.<\/strong> (4)<\/p>\n<p><strong>BIOL 471\/473. Majors Microbiology &amp; lab.<\/strong> The study of microbial biology with a focus on structure, metabolism, taxonomy, and pathogenesis. This course is intended to give students a broad understanding of microbiology including the historical context of many advances in the field. Students will also become familiar with many commonly used laboratory techniques. <strong>Prerequisites: BIOL 202\/203, 204\/205, BIOL 206\/207, and ENGL 102. <\/strong>Offered alternative years (odd years fall) (4)<\/p>\n<p><strong>BIOL 486. Senior Project.<\/strong> Individually tailored research course involving a synthesis of biology disciplines and requiring use of data gathering principles and library facilities. All students must take an appropriate biology exit exam by the eighth week of the semester to receive a grade. Required of all senior students majoring in biology, botany, or zoology. Writing Intensive. <strong>Prerequisite: ENGL 102.<\/strong> (2)<\/p>\n"}]},{"acf_fc_layout":"highlight_box","type":"link","title":"Official Declaration of Major Form","subtitle":"<p>To declare Botany as your major (or minor), complete the form.<\/p>\n","file_or_link":"file","file":{"id":5832,"alt":"","title":"BA-BS Botany_2016-17","caption":"","description":"","mime_type":"application\/pdf","url":"https:\/\/natsci.wnmu.edu\/wp-content\/uploads\/sites\/28\/2015\/05\/BA-BS-Botany_2016-17.pdf"},"link":false,"image_or_icon":"none","icon":false,"image":false,"link_or_wordpress":"custom_link","wordpress_link":false,"custom_link":"http:\/\/css.wnmu.edu\/declare\/","image_side":"right"},{"acf_fc_layout":"header","strength":"h1","title":"Degree Plans","subtext":""},{"acf_fc_layout":"highlight_box","type":"link","title":"Degree Plans","subtitle":"<p>Find here all Degree Plans<\/p>\n","file_or_link":"file","file":false,"link":false,"image_or_icon":"none","icon":false,"image":false,"link_or_wordpress":"custom_link","wordpress_link":false,"custom_link":"http:\/\/wnmu.edu\/dgrplans\/dplan2004natscience.shtml","image_side":"right"},{"acf_fc_layout":"header","strength":"h1","title":"Advisor Contact","subtext":""},{"acf_fc_layout":"paragraph","text":"<p><strong>Dr. Bill Norris<\/strong><\/p>\n<p>Email: <a href=\"mailto:norrisw@wnmu.edu\" target=\"_blank\">norrisw@wnmu.edu<\/a><\/p>\n<p>Office: Harlan Hall 141<\/p>\n<p>Office phone: 538-6625<\/p>\n"}],"remove_sidebar":false,"":false};
+	//console.log(sections);
+	</script>
+
+
+<header class="section jumbotron page_header_section top">
+
+</header>
+<section class="container">
+	<div class="content">
+			<div class="col-md-4">
+			<div class="sidebar" role="complementary">
+				<ul class="nav nav-light nav-parent nav-stacked"></ul>
+			</div>
+		</div>
+		<article class="main col-md-8" role="main"></article>
+		</div>
+</section>
+
+<script type="text/template" id="page_header-template">
+	<section class="container <%= (model.alt_style)?'alt_style':'' %>" style="height: <%= (model.options)?model.options.height:'' %>">
+		<header class="content col-sm-8">
+			<h1 class="title"><%= model.title %></h1>
+			<h3 class="subtitle"><%= model.subtitle %></h3>
+		</header>
+		<section class="col-sm-4 image_side">
+				<% if(model.image_or_icon == "image"){ %>
+					<img src="<%= model.add_an_image.url %>" />
+				<% }else if(model.image_or_icon == "icon"){ %>
+					<i class="fa <%= model.add_an_icon %>"></i>
+				<% } %>
+		</section>
+	</section>
+</script>
+
+<script type="text/template" id="header-template">
+	<<%= model.strength %> class="title"><%= model.title %></<%= model.strength %>>
+	<% if(model.subtext != false && model.strength == "h1"){ %>
+		<p class="lead subtext"><%= model.subtext %></p>
+	<% } %>
+</script>
+
+<script type="text/template" id="highlight_box-template">
+	<% //check which side to have icon on
+	if(model.image_side == "right"){
+		boot_push = "col-xs-3 col-xs-push-9 image_side";
+		boot_pull = "col-xs-9 col-xs-pull-3";
+	} else {
+		boot_push = "col-xs-12 col-md-3 col-lg-3";
+		boot_pull = "col-xs-12 col-md-9 col-xs-push-0 col-lg-9 col-md-push-2 col-lg-push-1";
+	}%>
+	<% if(model.type == "link"){ %>
+		<a href="<%= (model.link_or_wordpress == "custom_link")? model.custom_link : model.wordpress_link %>">
+	<% } %>
+	<% if(model.type == "download"){ %>
+		<a target="_blank" href="<%= (model.file_or_link == "file")? model.file.url : model.link %>">
+	<% } %>
+	<% if(model.image_or_icon != "none" || model.type == "download" || model.type == "link"){ %>
+		<div class='<%= boot_push %>'>
+			<% if(model.image_or_icon != "none"){ %>
+				<% if(model.image_or_icon == "image"){ %>
+					<img src="<%= model.image.url %>" />
+				<% } else if(model.image_or_icon == "icon"){ %>
+					<i class="fa <%= model.icon %>"></i>
+				<% } %>
+			<% }else if(model.type == "download"){ %>
+				<i class="fa fa-arrow-circle-down"></i>
+			<% } else if(model.type == "link"){ %>
+				<i class="fa fa-share-square-o"></i>
+			<% } %>
+		</div>
+		<div class='<%= boot_pull %>'>
+	<% }else{ //no icon %>
+		<div class='col-xs-12'>
+	<% } %>
+			<h4 class="title"><%= model.title %></h4>
+			<p class="subtext"><%= (model.subtitle == false)? "" : model.subtitle %></p>
+		</div>
+	<% if(model.link_or_wordpress != false || model.file != false)%>
+		</a>
+</script>
+
+<script type="text/template" id="panels-template">
+	<% time = Math.round(Math.random()*1000) %>
+	<div class="panel-group" id="accordion<%= time %>">
+	<% _.each(model.panels, function(p,i){ %>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+     			<h4 class="panel-title">
+        			<a data-toggle="collapse" data-parent="#accordion<%= time %>" href="#collapse<%= time + i %>">
+        				<%= p.title %>
+        			</a>
+        		</h4>
+        	</div>
+        	<div id="collapse<%= time + i %>" class="panel-collapse collapse <%= (p.open == 1)?'in':'' %>">
+		      <div class="panel-body">
+		        <%= p.content %>
+		      </div>
+		    </div>
+		</div>
+	<% }); %>
+	</div>
+</script>
+
+<script type="text/template" id="call_to_action_slide-template">
+	<section class="container split">
+		<section class="content">
+			<div class="col-sm-7">
+				<h1 class="title"><%= model.title %></h1>
+				<h2 class="subtitle"><%= model.subtitle %></h2>
+				<div class="btn-group btn-group-lg btn-group-justified primary_buttons">
+					<% _.each(model.primary_button, function(button){ %>
+						<a role="button" href="<%= (button.link == "wordpress_link") ? button.add_a_wordpress_link : button.add_a_custom_link %>" class="btn btn-wnmu-teal">
+							<i class="fa <%= button.icon %>"></i>
+							<%= button.button_name %>
+						</a>
+					<% }); %>
+				</div>
+				<div class="btn-group btn-group-justified secondary_buttons">
+					<% _.each(model.secondary_button, function(button){ %>
+						<a role="button" href="<%= (button.link == "wordpress_link") ? button.add_a_wordpress_link : button.add_a_custom_link %>" class="btn btn-wnmu-blue">
+							<%= button.button_name %>
+						</a>
+					<% }); %>
+				</div>
+				<h2 class="subtitle"><%= model.closing_remarks %></h2>
+			</div>
+			<div class="col-sm-5">
+				<% if(model.text_right) {%>
+					<%= model.text_right %>
+				<% } else if(model.contact_form){ %>
+					<%= model.contact_form %>
+				<% } %>
+			</div>
+		</section>
+	</section>
+</script>
+        </main><!-- /.main -->
+      
+<script type="text/template" id="autocomplete_personell-template">
+  <% if(!$(".media").hasClass('personell')){%>
+    <h3 class="personell">Faculty &amp; Staff</h3>
+  <% } %>
+  <li>
+    <div class="media personell">
+      <a class="pull-left" target="_blank" href="mailto:<%= email %>">
+        <img class="media-object" src="<%= (image)? image :'https://'+ window.getUpperDomainName() + '/wp-content/themes/wnmu/assets/img/no_profile_image_thumbnail.jpg' %>" alt="<%= name %> Photo" >
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><%= name %> <small><%= title %></small></h4>
+        <div class="row">
+          <div class="col-xs-12 col-sm-3">
+            <% if(phone.length == 4){
+              p = "(575) 538-" + phone;
+            }else{
+              p = phone;
+            }%>
+            <h6><strong>Phone</strong><a target="_blank" href="tel:<%= p %>"><%=p%></a></h6>
+          </div>
+          <div class="col-xs-12 col-sm-3">
+            <h6><strong>Email</strong><a target="_blank" href="mailto:<%= email %>"><%=email%></a></h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-3">
+            <h6><strong>Cell Phone</strong><a target="_blank" href="tel:<%= cell_phone %>"><%=cell_phone%></a></h6>
+          </div>
+          <div class="col-xs-12 col-sm-3">
+            <h6><strong>Department</strong><%=department%></h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-3">
+            <h6><strong>Location</strong><%=location%></h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+</script>
+<script type="text/template" id="autocomplete_departments-template">
+  <% if(!$(".media").hasClass('departments')){%>
+    <h3 class="departments">Colleges &amp; Departments</h3>
+  <% } %>
+  <li>
+      <div class="media departments">
+        <a class="pull-left" target="_blank" href="<%= url %>">
+          <img class="media-object" src="<%= (image)? image :'https://'+ window.getUpperDomainName() + '/wp-content/themes/wnmu/assets/img/no_image_thumbnail.jpg' %>" alt="<%= name %> Photo">
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading"><%= (url != null)? '<a href="' + url +'">':"" %><%= name %><%= (url != null)? '</a>':"" %><small><%= (administrative_office != "null") ? administrative_office : "" %></small></h4>
+          <div class="row">
+            <div class="col-xs-12 col-sm-3">
+              <h6><strong>Phone</strong><a target="_blank" href="tel:<%= main_phone %>"><%=main_phone%></a></h6>
+            </div>
+            <div class="col-xs-12 col-sm-3">
+              <h6><strong>Email</strong><a target="_blank" href="mailto:<%= main_email %>"><%=main_email%></a></h6>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-3">
+              <h6><strong>Location</strong><%=location%></h6>
+            </div>
+            <div class="col-xs-12 col-sm-3">
+              <h6><strong>Website</strong><%= (url != null)? '<a href="' + url +'">' + url + '</a>' : "" %></h6>
+            </div>
+          </div>
+        </div>
+      </div>
+  </li>
+</script>
+<script type="text/template" id="autocomplete_webpages-template">
+  <% var thisIsNew = false
+  if(!$(".media").hasClass('webpages')){%>
+     <div class="clearfix visible-xs"></div>
+    <h3 class="webpages">Important Webpages</h3>
+    <div class="row">
+  <%thisIsNew=true;
+    } %>
+  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+    <li>
+      <a href="<%= link %>" alt="<%= title %>">
+        <div class="media webpages">
+          <div class="media-body">
+            <h4 class="media-heading"><%= title %></h4>
+          </div>
+        </div>
+      </a>
+    </li>
+  </div>
+  <% if(thisIsNew){%>
+    </div>
+  <% } %>
+</script>
+<section class="action_buttons">
+  <ul>
+    <a alt="Request Campus Tour" href="https://admissions.wnmu.edu/expedition/?utm_source=visit-our-campus&utm_medium=call-to-action&utm_campaign=side-action-buttons">
+      <li class="action_button" id="visit"><i class="fa fa-university"></i>Visit Our Campus</li>
+    </a>
+    <li class="action_button" id="info">
+      <i class="fa fa-info"></i>
+      Information Request<button type="button" class="close"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            <div class="request_info_form">
+      <div class="frm_forms " id="frm_form_8_container">
+<form enctype="multipart/form-data" method="post" class="frm-show-form " id="form_request_info_step_1" >
+<div class="frm_form_fields  form-group">
+<fieldset>
+
+<input type="hidden" name="frm_action" value="create" />
+<input type="hidden" name="form_id" value="8" />
+<input type="hidden" name="frm_hide_fields_8" id="frm_hide_fields_8" value="" />
+<input type="hidden" name="frm_helpers_8" id="frm_helpers_8" value="[]" />
+<input type="hidden" name="form_key" value="request_info_step_1" />
+<input type="hidden" name="item_meta[0]" value="" />
+<input type="hidden" id="frm_submit_entry_8" name="frm_submit_entry_8" value="76afde228c" /><input type="hidden" name="_wp_http_referer" value="/degrees/botany/" />
+<div id="frm_field_117_container" class="frm_form_field form-field  frm_required_field form-group frm_inline_container col-xs-12  col-sm-6 padding-right first_name">
+    <label for="field_home" class="frm_primary_label control-label">First Name
+        <span class="frm_required">*</span>
+    </label>
+    <input type="text" id="field_home" name="item_meta[117]" value=""  class="form-control"  />
+
+    
+    
+</div>
+<div id="frm_field_326_container" class="frm_form_field form-field  frm_required_field form-group frm_top_container col-xs-12  col-sm-6 padding-left last_name">
+    <label for="field_zqe1ij" class="frm_primary_label control-label">Last Name
+        <span class="frm_required">*</span>
+    </label>
+    <input type="text" id="field_zqe1ij" name="item_meta[326]" value=""  class="form-control"  />
+
+    
+    
+</div>
+<div id="frm_field_118_container" class="frm_form_field form-field  frm_required_field form-group frm_top_container email">
+    <label for="field_email" class="frm_primary_label control-label">Email Address
+        <span class="frm_required"></span>
+    </label>
+    <input type="email" id="field_email" name="item_meta[118]" value=""  placeholder="example@example.com" class="form-control"  />
+
+    
+    
+</div>
+<input type="hidden" name="item_meta[136]" id="field_mxdt06" value="https://natsci.wnmu.edu/degrees/botany/"  data-frmval="https://natsci.wnmu.edu/degrees/botany/" class="form-control"   />
+<input type="hidden" name="item_meta[140]" id="field_call_to_action" value="Default Embed"  data-frmval="Default Embed" class="form-control"   />
+<input type="hidden" name="item_meta[145]" id="field_zi9r96" value="12/16/2020 - 14:13:04"  data-frmval="12/16/2020 - 14:13:04" class="form-control"   />
+<input type="hidden" name="item_meta[329]" id="field_redirect_url" value=""  class="form-control"   />
+<input type="hidden" name="item_meta[330]" id="field_utm_medium" value=""  class="form-control"   />
+<input type="hidden" name="item_meta[331]" id="field_utm_source" value=""  class="form-control"   />
+<input type="hidden" name="item_meta[332]" id="field_utm_campaign" value=""  class="form-control"   />
+<input type="hidden" name="item_meta[353]" id="field_utm_content" value=""  class="form-control"   />
+<input type="hidden" name="item_meta[354]" id="field_utm_term" value=""  class="form-control"   />
+<input type="hidden" name="item_key" value="" />
+<div class="form-group frm_submit">
+
+<input class="btn btn-default btn-wnmu-yellow" type="submit" value="Next"  class="btn btn-default"  />
+<img class="frm_ajax_loading" src="https://natsci.wnmu.edu/wp-content/plugins/formidable/images/ajax_loader.gif" alt="Sending" style="visibility:hidden;" />
+
+</div></fieldset>
+</div>
+</form>
+</div>
+      </div>
+            <i class="fa fa-spin fa-spinner"></i>
+    </li>
+    <a alt="Chat with Us" href="#?utm_source=chat-with-us&utm_medium=call-to-action&utm_campaign=side-action-buttons"><li class="purechat-button-expand action_button" id="chat"><i class="fa fa-comment"></i>Chat With Us</li></a>
+    <li class="action_button" id="degrees">
+      <i class="fa fa-graduation-cap"></i>
+      Degree Offerings<button type="button" class="close"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+      <div class="form-group dropdowns">
+                  	<div class="btn-group col-xs-12 col-sm-6 undergrad">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            Undergraduate Programs <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+	    <li><a href="http://sb.wnmu.edu/undergrad/accounting/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Accounting</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/american-indian-studies/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">American Indian Studies</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/applied-spanish-minor/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Applied Spanish Minor</a></li><li><a href="http://art.wnmu.edu/undergrad/minor/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Art</a></li><li><a href="http://natsci.wnmu.edu/degrees/biology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Biology</a></li><li><a href="http://www.wnmu.edu/academic/nspages/Botany/BotanyMajor.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Botany</a></li><li><a href="http://sb.wnmu.edu/undergrad/business-administration/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Business Administration</a></li><li><a href="http://sb.wnmu.edu/undergrad/management/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Business Management</a></li><li><a href="http://natsci.wnmu.edu/degrees/cell-and-molecular-biology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Cell & Molecular Biology</a></li><li><a href="http://behavioral.wnmu.edu/chdp/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Chemical Dependency</a></li><li><a href="http://natsci.wnmu.edu/degrees/chemistry/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Chemistry</a></li><li><a href="http://soe.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Coaching</a></li><li><a href="http://humanities.wnmu.edu/communication/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Communication</a></li><li><a href="http://mathcs.wnmu.edu/programs/cs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Computer Science</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Construction</a></li><li><a href="http://behavioral.wnmu.edu/cjus/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Criminal Justice</a></li><li><a href="http://behavioral.wnmu.edu/cjus/digital-forensics/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Digital Forensics</a></li><li><a href="http://soe.wnmu.edu/undergraduate/ecp/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Early Childhood Education</a></li><li><a href="http://sb.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Economics</a></li><li><a href="http://appliedtech.wnmu.edu/programs/electrical/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Electrical Technology</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Elementary Education</a></li><li><a href="http://wnmu.edu/academic/hum/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">English</a></li><li><a href="http://sb.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Entrepreneurship</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Environmental Electric</a></li><li><a href="http://wnmu.edu/academic/applied/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Financial Services</a></li><li><a href="http://art.wnmu.edu/undergrad/bfa/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Fine Arts</a></li><li><a href="http://natsci.wnmu.edu/degrees/forest-wildlife/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Forest Wildlife Law Enforcement</a></li><li><a href="http://natsci.wnmu.edu/degrees/forest-wildlife/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Forest/Wildlife</a></li><li><a href="http://sb.wnmu.edu/undergrad/general-business/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">General Business</a></li><li><a href="http://natsci.wnmu.edu/degrees/general-science/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">General Science</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/geography/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Geography</a></li><li><a href="http://natsci.wnmu.edu/degrees/geology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Geology</a></li><li><a href="http://alliedhealth.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Gerontology</a></li><li><a href="http://art.wnmu.edu/undergrad/graphic/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Graphic Design</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/history/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">History</a></li><li><a href="http://socialwork.wnmu.edu/humanservices/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Human Services</a></li><li><a href="http://interdisciplinary.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Interdisciplinary Studies</a></li><li><a href="http://alliedhealth.wnmu.edu/undergrad/kinesiology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Kinesiology</a></li><li><a href="http://behavioral.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Law Enforcement Training</a></li><li><a href="http://interdisciplinary.wnmu.edu/undergrad/associates/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Liberal Studies</a></li><li><a href="http://sb.wnmu.edu/undergrad/bbamarketing/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Marketing</a></li><li><a href="http://mathcs.wnmu.edu/programs/math/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Mathematics</a></li><li><a href="http://natsci.wnmu.edu/degrees/medical-technology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Medical Technology</a></li><li><a href="http://art.wnmu.edu/undergrad/music/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Music</a></li><li><a href="http://nursing.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Nursing</a></li><li><a href="http://natsci.wnmu.edu/degrees/outdoor-leadership-studies/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Outdoor Leadership</a></li><li><a href="http://humanities.wnmu.edu/minor-in-philosophy/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Philosophy</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Physical Education</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/political/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Political Science</a></li><li><a href="https://natsci.wnmu.edu/degrees/pre-professional-programs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Pre-Dental</a></li><li><a href="https://behavioral.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Pre-Law</a></li><li><a href="https://natsci.wnmu.edu/degrees/pre-professional-programs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Pre-Med</a></li><li><a href="http://behavioral.wnmu.edu/psychology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Psychology</a></li><li><a href="http://alliedhealth.wnmu.edu/undergrad/rehab/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Rehabilitation Services</a></li><li><a href="http://natsci.wnmu.edu/degrees/science-education/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Science Education</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Secondary Education</a></li><li><a href="http://socialsciences.wnmu.edu/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Social Science</a></li><li><a href="http://socialwork.wnmu.edu/bsw/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Social Work</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/sociology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Sociology</a></li><li><a href="http://soe.wnmu.edu/undergraduate/bs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Special Education</a></li><li><a href="http://natsci.wnmu.edu/degrees/environmental-sustainability/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Sustainable Development</a></li><li><a href="http://appliedtech.wnmu.edu/programs/welding/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Welding</a></li><li><a href="http://socialsciences.wnmu.edu/undergrad/wgs/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Women and Gender Studies</a></li><li><a href="http://natsci.wnmu.edu/degrees/zoology/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Zoology</a></li>	 </ul>
+    </div>
+	    <div class="btn-group col-xs-12 col-sm-6 grad">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            Graduate Programs <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+        <li><a href="http://wnmu.edu/academic/business/mbaInfo.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Business Administration</a></li><li><a href="http://soe.wnmu.edu/Counseling/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Counseling</a></li><li><a href="http://edl.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Educational Leadership</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Elementary Education</a></li><li><a href="http://online.wnmu.edu/offerings/certificates/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Graduate Certificates</a></li><li><a href="http://www.wnmu.edu/VirtualCampus/programs/InterdisciplinaryMasters.shtml?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Interdisciplinary Studies</a></li><li><a href="https://sonak.wnmu.edu/msn/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Master of Science in Nursing</a></li><li><a href="http://soe.wnmu.edu/grad/mat-reading/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Reading</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Secondary Education</a></li><li><a href="http://socialwork.wnmu.edu?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Social Work</a></li><li><a href="http://soe.wnmu.edu/grad/mat_overview/?utm_source=degrees-dropdown&utm_medium=call-to-action&utm_campaign=side-action-buttons">Special Education</a></li>        </ul>
+    </div>
+                  </div>
+    </li>
+  </ul>
+</section>
+
+
+  <footer class="main_footer content-info" role="contentinfo">
+	<div class="container center">
+		<section class="logo">
+			<img src="/wp-content/themes/wnmu/assets/img/wnmu_footer_logotype.png" alt="WNMU Logo"/>
+		</section>
+	     <section class="contact">
+	     	<span>Western New Mexico University</span>
+	     	<span>P.O. Box 680 Silver City, NM 88062</span>
+	     	<span>Phone 1-800-872-9668</span>
+	     	<span>wnmu.edu</span>
+	     </section>
+	     <section class="links">
+	     	<div class="copyright">&copy; 2020 -- Regents of Western New Mexico University</div>
+	     	<nav class="nav navbar-collapse" role="navigation">
+		        <ul id="menu-footer" class="nav navbar-nav"><li class="menu-accessibility"><a href="https://wnmu.edu/accessibility/">Accessibility</a></li>
+<li class="menu-consumer-information"><a href="http://wnmu.edu/consumer-information/">Consumer Information</a></li>
+<li class="menu-missionvision"><a href="https://admin.wnmu.edu/mission/">Mission/Vision</a></li>
+<li class="menu-hed-dashboard"><a href="http://nmhedss2.state.nm.us/Dashboard/index.aspx?ID=24">HED Dashboard</a></li>
+<li class="menu-accreditation"><a href="http://www.wnmu.edu/admin/AQIP/aqip.shtml">Accreditation</a></li>
+<li class="menu-public-record-request"><a href="http://admin.wnmu.edu/request/">Public Record Request</a></li>
+<li class="menu-departmental-peer-review"><a href="https://wnmu.edu/peer-review/">Departmental Peer Review</a></li>
+<li class="menu-title-ix-sexual-misconduct"><a href="//titleix.wnmu.edu/">Title IX – Sexual Misconduct</a></li>
+<li class="menu-non-discriminatory-notice"><a href="https://wnmu.edu/non-discriminatory-notice/">Non Discriminatory Notice</a></li>
+<li class="menu-contact-us"><a href="https://wnmu.edu/contact/">Contact Us</a></li>
+<li class="menu-admin-login"><a href="/wp-admin/">Admin Login</a></li>
+</ul>	      	</nav>
+		</section>
+	</div>
+</footer>
+
+<link rel="stylesheet" href="/wp-content/themes/wnmu/assets/css/styles/templates/information/information.css?ver=4.3.21">
+<script type='text/javascript' src='/wp-content/themes/wnmu/assets/js/templates/plugins/purechat/general-purechat.js?ver=4.3.21'></script>
+<script type='text/javascript' src='//use.typekit.net/jbc8gdy.js?ver=4.3.21'></script>
+<script type='text/javascript' src='/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='/wp-includes/js/backbone.min.js?ver=1.1.2'></script>
+<script type='text/javascript' src='/wp-content/themes/wnmu/assets/js/scripts.min.js?ver=073b5d6e895015b0c725a3927a045284'></script>
+<script type='text/javascript' src='/wp-content/themes/wnmu/assets/js/templates/plugins/animatescroll.js?ver=4.3.21'></script>
+<script type='text/javascript' src='/wp-content/themes/wnmu/assets/js/templates/plugins/fitText.js?ver=4.3.21'></script>
+<script type='text/javascript' src='/wp-content/themes/wnmu/assets/js/templates/information.min.js?ver=4.3.21'></script>
+<script type='text/javascript' src='/wp-content/plugins/formidable/js/jquery/jquery.placeholder.js?ver=2.0.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var frm_js = {"ajax_url":"https:\/\/natsci.wnmu.edu\/wp-admin\/admin-ajax.php","images_url":"https:\/\/natsci.wnmu.edu\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"115","nonce":"63f492f1be","id":"ID"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/formidable/js/formidable.js?ver=2.0.22'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var frmbtsp = {"show_error":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/formidable-bootstrap/js/frmbtsp.js?ver=1.0'></script>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(document).ready(function($){
+$(document).off('submit.formidable','.frm-show-form');$(document).on('submit.formidable','.frm-show-form',frmFrontForm.submitForm);
+});
+/*]]>*/
+</script>
+
+</body>
+</html>

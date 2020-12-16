@@ -1,0 +1,1046 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Oracle Town | A Community Guide</title>
+
+<!-- All In One SEO Pack 3.7.1[195,239] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://oracletown.com/#organization","url":"https://oracletown.com/","name":"Oracle Town","sameAs":[]},{"@type":"WebSite","@id":"https://oracletown.com/#website","url":"https://oracletown.com/","name":"Oracle Town","publisher":{"@id":"https://oracletown.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://oracletown.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://oracletown.com#webpage","url":"https://oracletown.com","inLanguage":"en-US","name":"Oracle Town","isPartOf":{"@id":"https://oracletown.com/#website"},"breadcrumb":{"@id":"https://oracletown.com#breadcrumblist"},"description":"A Community Guide","datePublished":"2020-11-20T09:53:54+00:00","dateModified":"2020-11-24T05:26:06+00:00","about":{"@id":"https://oracletown.com/#organization"}},{"@type":"BreadcrumbList","@id":"https://oracletown.com#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://oracletown.com/","url":"https://oracletown.com/","name":"Oracle Town | A Community Guide"}}]}]}</script>
+<link rel="canonical" href="https://oracletown.com/" />
+<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Oracle Town &raquo; Feed" href="https://oracletown.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Oracle Town &raquo; Comments Feed" href="https://oracletown.com/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/oracletown.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='astra-theme-css-css'  href='https://oracletown.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.6.1' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3a;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:inherit;font-size:15px;font-size:1rem;}blockquote{color:#000000;}.site-title{font-size:35px;font-size:2.3333333333333rem;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.6666666666667rem;}.site-header .site-description{font-size:15px;font-size:1rem;}.entry-title{font-size:40px;font-size:2.6666666666667rem;}.comment-reply-title{font-size:24px;font-size:1.6rem;}.ast-comment-list #cancel-comment-reply-link{font-size:15px;font-size:1rem;}h1,.entry-content h1{font-size:40px;font-size:2.6666666666667rem;}h2,.entry-content h2{font-size:30px;font-size:2rem;}h3,.entry-content h3{font-size:25px;font-size:1.6666666666667rem;}h4,.entry-content h4{font-size:20px;font-size:1.3333333333333rem;}h5,.entry-content h5{font-size:18px;font-size:1.2rem;}h6,.entry-content h6{font-size:15px;font-size:1rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:2rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:15px;font-size:1rem;}::selection{background-color:#0274be;color:#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#3a3a3a;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#0274be;background-color:#0274be;}.main-header-menu .menu-link,.ast-header-custom-item a{color:#3a3a3a;}.main-header-menu .menu-item:hover > .menu-link,.main-header-menu .menu-item:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu .menu-item.focus > .menu-link,.main-header-menu .menu-item.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > .menu-link,.main-header-menu .current-menu-ancestor > .menu-link,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#0274be;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#0274be;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#0274be;background-color:#0274be;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#0274be;border-color:#0274be;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:12px;font-size:0.8rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#0274be;}.entry-meta,.entry-meta *{line-height:1.45;color:#0274be;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#3a3a3a;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:13.333333333333rem;}.widget-title{font-size:21px;font-size:1.4rem;color:#3a3a3a;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#0274be;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#0274be;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#0274be;border-color:#0274be;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#0274be;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#3a3a3a;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#0274be;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #0274be;color:#0274be;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#0274be;}.wp-block-buttons.aligncenter{justify-content:center;}@media (min-width:1200px){.ast-separate-container.ast-right-sidebar .entry-content .wp-block-image.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-image.alignfull,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignfull{margin-left:-6.67em;margin-right:-6.67em;max-width:unset;width:unset;}.ast-separate-container.ast-right-sidebar .entry-content .wp-block-image.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-image.alignwide,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;max-width:unset;width:unset;}.wp-block-group .has-background{padding:20px;}}@media (min-width:1200px){.ast-separate-container.ast-right-sidebar .entry-content .wp-block-group.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-group.alignwide,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;}.ast-separate-container.ast-right-sidebar .entry-content .wp-block-group.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-group.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignfull,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignfull{margin-left:-6.67em;margin-right:-6.67em;padding-left:6.67em;padding-right:6.67em;}.ast-plain-container.ast-right-sidebar .entry-content .wp-block-group.alignwide,.ast-plain-container.ast-left-sidebar .entry-content .wp-block-group.alignwide,.ast-plain-container.ast-right-sidebar .entry-content .wp-block-group.alignfull,.ast-plain-container.ast-left-sidebar .entry-content .wp-block-group.alignfull{padding-left:20px;padding-right:20px;}.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-group__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-group__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-cover__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-cover__inner-container{max-width:1240px;margin-left:auto;margin-right:auto;padding-left:20px;padding-right:20px;}.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-cover__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-cover__inner-container{width:1240px;}.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-group.alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-group.alignfull{margin-left:0;margin-right:0;}.wp-block-cover-image.alignwide .wp-block-cover__inner-container,.wp-block-cover.alignwide .wp-block-cover__inner-container,.wp-block-cover-image.alignfull .wp-block-cover__inner-container,.wp-block-cover.alignfull .wp-block-cover__inner-container{width:100%;}.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-left-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-cover.alignfull,.ast-page-builder-template.ast-left-sidebar .entry-content .wp-block-cover.alignfull,.ast-page-builder-template.ast-right-sidebar .entry-content .wp-block-cover.alignful{padding-right:0;padding-left:0;}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0;}@media (max-width:921px){.ast-theme-transparent-header #primary,.ast-theme-transparent-header #secondary{padding:0;}}.wp-block-columns{margin-bottom:unset;}.wp-block-image.size-full{margin:2rem 0;}.wp-block-separator.has-background{padding:0;}.wp-block-gallery{margin-bottom:1.6em;}.wp-block-group{padding-top:4em;padding-bottom:4em;}.wp-block-group__inner-container .wp-block-columns:last-child,.wp-block-group__inner-container :last-child,.wp-block-table table{margin-bottom:0;}.blocks-gallery-grid{width:100%;}.wp-block-navigation-link__content{padding:5px 0;}.wp-block-group .wp-block-group .has-text-align-center,.wp-block-group .wp-block-column .has-text-align-center{max-width:100%;}.has-text-align-center{margin:0 auto;}@media (min-width:1200px){.wp-block-cover__inner-container,.alignwide .wp-block-group__inner-container,.alignfull .wp-block-group__inner-container{max-width:1200px;margin:0 auto;}.wp-block-group.alignnone,.wp-block-group.aligncenter,.wp-block-group.alignleft,.wp-block-group.alignright,.wp-block-group.alignwide,.wp-block-columns.alignwide{margin:2rem 0 1rem 0;}}@media (max-width:1200px){.wp-block-group{padding:3em;}.wp-block-group .wp-block-group{padding:1.5em;}.wp-block-columns,.wp-block-column{margin:1rem 0;}}@media (min-width:921px){.wp-block-columns .wp-block-group{padding:2em;}}@media (max-width:544px){.wp-block-cover-image .wp-block-cover__inner-container,.wp-block-cover .wp-block-cover__inner-container{width:unset;}.wp-block-cover,.wp-block-cover-image{padding:2em 0;}.wp-block-group,.wp-block-cover{padding:2em;}.wp-block-media-text__media img,.wp-block-media-text__media video{width:unset;max-width:100%;}.wp-block-media-text.has-background .wp-block-media-text__content{padding:1em;}}@media (max-width:921px){.ast-plain-container.ast-no-sidebar #primary{padding:0;}}@media (min-width:544px){.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content{padding:0 8% 0 0;}.entry-content .wp-block-media-text .wp-block-media-text__content{padding:0 0 0 8%;}.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-bottom-left > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-bottom-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-top-left > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-top-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-center-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-center-left > *{margin:0;}}@media (max-width:544px){.entry-content .wp-block-media-text .wp-block-media-text__content{padding:8% 0;}.wp-block-media-text .wp-block-media-text__media img{width:auto;max-width:100%;}}@media (max-width:921px){#secondary.secondary{padding-top:0;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}.ast-separate-container.ast-right-sidebar #secondary{padding-left:1em;padding-right:1em;}.ast-separate-container.ast-two-container #secondary{padding-left:0;padding-right:0;}.ast-page-builder-template .entry-header #secondary{margin-top:1.5em;}.ast-page-builder-template #secondary{margin-top:1.5em;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}.ast-pagination{padding-top:1.5em;text-align:center;}.ast-pagination .next.page-numbers{display:inherit;float:none;}}@media (max-width:921px){.ast-page-builder-template.ast-left-sidebar #secondary{padding-right:20px;}.ast-page-builder-template.ast-right-sidebar #secondary{padding-left:20px;}.ast-right-sidebar #primary{padding-right:0;}.ast-right-sidebar #secondary{padding-left:0;}.ast-left-sidebar #primary{padding-left:0;}.ast-left-sidebar #secondary{padding-right:0;}.ast-pagination .prev.page-numbers{padding-left:.5em;}.ast-pagination .next.page-numbers{padding-right:.5em;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.ast-separate-container.ast-right-sidebar #secondary,.ast-separate-container.ast-left-sidebar #secondary{border:0;margin-left:auto;margin-right:auto;}.ast-separate-container.ast-two-container #secondary .widget:last-child{margin-bottom:0;}.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}.ast-author-box{-js-display:flex;display:flex;}.ast-author-bio{flex:1;}.error404.ast-separate-container #primary,.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:922px){.ast-right-sidebar #primary{border-right:1px solid #eee;}.ast-right-sidebar #secondary{border-left:1px solid #eee;margin-left:-1px;}.ast-left-sidebar #primary{border-left:1px solid #eee;}.ast-left-sidebar #secondary{border-right:1px solid #eee;margin-right:-1px;}.ast-separate-container.ast-two-container.ast-right-sidebar #secondary{padding-left:30px;padding-right:0;}.ast-separate-container.ast-two-container.ast-left-sidebar #secondary{padding-right:30px;padding-left:0;}}.wp-block-button .wp-block-button__link,{color:#ffffff;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:#0274be;background-color:#0274be;color:#ffffff;font-family:inherit;font-weight:inherit;line-height:1;border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:#3a3a3a;border-color:#3a3a3a;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:#0274be;background-color:#0274be;border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;font-family:inherit;font-weight:inherit;line-height:1;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:#3a3a3a;border-color:#3a3a3a;}@media (min-width:921px){.ast-container{max-width:100%;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container #secondary{padding-top:0;}.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em;padding-left:1em;padding-right:1em;}.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.ast-separate-container .comment-respond{padding:1.5em 1em;}}@media (max-width:544px){.ast-comment-list .children{margin-left:0.66666em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:921px){.ast-header-break-point .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:0;}.ast-header-break-point .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:-1em;}.ast-comment-avatar-wrap{margin-right:0.5em;}}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}@media (max-width:921px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:921px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(https://oracletown.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(https://oracletown.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(https://oracletown.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#0274be;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .menu-link,.ast-desktop .main-header-menu.submenu-with-border .children .menu-link{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.6666666666667rem;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}.elementor-widget-heading .elementor-heading-title{margin:0;}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item, .ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}
+</style>
+<link rel='stylesheet' id='astra-menu-animation-css'  href='https://oracletown.com/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://oracletown.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://oracletown.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.1' media='all' />
+<link rel='stylesheet' id='astra-contact-form-7-css'  href='https://oracletown.com/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://oracletown.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://oracletown.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.14' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://oracletown.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.14' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://oracletown.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.14' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css'  href='https://oracletown.com/wp-content/uploads/elementor/css/post-6.css?ver=1606339556' media='all' />
+<link rel='stylesheet' id='elementor-post-kits-bootstrap-css'  href='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/css/bootstrap.min.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='elementor-post-kits-swiper-css'  href='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/css/swiper.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='elementor-post-kits-themify-icons-css'  href='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/css/themify-icons.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='elementor-post-kits-frontend-style-css'  href='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/css/frontend-style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='elementor-post-kits-responsive-css'  href='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/css/responsive.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='elementor-post-kits-widget-porfolio-css'  href='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/css/widget-porfolio.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://oracletown.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.6' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://oracletown.com/wp-content/uploads/elementor/css/global.css?ver=1606339557' media='all' />
+<link rel='stylesheet' id='elementor-post-15-css'  href='https://oracletown.com/wp-content/uploads/elementor/css/post-15.css?ver=1606340324' media='all' />
+<link rel='stylesheet' id='elementor-post-32-css'  href='https://oracletown.com/wp-content/uploads/elementor/css/post-32.css?ver=1606339557' media='all' />
+<link rel='stylesheet' id='elementor-post-46-css'  href='https://oracletown.com/wp-content/uploads/elementor/css/post-46.css?ver=1606339557' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://oracletown.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://oracletown.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://oracletown.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
+<!--[if IE]>
+<script src='https://oracletown.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.6.1' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script src='https://oracletown.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://oracletown.com/wp-json/" /><link rel="alternate" type="application/json" href="https://oracletown.com/wp-json/wp/v2/pages/15" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://oracletown.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://oracletown.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<link rel='shortlink' href='https://oracletown.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://oracletown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foracletown.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://oracletown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foracletown.com%2F&#038;format=xml" />
+</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template page-template-elementor_header_footer page page-id-15 ast-desktop ast-page-builder-template ast-no-sidebar astra-2.6.1 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent elementor-page-53 elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-15">
+
+<div 
+	class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+			<div data-elementor-type="header" data-elementor-id="32" class="elementor elementor-32 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-79d82b82 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="79d82b82" data-element_type="section" id="header_pop" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6881ba35" data-id="6881ba35" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-27b3d3fb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="27b3d3fb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-16ec4f5a" data-id="16ec4f5a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a371a87 elementor-widget elementor-widget-theme-site-title elementor-widget-heading" data-id="a371a87" data-element_type="widget" data-widget_type="theme-site-title.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://oracletown.com">Oracle Town</a></h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-167bb929" data-id="167bb929" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-400d7fb4 elementor-nav-menu__align-center elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="400d7fb4" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-400d7fb4" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-37"><a href="https://oracletown.com/" aria-current="page" class="menu-link elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://oracletown.com/about-us/" class="menu-link elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://oracletown.com/contact-us/" class="menu-link elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-35"><a href="https://oracletown.com/privacy-policy/" class="menu-link elementor-item">Privacy Policy</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-400d7fb4" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-37"><a href="https://oracletown.com/" aria-current="page" class="menu-link elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://oracletown.com/about-us/" class="menu-link elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://oracletown.com/contact-us/" class="menu-link elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-35"><a href="https://oracletown.com/privacy-policy/" class="menu-link elementor-item">Privacy Policy</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4a059869" data-id="4a059869" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-57304969 elementor-align-right elementor-hidden-phone elementor-widget elementor-widget-button" data-id="57304969" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2IiwidG9nZ2xlIjpmYWxzZX0%3D" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
+						<span class="elementor-button-text">More Information</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+				<div data-elementor-type="wp-page" data-elementor-id="15" class="elementor elementor-15" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-85f34ef elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="85f34ef" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-30cb364" data-id="30cb364" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2c46835 elementor-widget elementor-widget-alth_post_grid_2" data-id="2c46835" data-element_type="widget" data-widget_type="alth_post_grid_2.default">
+				<div class="elementor-widget-container">
+			<div class="alith-epk-block-container alith-epk-grid-container header_layout_1"><div class="alith-layout alith-grid-layout-2 alith-block-9065">
+                <div class="alith-epk-row alith-grid"><div class="alith-width-1-2"><article class="mb-sm-15 mb-md-0 alith_epk_grid_post">
+                    <div class="alith_epk_grid_post_grid_cover position-relative alith-grid-custom-height custom-rounded item-space-right">
+                        <div class="alith_epk_grid_post_grid_background position-relative" style="background-image: url(https://oracletown.com/wp-content/uploads/2020/11/500.png)"></div> 
+                        <ul class="epk-social-share">
+              <li><a href="javascript:void(0);"><i class="ti-sharethis"></i></a></li>      
+              <li><a class="fb" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Foracletown.com%2Fwhy-do-we-use-it%2F%2F&t=" title="Share on Facebook" target="_blank"><i class="ti-facebook"></i></a></li>
+              <li><a class="tw" href="https://twitter.com/intent/tweet?source=https%3A%2F%2Foracletown.com%2Fwhy-do-we-use-it%2F%2F&text=https%3A%2F%2Foracletown.com%2Fwhy-do-we-use-it%2F%2F" target="_blank" title="Tweet"><i class="ti-twitter"></i></a></li>
+              <li><a class="pt" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Foracletown.com%2Fwhy-do-we-use-it%2F%2F&description=" target="_blank" title="Pin it"><i class="ti-pinterest"></i></a></li>
+            </ul><div class="alith-epk-format-icon"></div>
+                        <div class="alith_epk_grid_caption">
+                            <div class="alith-tags mb-15"><a class="alith-tag-rounded" style="color:#; background-color:#" href="https://oracletown.com/category/oracle-town/">Oracle Town</a></div>
+                            <h3 class="alith_epk_title">
+                                <a  href="https://oracletown.com/why-do-we-use-it/">Why do we use it?</a>
+                            </h3><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 3 mins read</span><span class="alith-meta-comment"><i class="ti-comment"></i> 0 comments</span></div></div>
+                    </div>
+                </article></div><div class="alith-width-1-2"><div class="alith-width-1"><article class="mb-sm-15 mb-md-0 alith_epk_grid_post">
+                    <div class="alith_epk_grid_post_grid_cover position-relative alith-grid-custom-height-2 custom-rounded item-space-bottom-2">
+                        <div class="alith_epk_grid_post_grid_background position-relative" style="background-image: url(https://oracletown.com/wp-content/uploads/2020/11/500.png)"></div> 
+                        <ul class="epk-social-share">
+              <li><a href="javascript:void(0);"><i class="ti-sharethis"></i></a></li>      
+              <li><a class="fb" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Foracletown.com%2Fwhere-does-it-come-from%2F%2F&t=" title="Share on Facebook" target="_blank"><i class="ti-facebook"></i></a></li>
+              <li><a class="tw" href="https://twitter.com/intent/tweet?source=https%3A%2F%2Foracletown.com%2Fwhere-does-it-come-from%2F%2F&text=https%3A%2F%2Foracletown.com%2Fwhere-does-it-come-from%2F%2F" target="_blank" title="Tweet"><i class="ti-twitter"></i></a></li>
+              <li><a class="pt" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Foracletown.com%2Fwhere-does-it-come-from%2F%2F&description=" target="_blank" title="Pin it"><i class="ti-pinterest"></i></a></li>
+            </ul>
+                        <div class="alith_epk_grid_caption">
+                            <h4 class="alith_epk_title alith-second-font-size">
+                                <a  href="https://oracletown.com/where-does-it-come-from/">Where does it come from?</a>
+                            </h4><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span></div></div>
+                    </div>
+                </article></div><div class="alith-width-1-2"><article class="mb-sm-15 mb-md-0 alith_epk_grid_post">
+                    <div class="alith_epk_grid_post_grid_cover position-relative alith-grid-custom-height-2 custom-rounded item-space-right-2 item-space-top-2">
+                        <div class="alith_epk_grid_post_grid_background position-relative" style="background-image: url(https://oracletown.com/wp-content/uploads/2020/11/500.png)"></div> 
+                        <ul class="epk-social-share">
+              <li><a href="javascript:void(0);"><i class="ti-sharethis"></i></a></li>      
+              <li><a class="fb" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Foracletown.com%2Fwhat-is-lorem-ipsum%2F%2F&t=" title="Share on Facebook" target="_blank"><i class="ti-facebook"></i></a></li>
+              <li><a class="tw" href="https://twitter.com/intent/tweet?source=https%3A%2F%2Foracletown.com%2Fwhat-is-lorem-ipsum%2F%2F&text=https%3A%2F%2Foracletown.com%2Fwhat-is-lorem-ipsum%2F%2F" target="_blank" title="Tweet"><i class="ti-twitter"></i></a></li>
+              <li><a class="pt" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Foracletown.com%2Fwhat-is-lorem-ipsum%2F%2F&description=" target="_blank" title="Pin it"><i class="ti-pinterest"></i></a></li>
+            </ul>
+                        <div class="alith_epk_grid_caption">
+                            <h4 class="alith_epk_title alith-second-font-size">
+                                <a  href="https://oracletown.com/what-is-lorem-ipsum/">What is Lorem Ipsum?</a>
+                            </h4><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span></div></div>
+                    </div>
+                </article></div><div class="alith-width-1-2"><article class="mb-sm-15 mb-md-0 alith_epk_grid_post">
+                    <div class="alith_epk_grid_post_grid_cover position-relative alith-grid-custom-height-2 custom-rounded item-space-left-2 item-space-top-2">
+                        <div class="alith_epk_grid_post_grid_background position-relative" style="background-image: url(https://oracletown.com/wp-content/uploads/2020/11/500.png)"></div> 
+                        <ul class="epk-social-share">
+              <li><a href="javascript:void(0);"><i class="ti-sharethis"></i></a></li>      
+              <li><a class="fb" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Foracletown.com%2Foracle-attractions%2F%2F&t=" title="Share on Facebook" target="_blank"><i class="ti-facebook"></i></a></li>
+              <li><a class="tw" href="https://twitter.com/intent/tweet?source=https%3A%2F%2Foracletown.com%2Foracle-attractions%2F%2F&text=https%3A%2F%2Foracletown.com%2Foracle-attractions%2F%2F" target="_blank" title="Tweet"><i class="ti-twitter"></i></a></li>
+              <li><a class="pt" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Foracletown.com%2Foracle-attractions%2F%2F&description=" target="_blank" title="Pin it"><i class="ti-pinterest"></i></a></li>
+            </ul>
+                        <div class="alith_epk_grid_caption">
+                            <h4 class="alith_epk_title alith-second-font-size">
+                                <a  href="https://oracletown.com/oracle-attractions/">Oracle Attractions</a>
+                            </h4><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 4 weeks ago</span></div></div>
+                    </div>
+                </article></div></div></div>
+        </div> </div><style> .alith-block-9065 .more-than-post-error{display:block;padding:15px 35px;background: #c51b2b;border:2px solid #c40000;text-transform:capitalize;color:#fff;font-weight: 600;} .alith-block-9065 .alith-margin-right-1, .alith-block-9065 .alith-margin-right-10{
+    margin-right: 15px;
+} .alith-block-9065 .alith-margin-bottom-1, .alith-block-9065 .alith-margin-bottom-10{
+    margin-bottom: 15px;
+} .alith-block-9065 .alith-custom-padding-right{
+    padding-right: 15px;
+}.alith-block-9065 .alith-custom-padding-bottom{
+    padding-bottom: 15px;
+}.alith-block-9065 .alith-grid-custom-height{
+    height: 520px;
+}@media (max-width:480px){
+    .alith-block-9065 .alith-grid-custom-height{
+        height: 252.5px;
+    }
+}.alith-block-9065 .alith-grid-custom-height-2{
+    height: 252.5px;
+}.alith-block-9065 .item-space-right{
+    margin-right: 15px;
+}.alith-block-9065 .item-space-left{
+    margin-left: 15px;
+}.alith-block-9065 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-9065 .item-space-right-2{
+    margin-right: 7.5px;
+}.alith-block-9065 .item-space-left-2{
+    margin-left: 7.5px;
+}.alith-block-9065 .item-space-bottom-2{
+    margin-bottom: 7.5px;
+}.alith-block-9065 .item-space-top-2{
+    margin-top: 7.5px;
+}.alith-block-9065 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-9065 .item-space-top{
+    margin-top: 15px;
+}</style><script></script>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4fd2336 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4fd2336" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1895a4c" data-id="1895a4c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f40eb65 elementor-widget elementor-widget-heading" data-id="f40eb65" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Featured Posts</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6f18cc2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6f18cc2" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8b37477 elementor-widget elementor-widget-pke-portfolio-gallery" data-id="8b37477" data-element_type="widget" data-widget_type="pke-portfolio-gallery.default">
+				<div class="elementor-widget-container">
+			
+                                   
+                <div class="filter-container alith-filterizr" data-layout='sameWidth'>
+                    <div class="row">
+                                       
+                    <div class="filtr-item col-md-3 col-sm-12" data-category="">
+                                                <div class="item-container post-gallery-inner" style="margin-top: 15px; margin-bottom: 15px;">
+                            <div class="gallery-thumbnail">
+                                <img width="300" height="300" src="https://oracletown.com/wp-content/uploads/2020/11/500-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://oracletown.com/wp-content/uploads/2020/11/500-300x300.png 300w, https://oracletown.com/wp-content/uploads/2020/11/500-150x150.png 150w, https://oracletown.com/wp-content/uploads/2020/11/500.png 500w" sizes="(max-width: 300px) 100vw, 300px" />                            </div>
+                            <div class="position-cover overlay bg-overlay animated fade">
+                                <div class="post-gallery-content">
+                                    <div class="post-gallery-content-inner">
+                                        <h5 class="gallery-content-title">Why do we use it?</h5><a href='https://oracletown.com/why-do-we-use-it/' class='post-link'><i class='ti-icon ti-link circle-icon' aria-hidden='true'></i></a><a href='https://oracletown.com/wp-content/uploads/2020/11/500.png' class='post-link' data-lightbox='port-lightbox'><i class='ti-icon ti-zoom-in circle-icon' aria-hidden='true'></i></a>                                    </div>
+                                </div><!-- /.absolute-center -->
+                            </div><!-- /.overlay-content -->
+                        </div><!-- /.item-container -->
+
+                                            </div><!-- /.filtr-item -->
+                   
+
+                                       
+                    <div class="filtr-item col-md-3 col-sm-12" data-category="">
+                                                <div class="item-container post-gallery-inner" style="margin-top: 15px; margin-bottom: 15px;">
+                            <div class="gallery-thumbnail">
+                                <img width="300" height="300" src="https://oracletown.com/wp-content/uploads/2020/11/500-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://oracletown.com/wp-content/uploads/2020/11/500-300x300.png 300w, https://oracletown.com/wp-content/uploads/2020/11/500-150x150.png 150w, https://oracletown.com/wp-content/uploads/2020/11/500.png 500w" sizes="(max-width: 300px) 100vw, 300px" />                            </div>
+                            <div class="position-cover overlay bg-overlay animated fade">
+                                <div class="post-gallery-content">
+                                    <div class="post-gallery-content-inner">
+                                        <h5 class="gallery-content-title">Where does it come from?</h5><a href='https://oracletown.com/where-does-it-come-from/' class='post-link'><i class='ti-icon ti-link circle-icon' aria-hidden='true'></i></a><a href='https://oracletown.com/wp-content/uploads/2020/11/500.png' class='post-link' data-lightbox='port-lightbox'><i class='ti-icon ti-zoom-in circle-icon' aria-hidden='true'></i></a>                                    </div>
+                                </div><!-- /.absolute-center -->
+                            </div><!-- /.overlay-content -->
+                        </div><!-- /.item-container -->
+
+                                            </div><!-- /.filtr-item -->
+                   
+
+                                       
+                    <div class="filtr-item col-md-3 col-sm-12" data-category="">
+                                                <div class="item-container post-gallery-inner" style="margin-top: 15px; margin-bottom: 15px;">
+                            <div class="gallery-thumbnail">
+                                <img width="300" height="300" src="https://oracletown.com/wp-content/uploads/2020/11/500-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://oracletown.com/wp-content/uploads/2020/11/500-300x300.png 300w, https://oracletown.com/wp-content/uploads/2020/11/500-150x150.png 150w, https://oracletown.com/wp-content/uploads/2020/11/500.png 500w" sizes="(max-width: 300px) 100vw, 300px" />                            </div>
+                            <div class="position-cover overlay bg-overlay animated fade">
+                                <div class="post-gallery-content">
+                                    <div class="post-gallery-content-inner">
+                                        <h5 class="gallery-content-title">What is Lorem Ipsum?</h5><a href='https://oracletown.com/what-is-lorem-ipsum/' class='post-link'><i class='ti-icon ti-link circle-icon' aria-hidden='true'></i></a><a href='https://oracletown.com/wp-content/uploads/2020/11/500.png' class='post-link' data-lightbox='port-lightbox'><i class='ti-icon ti-zoom-in circle-icon' aria-hidden='true'></i></a>                                    </div>
+                                </div><!-- /.absolute-center -->
+                            </div><!-- /.overlay-content -->
+                        </div><!-- /.item-container -->
+
+                                            </div><!-- /.filtr-item -->
+                   
+
+                                       
+                    <div class="filtr-item col-md-3 col-sm-12" data-category="">
+                                                <div class="item-container post-gallery-inner" style="margin-top: 15px; margin-bottom: 15px;">
+                            <div class="gallery-thumbnail">
+                                <img width="300" height="300" src="https://oracletown.com/wp-content/uploads/2020/11/500-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://oracletown.com/wp-content/uploads/2020/11/500-300x300.png 300w, https://oracletown.com/wp-content/uploads/2020/11/500-150x150.png 150w, https://oracletown.com/wp-content/uploads/2020/11/500.png 500w" sizes="(max-width: 300px) 100vw, 300px" />                            </div>
+                            <div class="position-cover overlay bg-overlay animated fade">
+                                <div class="post-gallery-content">
+                                    <div class="post-gallery-content-inner">
+                                        <h5 class="gallery-content-title">Loreum Ipsum</h5><a href='https://oracletown.com/loreum-ipsum/' class='post-link'><i class='ti-icon ti-link circle-icon' aria-hidden='true'></i></a><a href='https://oracletown.com/wp-content/uploads/2020/11/500.png' class='post-link' data-lightbox='port-lightbox'><i class='ti-icon ti-zoom-in circle-icon' aria-hidden='true'></i></a>                                    </div>
+                                </div><!-- /.absolute-center -->
+                            </div><!-- /.overlay-content -->
+                        </div><!-- /.item-container -->
+
+                                            </div><!-- /.filtr-item -->
+                   
+
+                                         </div><!-- /.row -->
+                </div><!-- /.filter-container -->
+        
+        		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-19161ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19161ad" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-853045e" data-id="853045e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-04fd039 elementor-widget elementor-widget-heading" data-id="04fd039" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Category 1</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e7a2a99 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="e7a2a99" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-287e7ea elementor-widget elementor-widget-alth_post_module_5" data-id="287e7ea" data-element_type="widget" data-widget_type="alth_post_module_5.default">
+				<div class="elementor-widget-container">
+			<div class="alith-epk-block-container header_layout_1"><div class="alith-layout alith-module-layout-5 alith-block-1959">
+                <div class="alith-epk-row row"><article class="col-sm-6 mb-sm-30">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-6">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/why-do-we-use-it/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/why-do-we-use-it/">Why do we use it?</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 3 mins read</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/why-do-we-use-it/">Read More</a></div>
+                            </div>
+                        </article><article class="col-sm-6 mb-sm-30">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-6">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/where-does-it-come-from/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/where-does-it-come-from/">Where does it come from?</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 2 mins read</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/where-does-it-come-from/">Read More</a></div>
+                            </div>
+                        </article><article class="col-sm-6 mb-sm-30">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-6">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/what-is-lorem-ipsum/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/what-is-lorem-ipsum/">What is Lorem Ipsum?</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 3 mins read</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/what-is-lorem-ipsum/">Read More</a></div>
+                            </div>
+                        </article><article class="col-sm-6 mb-sm-30">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-6">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/oracle-attractions/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/oracle-attractions/">Oracle Attractions</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 4 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 1 min read</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/oracle-attractions/">Read More</a></div>
+                            </div>
+                        </article><article class="col-sm-6 mb-sm-30">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-6">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/loreum-ipsum/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/loreum-ipsum/">Loreum Ipsum</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 3 mins read</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/loreum-ipsum/">Read More</a></div>
+                            </div>
+                        </article></div>
+        </div> </div><style> .alith-block-1959 .more-than-post-error{display:block;padding:15px 35px;background: #c51b2b;border:2px solid #c40000;text-transform:capitalize;color:#fff;font-weight: 600;} .alith-block-1959 .alith-margin-right-1, .alith-block-1959 .alith-margin-right-10{
+    margin-right: 15px;
+} .alith-block-1959 .alith-margin-bottom-1, .alith-block-1959 .alith-margin-bottom-10{
+    margin-bottom: 15px;
+} .alith-block-1959 .alith-custom-padding-right{
+    padding-right: 15px;
+}.alith-block-1959 .alith-custom-padding-bottom{
+    padding-bottom: 15px;
+}.alith-block-1959 .alith-grid-custom-height{
+    height: 240px;
+}@media (max-width:480px){
+    .alith-block-1959 .alith-grid-custom-height{
+        height: 112.5px;
+    }
+}.alith-block-1959 .alith-grid-custom-height-2{
+    height: 112.5px;
+}.alith-block-1959 .item-space-right{
+    margin-right: 15px;
+}.alith-block-1959 .item-space-left{
+    margin-left: 15px;
+}.alith-block-1959 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-1959 .item-space-right-2{
+    margin-right: 7.5px;
+}.alith-block-1959 .item-space-left-2{
+    margin-left: 7.5px;
+}.alith-block-1959 .item-space-bottom-2{
+    margin-bottom: 7.5px;
+}.alith-block-1959 .item-space-top-2{
+    margin-top: 7.5px;
+}.alith-block-1959 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-1959 .item-space-top{
+    margin-top: 15px;
+}</style><script></script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-78a8c0f elementor-widget elementor-widget-heading" data-id="78a8c0f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Category 2</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e000b99 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="e000b99" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9862775 elementor-widget elementor-widget-alth_post_module_1" data-id="9862775" data-element_type="widget" data-widget_type="alth_post_module_1.default">
+				<div class="elementor-widget-container">
+			<div class="alith-epk-block-container header_layout_1"><div class="alith-layout alith-module-layout-1 alith-block-2383">
+                <div class="alith-epk-row"><div class="row">
+                        <article class="col-md-7 col-sm-12 mb-sm-30 mb-md-0 alith-custom-padding-right">
+                            <div class="custom-rounded alith-epk-mb-15">
+                                <figure class="alith_epk_thumbs zoom alith-grid-custom-height">
+                                    <a href="https://oracletown.com/why-do-we-use-it/">
+                                        <img src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                    </a> <ul class="epk-social-share">
+              <li><a href="javascript:void(0);"><i class="ti-sharethis"></i></a></li>      
+              <li><a class="fb" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Foracletown.com%2Fwhy-do-we-use-it%2F%2F&t=" title="Share on Facebook" target="_blank"><i class="ti-facebook"></i></a></li>
+              <li><a class="tw" href="https://twitter.com/intent/tweet?source=https%3A%2F%2Foracletown.com%2Fwhy-do-we-use-it%2F%2F&text=https%3A%2F%2Foracletown.com%2Fwhy-do-we-use-it%2F%2F" target="_blank" title="Tweet"><i class="ti-twitter"></i></a></li>
+              <li><a class="pt" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Foracletown.com%2Fwhy-do-we-use-it%2F%2F&description=" target="_blank" title="Pin it"><i class="ti-pinterest"></i></a></li>
+            </ul><div class="alith-epk-format-icon"></div><div class="alith-tags"><a  style="color:#; background-color:#" href="https://oracletown.com/category/oracle-town/">Oracle Town</a></div>
+                                </figure>
+                            </div>
+                            <h3 class="alith_epk_title mb-lg-15">
+                                <a  href="https://oracletown.com/why-do-we-use-it/">Why do we use it?</a>
+                            </h3><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 3 mins read</span><span class="alith-meta-comment"><i class="ti-comment"></i> 0 comments</span></div><p class="alith-epk-excerpt mt-lg-15 alith-epk-mb-15">
+                                 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making...
+                            </p> <a class="alith-epk-read-more" href="https://oracletown.com/why-do-we-use-it/">Read More</a></article>
+                        <div class="col-md-5 col-sm-12"><article class="alith-epk-row row mb-lg-15 mb-sm-15 alith-custom-padding-bottom">
+                                <div class="col-md-4 col-sm-6 mb-sm-15 mb-lg-0">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 zoom custom-rounded">
+                                        <a href="https://oracletown.com/where-does-it-come-from/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">
+                                    <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/where-does-it-come-from/">Where does it come from?</a>
+                                    </h5><div class="d-lg-block d-none"><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 2 mins read</span></div></div>     </div>
+                            </article><article class="alith-epk-row row mb-lg-15 mb-sm-15 alith-custom-padding-bottom">
+                                <div class="col-md-4 col-sm-6 mb-sm-15 mb-lg-0">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 zoom custom-rounded">
+                                        <a href="https://oracletown.com/what-is-lorem-ipsum/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">
+                                    <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/what-is-lorem-ipsum/">What is Lorem Ipsum?</a>
+                                    </h5><div class="d-lg-block d-none"><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 3 mins read</span></div></div>     </div>
+                            </article><article class="alith-epk-row row mb-lg-15 mb-sm-15 alith-custom-padding-bottom">
+                                <div class="col-md-4 col-sm-6 mb-sm-15 mb-lg-0">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 zoom custom-rounded">
+                                        <a href="https://oracletown.com/oracle-attractions/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">
+                                    <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/oracle-attractions/">Oracle Attractions</a>
+                                    </h5><div class="d-lg-block d-none"><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 4 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 1 min read</span></div></div>     </div>
+                            </article><article class="alith-epk-row row mb-lg-15 mb-sm-15 alith-custom-padding-bottom">
+                                <div class="col-md-4 col-sm-6 mb-sm-15 mb-lg-0">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 zoom custom-rounded">
+                                        <a href="https://oracletown.com/loreum-ipsum/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-6 pl-md-0">
+                                    <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/loreum-ipsum/">Loreum Ipsum</a>
+                                    </h5><div class="d-lg-block d-none"><div class="alith-epk-meta"><span class="alith-date alith-text-muted"><i class="ti-time"></i> 3 weeks ago</span><span class="alith-time-reading"><i class="ti-eye"></i> 3 mins read</span></div></div>     </div>
+                            </article></div> <!-- End .col-sm-6 -->
+            </div> <!-- End .row -->
+            </div> <!-- End .alith-epk-row -->
+        </div> <!-- End .alith-layout --></div><style> .alith-block-2383 .more-than-post-error{display:block;padding:15px 35px;background: #c51b2b;border:2px solid #c40000;text-transform:capitalize;color:#fff;font-weight: 600;} .alith-block-2383 .alith-margin-right-1, .alith-block-2383 .alith-margin-right-10{
+    margin-right: 15px;
+} .alith-block-2383 .alith-margin-bottom-1, .alith-block-2383 .alith-margin-bottom-10{
+    margin-bottom: 15px;
+} .alith-block-2383 .alith-custom-padding-right{
+    padding-right: 15px;
+}.alith-block-2383 .alith-custom-padding-bottom{
+    padding-bottom: 15px;
+}.alith-block-2383 .alith-grid-custom-height{
+    height: 240px;
+}@media (max-width:480px){
+    .alith-block-2383 .alith-grid-custom-height{
+        height: 112.5px;
+    }
+}.alith-block-2383 .alith-grid-custom-height-2{
+    height: 112.5px;
+}.alith-block-2383 .item-space-right{
+    margin-right: 15px;
+}.alith-block-2383 .item-space-left{
+    margin-left: 15px;
+}.alith-block-2383 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-2383 .item-space-right-2{
+    margin-right: 7.5px;
+}.alith-block-2383 .item-space-left-2{
+    margin-left: 7.5px;
+}.alith-block-2383 .item-space-bottom-2{
+    margin-bottom: 7.5px;
+}.alith-block-2383 .item-space-top-2{
+    margin-top: 7.5px;
+}.alith-block-2383 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-2383 .item-space-top{
+    margin-top: 15px;
+}</style><script></script>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-fcdf74f" data-id="fcdf74f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9201d8c elementor-widget elementor-widget-heading" data-id="9201d8c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Recent Posts</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1d182ad elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1d182ad" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c37ff29 elementor-widget elementor-widget-alth_post_aside_1" data-id="c37ff29" data-element_type="widget" data-widget_type="alth_post_aside_1.default">
+				<div class="elementor-widget-container">
+			<div class="alith-epk-block-container alith-epk-aside-container header_layout_1"><div class="alith-layout alith-aside-layout-1 alith-block-2747">
+                <div class="alith-epk-row row"><article class="col-sm-12 item-space-bottom">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/why-do-we-use-it/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-8 col-xs-8 pl-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/why-do-we-use-it/">Why do we use it?</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 3 weeks ago</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/why-do-we-use-it/">Read More</a></div>
+                            </div>
+                        </article><article class="col-sm-12 item-space-bottom">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/where-does-it-come-from/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-8 col-xs-8 pl-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/where-does-it-come-from/">Where does it come from?</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 3 weeks ago</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/where-does-it-come-from/">Read More</a></div>
+                            </div>
+                        </article><article class="col-sm-12 item-space-bottom">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/what-is-lorem-ipsum/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-8 col-xs-8 pl-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/what-is-lorem-ipsum/">What is Lorem Ipsum?</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 3 weeks ago</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/what-is-lorem-ipsum/">Read More</a></div>
+                            </div>
+                        </article><article class="col-sm-12 item-space-bottom">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/oracle-attractions/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-8 col-xs-8 pl-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/oracle-attractions/">Oracle Attractions</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 4 weeks ago</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/oracle-attractions/">Read More</a></div>
+                            </div>
+                        </article><article class="col-sm-12 item-space-bottom">
+                            <div class=" alith-epk-row row">
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                    <figure class="alith_epk_thumbs hover-opacity position-relative mb-lg-0 mb-sm-15 zoom custom-rounded">
+                                        <a  href="https://oracletown.com/loreum-ipsum/">
+                                            <img clas="custom-rounded" src="https://oracletown.com/wp-content/uploads/2020/11/500.png">
+                                        </a>                               
+                                    </figure>
+                                </div>
+                                <div class="col-md-8 col-sm-8 col-xs-8 pl-0">                                    
+                                    <h5 class="alith_epk_title alith-second-font-size">
+                                        <a  href="https://oracletown.com/loreum-ipsum/">Loreum Ipsum</a>
+                                    </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 3 weeks ago</span></div> <a class="alith-epk-read-more mt-sm-15 d-md-none d-sm-inline-block d-lg-inline-block" href="https://oracletown.com/loreum-ipsum/">Read More</a></div>
+                            </div>
+                        </article></div>
+        </div> </div><style> .alith-block-2747 .more-than-post-error{display:block;padding:15px 35px;background: #c51b2b;border:2px solid #c40000;text-transform:capitalize;color:#fff;font-weight: 600;} .alith-block-2747 .alith-margin-right-1, .alith-block-2747 .alith-margin-right-10{
+    margin-right: 15px;
+} .alith-block-2747 .alith-margin-bottom-1, .alith-block-2747 .alith-margin-bottom-10{
+    margin-bottom: 15px;
+} .alith-block-2747 .alith-custom-padding-right{
+    padding-right: 15px;
+}.alith-block-2747 .alith-custom-padding-bottom{
+    padding-bottom: 15px;
+}.alith-block-2747 .alith-grid-custom-height{
+    height: 240px;
+}@media (max-width:480px){
+    .alith-block-2747 .alith-grid-custom-height{
+        height: 112.5px;
+    }
+}.alith-block-2747 .alith-grid-custom-height-2{
+    height: 112.5px;
+}.alith-block-2747 .item-space-right{
+    margin-right: 15px;
+}.alith-block-2747 .item-space-left{
+    margin-left: 15px;
+}.alith-block-2747 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-2747 .item-space-right-2{
+    margin-right: 7.5px;
+}.alith-block-2747 .item-space-left-2{
+    margin-left: 7.5px;
+}.alith-block-2747 .item-space-bottom-2{
+    margin-bottom: 7.5px;
+}.alith-block-2747 .item-space-top-2{
+    margin-top: 7.5px;
+}.alith-block-2747 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-2747 .item-space-top{
+    margin-top: 15px;
+}</style><script></script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f1ac1e1 elementor-widget elementor-widget-alth_post_aside_6" data-id="f1ac1e1" data-element_type="widget" data-widget_type="alth_post_aside_6.default">
+				<div class="elementor-widget-container">
+			<div class="alith-epk-block-container alith-epk-aside-container header_layout_1"><div class="alith-layout alith-aside-layout-5 alith-block-261">
+                <div class="alith-epk-row row"><article class="col-sm-12 item-space-bottom small-title">
+                            <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size alith_epk_title_arrow">
+                                <a  href="https://oracletown.com/why-do-we-use-it/">Why do we use it?</a>
+                            </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 3 weeks ago</span></div><div class="alith_epk_divider_line_2 item-space-top"></div></article><article class="col-sm-12 item-space-bottom small-title">
+                            <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size alith_epk_title_arrow">
+                                <a  href="https://oracletown.com/where-does-it-come-from/">Where does it come from?</a>
+                            </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 3 weeks ago</span></div><div class="alith_epk_divider_line_2 item-space-top"></div></article><article class="col-sm-12 item-space-bottom small-title">
+                            <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size alith_epk_title_arrow">
+                                <a  href="https://oracletown.com/what-is-lorem-ipsum/">What is Lorem Ipsum?</a>
+                            </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 3 weeks ago</span></div><div class="alith_epk_divider_line_2 item-space-top"></div></article><article class="col-sm-12 item-space-bottom small-title">
+                            <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size alith_epk_title_arrow">
+                                <a  href="https://oracletown.com/oracle-attractions/">Oracle Attractions</a>
+                            </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 4 weeks ago</span></div><div class="alith_epk_divider_line_2 item-space-top"></div></article><article class="col-sm-12 item-space-bottom small-title">
+                            <h5 class="alith_epk_title alith_epk_second_title alith-second-font-size alith_epk_title_arrow">
+                                <a  href="https://oracletown.com/loreum-ipsum/">Loreum Ipsum</a>
+                            </h5><div class="alith-epk-meta"><span class="alith-author alith-text-muted"><img alt='' src='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/76ec88a01fd8570d4383211ff74644d7?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' loading='lazy'/><a class="alith-color-red" href="https://oracletown.com/author/admin/">admin</a></span><span class="alith-date alith-text-muted"><i class="dot-divider"></i> 3 weeks ago</span></div><div class="alith_epk_divider_line_2 item-space-top"></div></article></div>
+        </div> </div><style> .alith-block-261 .more-than-post-error{display:block;padding:15px 35px;background: #c51b2b;border:2px solid #c40000;text-transform:capitalize;color:#fff;font-weight: 600;} .alith-block-261 .alith-margin-right-1, .alith-block-261 .alith-margin-right-10{
+    margin-right: 15px;
+} .alith-block-261 .alith-margin-bottom-1, .alith-block-261 .alith-margin-bottom-10{
+    margin-bottom: 15px;
+} .alith-block-261 .alith-custom-padding-right{
+    padding-right: 15px;
+}.alith-block-261 .alith-custom-padding-bottom{
+    padding-bottom: 15px;
+}.alith-block-261 .alith-grid-custom-height{
+    height: 240px;
+}@media (max-width:480px){
+    .alith-block-261 .alith-grid-custom-height{
+        height: 112.5px;
+    }
+}.alith-block-261 .alith-grid-custom-height-2{
+    height: 112.5px;
+}.alith-block-261 .item-space-right{
+    margin-right: 15px;
+}.alith-block-261 .item-space-left{
+    margin-left: 15px;
+}.alith-block-261 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-261 .item-space-right-2{
+    margin-right: 7.5px;
+}.alith-block-261 .item-space-left-2{
+    margin-left: 7.5px;
+}.alith-block-261 .item-space-bottom-2{
+    margin-bottom: 7.5px;
+}.alith-block-261 .item-space-top-2{
+    margin-top: 7.5px;
+}.alith-block-261 .item-space-bottom{
+    margin-bottom: 15px;
+}.alith-block-261 .item-space-top{
+    margin-top: 15px;
+}</style><script></script>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+					
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+				<div data-elementor-type="footer" data-elementor-id="46" class="elementor elementor-46 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-14d866cd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="14d866cd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6d2b0376" data-id="6d2b0376" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d9d7148 elementor-widget elementor-widget-theme-site-title elementor-widget-heading" data-id="d9d7148" data-element_type="widget" data-widget_type="theme-site-title.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://oracletown.com">Oracle Town</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1a3fef7f elementor-widget elementor-widget-text-editor" data-id="1a3fef7f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper matti pibus leo.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-374a85ce elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="374a85ce" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-dc10550" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-0267196" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-dribbble elementor-repeater-item-0e260c9" target="_blank">
+						<span class="elementor-screen-only">Dribbble</span>
+						<i class="fab fa-dribbble"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-dbaeb71" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-d2d5c50" target="_blank">
+						<span class="elementor-screen-only">Pinterest</span>
+						<i class="fab fa-pinterest"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-medium elementor-repeater-item-92c0998" target="_blank">
+						<span class="elementor-screen-only">Medium</span>
+						<i class="fab fa-medium"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-217e0048" data-id="217e0048" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-34b177a elementor-widget elementor-widget-heading" data-id="34b177a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Get Started</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1118fb45 elementor-align-left elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1118fb45" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://oracletown.com/home/">					<span class="elementor-icon-list-text">Home</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://oracletown.com/about-us/">					<span class="elementor-icon-list-text">About</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://oracletown.com/contact-us/">					<span class="elementor-icon-list-text">Contact</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://oracletown.com/privacy-policy/">					<span class="elementor-icon-list-text">Privacy Policy</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://oracletown.com/sitemap">					<span class="elementor-icon-list-text">Sitemap</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-34f79ba4" data-id="34f79ba4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-31015def elementor-widget elementor-widget-heading" data-id="31015def" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">About</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-38fd4cfd elementor-align-left elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="38fd4cfd" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7e98d17d" data-id="7e98d17d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5bbfd6f8 elementor-widget elementor-widget-heading" data-id="5bbfd6f8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Categories</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6835514d elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6835514d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Loreum Ipsum</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<footer class="elementor-section elementor-top-section elementor-element elementor-element-3fe97df9 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="3fe97df9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5cec4151" data-id="5cec4151" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-68e32502 elementor-widget elementor-widget-heading" data-id="68e32502" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">© All rights reserved</h3>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4eed6630" data-id="4eed6630" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</footer>
+				</div>
+		</div>
+		
+		
+	</div><!-- #page -->
+
+	
+	<script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src='https://oracletown.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.6.1' id='astra-theme-js-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/js/main-script.js?ver=1.0.0' id='elementor_post_kits_main_script-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/js/swiper.js?ver=1.0.0' id='swiper_js-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/js/jquery.filterizr.min.js?ver=1.0.0' id='jquery_filterizr_js-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/post-kits-for-elementor/assets/js/alith-filterizr.js?ver=1.0.0' id='alith_filterizr-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"apiSettings":{"root":"https:\/\/oracletown.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://oracletown.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.1' id='contact-form-7-js'></script>
+<script src='https://oracletown.com/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.14' id='elementor-frontend-modules-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.6' id='elementor-sticky-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/oracletown.com\/wp-admin\/admin-ajax.php","nonce":"b0d4cdfed5","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/oracletown.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://oracletown.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.6' id='elementor-pro-frontend-js'></script>
+<script src='https://oracletown.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='https://oracletown.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.14' id='share-link-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.14","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/oracletown.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":23,"title":"Oracle%20Town%20%E2%80%93%20A%20Community%20Guide","excerpt":"","featuredImage":"https:\/\/oracletown.com\/wp-content\/uploads\/2020\/11\/500.png"}};
+</script>
+<script src='https://oracletown.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.14' id='elementor-frontend-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			
+	</body>
+</html>
